@@ -19,8 +19,7 @@ defaults:
 
 description: Stylish Jekyll Theme
 #头像和小图标
-avatar: /image/avatar.png
-
+avatar: https://github.com/BleuHu/BleuHu.github.io/blob/master/image/avatar.png?raw=true
 author:
   name: BleuHu
   email: huyuning931218@126.com
