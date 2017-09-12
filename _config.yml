@@ -25,7 +25,7 @@ author:
   github: BleuHu
   linkedin: 
   bio: Chase Dream，from back to the future.
-  avatar: avatar.jpg
+  avatar: https://raw.githubusercontent.com/BleuHu/BleuHu.github.io/master/image/avatar.png
   email_md5: 726351295ec82e145928582f595aa3aa
 
 rss_path: feed.xml
@@ -38,5 +38,5 @@ about-me_path: about-me.html
 
 BASE_PATH:
 
-gems:
+plugins:
   - jekyll-paginate
