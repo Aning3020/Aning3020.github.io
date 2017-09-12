@@ -18,6 +18,8 @@ defaults:
       title: 追本溯源
 
 description: Stylish Jekyll Theme
+#头像和小图标
+avatar: /image/avatar.png
 
 author:
   name: BleuHu
@@ -25,8 +27,8 @@ author:
   github: BleuHu
   linkedin: 
   bio: Chase Dream，from back to the future.
-  avatar: https://raw.githubusercontent.com/BleuHu/BleuHu.github.io/master/image/avatar.png
   email_md5: 726351295ec82e145928582f595aa3aa
+  
 
 rss_path: feed.xml
 categories_path: categories.html
