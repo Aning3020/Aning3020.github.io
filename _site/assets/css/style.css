@@ -41,7 +41,7 @@ a.nav-link:hover { color: white; }
 	font-size: 12px;
 	margin: 0 auto;
 	margin-bottom: 10px;
-	bold
+	bold;
 }
 
 #contact-list li .fa,
@@ -104,9 +104,9 @@ article{
 }
 
 .post-date {
-	text-transform: uppercase;
+	text-transform: capitalize;
 	font-size: 14px;
-	letter-spacing: 3px;
+	letter-spacing: 2px;
 }
 
 article {
