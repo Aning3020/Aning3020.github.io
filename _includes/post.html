@@ -15,6 +15,8 @@
 	     {% else %}{{ d }}th,
 	   {% endcase %}
 	   {{ page.date | date: "%Y" }}
+	   本文约{{ page.content | strip_html | strip_newlines | remove: " " | size }}字
+	   阅读全文需{{ page.content | strip_html | strip_newlines | remove: " " | size | divided_by: 350 | plus: 1 }}分钟
 	 </span>
 	  <div class="article_body">
 	  {{ content }}
