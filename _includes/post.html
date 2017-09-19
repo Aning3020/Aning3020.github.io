@@ -6,6 +6,7 @@
 
 	<div class="col-sm-10">
 	 <span class="post-date">
+	 <i class="fa fa-calendar"></i>
 	   {% assign d = page.date | date: "%d" | plus:'0' %}
 	   {{ page.date | date: "%B" }} 
 	   {% case d %}
@@ -15,8 +16,8 @@
 	     {% else %}{{ d }}th,
 	   {% endcase %}
 	   {{ page.date | date: "%Y" }}
-	   本文约{{ page.content | strip_html | strip_newlines | remove: " " | size }}字
-	   阅读全文需{{ page.content | strip_html | strip_newlines | remove: " " | size | divided_by: 350 | plus: 1 }}分钟
+	  	 <i class="fa fa-edit (alias)"></i>本文约{{ page.content | strip_html | strip_newlines | remove: " " | size }}字
+	    <i class="fa fa-eye"></i>阅读需{{ page.content | strip_html | strip_newlines | remove: " " | size | divided_by: 350 | plus: 1 }}分钟
 	 </span>
 	  <div class="article_body">
 	  {{ content }}
