@@ -15,7 +15,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: Chase Wind
+      title: Chase 
 
 description: Stylish Jekyll Theme
 #头像和小图标
