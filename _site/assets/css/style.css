@@ -84,8 +84,9 @@ article .share .gplus:hover {
 }
 
 .page-header {
-    font-family: 黑体
-	color:#90EE90;
+    font-family: 黑体;
+    font-size:14px;
+	color:#D3D3D3;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
 
@@ -127,20 +128,20 @@ article.home h5,
 article.home h6 {
 	font-family: 'Ubuntu', sans-serif;
 	font-size:20px;
-	color: #FF6A6A;
+	color:#444444 ;
 }
 
 article.home h1 a,
 article.home h2 a,
 article.home h3 a,
 article.home h4 a {
-	color: #FF6A6A;
+	color: #444444 ;
 }
 article.home h1 a:hover,
 article.home h2 a:hover,
 article.home h3 a:hover,
 article.home h4 a:hover {
-	color:#8B0000;
+	color:#D3D3D3  ;
 }
 
 .author .author-image {
