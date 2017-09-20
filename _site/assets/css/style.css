@@ -1,7 +1,8 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
 body{
-	color: #2c3e50;
+	color: #696969;
+	font-size:180%;
 }
 
 .sidebar {
@@ -84,7 +85,7 @@ article .share .gplus:hover {
 
 .page-header {
     font-family: 黑体
-	color:#black;
+	color:#00008B;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
 
@@ -113,8 +114,8 @@ article {
 	padding: 0 5% 0;
 }
 
-article.home div a, article.home pre a { color:#0000FF; }
-article.home div a:hover, article.home pre a:hover { color: #0000FF; text-decoration: none; }
+article.home div a, article.home pre a { color:#00008B; }
+article.home div a:hover, article.home pre a:hover { color:#00008B; text-decoration: none; }
 article img { max-width: 100%; }
 
 h1,h2,h3,h4,h5,h6 { font-family: 'Ubuntu', sans-serif; }
