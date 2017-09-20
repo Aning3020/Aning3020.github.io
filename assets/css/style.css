@@ -1,15 +1,15 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 
 body{
-	color: #696969;
-	font-size:180%;
+	color:#4F4F4F;
+	font-size:160%;
 }
 
 .sidebar {
 	position: fixed;
 	top: 0px;
 	padding-top: 10%;
-	background-color:#0000FF ;
+	background-color:#FFFFFF;
 	color: #fff;
 }
 
@@ -24,7 +24,7 @@ body{
 
 .sidebar-header .title a{
 	text-decoration: none;
-	color: #fff;
+	color: black;
 }
 
 a.nav-link {
@@ -35,14 +35,14 @@ a.nav-link {
 a.nav-link i{
 	font-size: 16px;
 }
-a.nav-link:hover { color: white; }
+a.nav-link:hover { color: black; }
 
 #bio {
 	font-family: "Courier New", Courier, monospace;
-	font-size: 12px;
+	font-size: 14px;
 	margin: 0 auto;
 	margin-bottom: 10px;
-	bold;
+	color:#696969;
 }
 
 #contact-list li .fa,
@@ -85,7 +85,7 @@ article .share .gplus:hover {
 
 .page-header {
     font-family: 黑体
-	color:#00008B;
+	color:#90EE90;
 	text-shadow: 1px 1px 1px rgba(150, 150, 150, 1);
 }
 
@@ -126,20 +126,21 @@ article.home h4,
 article.home h5,
 article.home h6 {
 	font-family: 'Ubuntu', sans-serif;
-	color: #0000FF;
+	font-size:20px;
+	color: #FF6A6A;
 }
 
 article.home h1 a,
 article.home h2 a,
 article.home h3 a,
 article.home h4 a {
-	color: #0000FF;
+	color: #FF6A6A;
 }
 article.home h1 a:hover,
 article.home h2 a:hover,
 article.home h3 a:hover,
 article.home h4 a:hover {
-	color:#0000FF;
+	color:#8B0000;
 }
 
 .author .author-image {
