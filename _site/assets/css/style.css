@@ -1,6 +1,11 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 		
 
+body{
+	color:#4F4F4F;
+	font-size:15px;
+}
+
 
 .sidebar {
 	position: fixed;
@@ -125,7 +130,7 @@ article.home h4,
 article.home h5,
 article.home h6 {
 	font-family: 'Ubuntu', sans-serif;
-	font-size:24px;
+	font-size:22px;
 	color:#42A5F5          ;
 }
 
