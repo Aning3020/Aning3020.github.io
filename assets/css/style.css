@@ -1,6 +1,10 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 		
 
+body{
+	color:#4F4F4F;
+	font-size:16px;
+}
 
 .sidebar {
 	position: fixed;
