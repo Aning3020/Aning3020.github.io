@@ -3,7 +3,6 @@
 blockquote {
   padding: 0 15px;
   color: grey;
-  font-size:12px;
   border-left: 4px solid grey ;
 
   cite::before {
@@ -19,7 +18,7 @@ body {
   line-height: $line-height-base;
   color: $text-color;
   background: $body-bg-color;
-  line-height:1.8;
+  line-height:1.6;
   font-size:15px;
 
 
