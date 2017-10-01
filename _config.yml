@@ -7,8 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: BleuHu
 google_analytics: huyuning BleuHu
-title: 阿宁's Blog
-
+title: 胡裕宁的个人博客
 
 defaults:
   -

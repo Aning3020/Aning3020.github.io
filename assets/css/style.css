@@ -1,5 +1,14 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
-		
+	
+	
+ img{
+        border: 2px solid #ECF0F1 ;}
+        
+  img:hover{
+      float: left;      
+  margin: 0 10px; 
+
+}	
 blockquote {
   padding: 0 15px;
   color: grey;
@@ -70,10 +79,10 @@ h2, h3, h4, h5, h6 { margin: 20px 0 15px; }
 	letter-spacing: 5px;
 	text-transform: uppercase;
 }
-
+/* blog标题*/
 .sidebar-header .title a{
 	text-decoration: none;
-	color: #FFEB3B;
+	color:#FDD835 ;
 }
 
 a.nav-link {
@@ -84,14 +93,16 @@ a.nav-link {
 a.nav-link i{
 	font-size: 16px;
 }
-a.nav-link:hover { color: black; }
+a.nav-link:hover { color: blue; }
 
 #bio {
 	font-family: "Courier New", Courier, monospace;
-	font-size: 14px;
+	font-weight:bold
+	font-size: 15px;
 	margin: 0 auto;
 	margin-bottom: 10px;
-	color:#2196F3
+	color:#2196F3;
+	
 }
 
 #contact-list li .fa,
@@ -135,14 +146,14 @@ article .share .gplus:hover {
 .page-header {
  
   
-    font-size:16px;
-	color:#FFEB3B;
+    font-size:15px;
+	color:#FDD835;
 	text-shadow: 1px 1px 0px rgba(150, 150, 150, 1);
 }
 
 @media only screen and (min-width: 768px) {
     .page-header{
-        margin-right: 70px;
+        margin-right: 80px;
     }
 }
 
@@ -191,7 +202,7 @@ article.home h1 a:hover,
 article.home h2 a:hover,
 article.home h3 a:hover,
 article.home h4 a:hover {
-	color:#42A5F5  ;
+	color:#FDD835 ;
 }
 
 .author .author-image {
