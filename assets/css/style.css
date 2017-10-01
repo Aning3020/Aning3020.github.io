@@ -4,13 +4,14 @@
 body{
 	color:#4F4F4F;
 	font-size:15px;
+	line-height: 2.1
 }
 
 
 .sidebar {
 	position: fixed;
 	top: 0px;
-	padding-top: 10%;
+	padding-top: 14%;
 	background-color:#FFFFFF;
 	color: #fff;
 }
@@ -26,7 +27,7 @@ body{
 
 .sidebar-header .title a{
 	text-decoration: none;
-	color: #FDD835;
+	color: #FFEB3B;
 }
 
 a.nav-link {
@@ -89,7 +90,7 @@ article .share .gplus:hover {
  
   
     font-size:16px;
-	color:#FDD835   ;
+	color:#FFEB3B;
 	text-shadow: 1px 1px 0px rgba(150, 150, 150, 1);
 }
 
@@ -191,9 +192,11 @@ footer {
 #nav-menu .dropdown-menu {
     left: inherit;
     right: 0px;
+    background-color:#FFEB3B;
+    
 }
 
 ul.dropdown-menu>li>a>i.fa {
-    width: 1.3em;
+    width: 1.5em;
 }
 
