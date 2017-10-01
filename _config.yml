@@ -7,7 +7,7 @@ highlighter: rouge
 markdown: kramdown
 disqus: BleuHu
 google_analytics: huyuning BleuHu
-title: BleuHu's Blog
+title: 阿宁's Blog
 
 
 defaults:
@@ -15,7 +15,7 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 自由呼吸
+      title: 
 
 description: Stylish Jekyll Theme
 #头像和小图标
@@ -24,8 +24,8 @@ author:
   name: BleuHu
   email: huyuning931218@126.com
   github: BleuHu
-  linkedin: 
-  bio: 用书写与阅读寻找自由意识。
+  douban: 
+  bio: 自由意识,野蛮生长
   email_md5: 726351295ec82e145928582f595aa3aa
   
 

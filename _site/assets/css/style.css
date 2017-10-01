@@ -1,12 +1,59 @@
 @import url(//fonts.googleapis.com/css?family=Ubuntu:500&subset=latin,latin-ext);
 		
+blockquote {
+  padding: 0 15px;
+  color: grey;
+  font-size:12px;
+  border-left: 4px solid grey ;
 
-body{
-	color:#4F4F4F;
-	font-size:15px;
-	line-height: 2.1
+  cite::before {
+    content: "-";
+    padding: 0 5px;
+  }
 }
 
+body {
+  position: relative; // Required by scrollspy
+  font-family: $font-family-base;
+  font-size: $font-size-base;
+  line-height: $line-height-base;
+  color: $text-color;
+  background: $body-bg-color;
+  line-height:1.8;
+  font-size:15px;
+
+
+}
+
+ h2, h3, h4{
+  margin: 0;
+  padding: 0;
+  font-weight: bold;
+  line-height: 1.5;
+  font-family: $font-family-headings;
+  color:#2196F3 ;
+}
+
+p { margin: 0 0 25px 0;
+}
+
+h2, h3, h4, h5, h6 { margin: 20px 0 15px; }
+
+@for $headline from 1 through 6 {
+  h#{$headline} {
+    font-size: $font-size-headings-base - $font-size-headings-step * $headline;
+  }
+
+  @include mobile() {
+    h#{$headline} {
+      font-size: $font-size-headings-base - $font-size-headings-step * $headline - 4px;
+    }
+  }
+}
+
+
+
+/* sidebar*/
 
 .sidebar {
 	position: fixed;
