@@ -31,8 +31,8 @@
   .logo { display: none; }
 
   .site-title {
-    font-size: 19px;
-    font-weight: bolder;
+    font-size: 18px;
+    font-weight: bold;
 
     @include mobile() { line-height: 34px; }
   }

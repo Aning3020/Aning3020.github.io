@@ -1,7 +1,9 @@
 .post-body {
   font-family: $font-family-posts;
+  font-size:16px;
   @include mobile() {
     word-break: break-word;
+
   }
 }
 

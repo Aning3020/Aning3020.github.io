@@ -127,12 +127,12 @@ td, th { padding: 0; }
 
 ::selection { background: #262a30; color: white; }
 
-body { position: relative; font-family: "Lato", "PingFang SC", "Microsoft YaHei", sans-serif; font-size: 14px; line-height: 2; color: #555; background: white; }
+body { position: relative; font-family: "Roboto+Mono", "PingFang SC", "Microsoft YaHei", sans-serif; font-size: 14px; line-height: 2; color: #555; background: white; }
 @media (max-width: 767px) { body { padding-right: 0 !important; } }
 @media (min-width: 768px) and (max-width: 991px) { body { padding-right: 0 !important; } }
 @media (min-width: 1600px) { body { font-size: 16px; } }
 
-h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; font-weight: bold; line-height: 1.8; font-family: "Lato", "PingFang SC", "Microsoft YaHei", sans-serif; color: black; }
+h1, h2, h3, h4, h5, h6 { margin: 0; padding: 0; font-weight: bold; line-height: 1.8; font-family: "Roboto+Mono", "PingFang SC", "Microsoft YaHei", sans-serif; color: black; }
 
 h2, h3, h4, h5, h6 { margin: 20px 0 15px; }
 
@@ -385,7 +385,7 @@ pre .k, pre .kd, pre .kn, pre .kp, pre .kr, pre .kt, pre .javascript .function {
 
 .logo { display: inline-block; margin-right: 5px; line-height: 36px; vertical-align: top; }
 
-.site-title { display: inline-block; vertical-align: top; line-height: 36px; font-size: 17px; font-weight: normal; font-family: "Lato", "PingFang SC", "Microsoft YaHei", sans-serif; }
+.site-title { display: inline-block; vertical-align: top; line-height: 36px; font-weight: normal; font-family: "Roboto+Mono", "PingFang SC", "Microsoft YaHei", sans-serif; }
 
 .site-subtitle { margin-top: 10px; font-size: 13px; color: #999; }
 
@@ -404,13 +404,13 @@ pre .k, pre .kd, pre .kn, pre .kp, pre .kr, pre .kt, pre .javascript .function {
 
 .menu .menu-item { display: inline-block; margin: 0 10px; list-style: none; }
 @media screen and (max-width: 800px) { .menu .menu-item { margin-top: 15px; } }
-.menu .menu-item a { display: block; font-size: 14px; line-height: inherit; border-bottom: 1px solid transparent; transition-property: border-color; transition-duration: 0.2s; transition-timing-function: ease-in-out; transition-delay: 0s; }
+.menu .menu-item a { display: block; font-size: 13px; line-height: inherit; border-bottom: 1px solid transparent; transition-property: border-color; transition-duration: 0.2s; transition-timing-function: ease-in-out; transition-delay: 0s; }
 .menu .menu-item a:hover { border-bottom-color: #222; }
 .menu .menu-item .fa { margin-right: 5px; }
 
 .use-motion .menu-item { opacity: 0; }
 
-.post-body { font-family: "Lato", "PingFang SC", "Microsoft YaHei", sans-serif; }
+.post-body { font-family: "Roboto+Mono", "PingFang SC", "Microsoft YaHei", sans-serif; font-size: 16px; }
 @media (max-width: 767px) { .post-body { word-break: break-word; } }
 
 .post-body .fancybox img { display: block !important; margin: 0 auto; cursor: pointer; cursor: zoom-in; cursor: -webkit-zoom-in; }
@@ -472,7 +472,7 @@ img[src*='#center'] { display: block; margin: auto; }
 .posts-expand .post-title-link:hover::before { visibility: visible; -webkit-transform: scaleX(1); -moz-transform: scaleX(1); -ms-transform: scaleX(1); -o-transform: scaleX(1); transform: scaleX(1); }
 .posts-expand .post-title-link .fa { font-size: 16px; }
 
-.posts-expand .post-meta { margin: 3px 0 60px 0; color: #999; font-family: "Lato", "PingFang SC", "Microsoft YaHei", sans-serif; font-size: 12px; text-align: center; }
+.posts-expand .post-meta { margin: 3px 0 60px 0; color: #999; font-family: "Roboto+Mono", "PingFang SC", "Microsoft YaHei", sans-serif; font-size: 12px; text-align: center; }
 .posts-expand .post-meta .post-category-list { display: inline-block; margin: 0; padding: 3px; }
 .posts-expand .post-meta .post-category-list-link { color: #999; }
 .posts-expand .post-meta .post-description { font-size: 14px; margin-top: 2px; }
@@ -527,7 +527,7 @@ img[src*='#center'] { display: block; margin: auto; }
 
 .fancybox-close, .fancybox-close:hover { border: none; }
 
-.sidebar { position: fixed; right: 0; top: 0; bottom: 0; width: 0; z-index: 1040; box-shadow: inset 0 2px 6px #FCF3CF; background: #FFF9C4; -webkit-transform: translateZ(0); }
+.sidebar { position: fixed; right: 0; top: 0; bottom: 0; width: 0; z-index: 1040; box-shadow: inset 0 2px 2px white; background: black; -webkit-transform: translateZ(0); }
 .sidebar a { color: #999; border-bottom-color: black; }
 .sidebar a:hover { color: #C0392B; }
 @media (min-width: 768px) and (max-width: 991px) { .sidebar { display: none !important; } }
@@ -567,7 +567,7 @@ img[src*='#center'] { display: block; margin: auto; }
 .links-of-author { margin-top: 20px; }
 
 .links-of-author a { display: inline-block; vertical-align: middle; margin-right: 10px; margin-bottom: 10px; border-bottom-color: #555; font-size: 13px; }
-.links-of-author a:before { display: inline-block; vertical-align: middle; margin-right: 3px; content: " "; width: 4px; height: 4px; border-radius: 50%; background: #b573ff; }
+.links-of-author a:before { display: inline-block; vertical-align: middle; margin-right: 3px; content: " "; width: 4px; height: 4px; border-radius: 50%; background: #6effff; }
 
 .links-of-blogroll { font-size: 15px; }
 
@@ -805,7 +805,7 @@ hr { margin: 20px 0; height: 2px; }
 .site-meta .brand { padding: 2px 1px; background: none; }
 @media (max-width: 767px) { .site-meta .brand { display: block; } }
 .site-meta .logo { display: none; }
-.site-meta .site-title { font-size: 19px; font-weight: bolder; }
+.site-meta .site-title { font-size: 18px; font-weight: bold; }
 @media (max-width: 767px) { .site-meta .site-title { line-height: 34px; } }
 
 .logo-line-before, .logo-line-after { display: block; overflow: hidden; margin: 0 auto; width: 75%; }
