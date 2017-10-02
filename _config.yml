@@ -219,6 +219,7 @@ font:
 social:
   #LinkLabel: Link
   GitHub: https://github.com/BleuHu
+  mail: huyuning931218@126.com
 
 
 
@@ -234,12 +235,13 @@ social_icons:
   GitHub: github
   # Twitter: twitter
   Weibo: weibo
+  mail: envelope
 
 
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: https://github.com/BleuHu/BleuHu.github.io/blob/master/assets/images/avatar.png?raw=true
+avatar: /assets/images/avatar.png
 
 
 # Table Of Contents in the Sidebar
@@ -393,7 +395,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: Sinan
+  shortname: BleuHu
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
