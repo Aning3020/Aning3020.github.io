@@ -14,7 +14,6 @@
   text-align: left;
   list-style: none;
   font-size: 14px;
-   
 
   & > ol { padding-left: 0; }
 
@@ -23,12 +22,10 @@
     transition-property: all;
     color: $toc-link-color;
     border-bottom-color: $toc-link-border-color;
-    text-decoration:none;
 
     &:hover {
-      color: #C0392B;
-      border-bottom-color: #C0392B;
-      text-decoration:none;
+      color: $toc-link-hover-color;
+      border-bottom-color: $toc-link-hover-border-color;
     }
   }
 }
@@ -37,8 +34,7 @@
   overflow: hidden;
   text-overflow: ellipsis;
   white-space: if(not jekyll-config('toc.wrap'), nowrap, null);
-  line-height: 2.5;
-
+  line-height: 1.8;
 }
 
 .post-toc .nav .nav-child { display: none; }

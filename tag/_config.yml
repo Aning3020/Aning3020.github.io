@@ -6,7 +6,7 @@
 # Site
 title: 胡裕宁的个人博客
 subtitle: 自由意志，野蛮生长
-description: 自由意志,野蛮生长,热情创造,终身学习
+description: 自由意志，野蛮生长，热情创造，终身学习
 author: BleuHu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -171,35 +171,33 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
-  host: 
+  host:
 
   # Global font settings used on <body> element.
   global:
     # external: true will load this font family from host.
     external: true
     family: Roboto+Mono 
-    size: 
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
   headings:
     external: true
-    family: 
+    family:
 
   # Font settings for posts
   # Fallback to `global` font settings.
   posts:
     external: true
     family:
-    size: 
 
   # Font settings for Logo
   # Fallback to `global` font settings.
   # The `size` option use `px` as unit
   logo:
     external: true
-    family: 
-    size: 
+    family:
+    size:
 
   # Font settings for <code> and code blocks.
   codes:
@@ -221,7 +219,6 @@ font:
 social:
   #LinkLabel: Link
   GitHub: https://github.com/BleuHu
-  mail: huyuning931218@126.com
 
 
 
@@ -237,7 +234,6 @@ social_icons:
   GitHub: github
   # Twitter: twitter
   Weibo: weibo
-  mail: envelope
 
 
 
@@ -397,7 +393,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: BleuHu
+  shortname: Sinan
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
