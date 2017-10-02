@@ -68,7 +68,10 @@
               <time title="{{ __.post.created }}" itemprop="dateCreated datePublished" datetime="{{ post.date | date_to_xmlschema }}">
                 {{ post.date | date: site.date_format }}
               </time>
+              
+
             {% endif %}
+    
 
             {% if site.post_meta.created_at and site.post_meta.updated_at %}
               <span class="post-meta-divider">|</span>
@@ -84,6 +87,7 @@
               <time title="{{ __.post.modified }}" itemprop="dateModified" datetime="{{ post.updated | date: site.date_format }}">
                 {{ post.updated | date: site.date_format }}
               </time>
+
             {% endif %}
           </span>
 

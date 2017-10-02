@@ -6,13 +6,14 @@
 }
 
 .brand {
+TEXT-ALIGN: center;
   position: relative;
   display: inline-block;
-  padding: 0 40px;
-  color: $brand-color;
+  color : black;
   background: $brand-bg;
   border-bottom: none;
-  &:hover { color: $brand-hover-color; }
+  &:hover { color:#B22222; }
+  
 }
 
 .logo {
@@ -20,15 +21,20 @@
   margin-right: 5px;
   line-height: 36px;
   vertical-align: top;
+  
+
 }
 
 .site-title {
+
   display: inline-block;
   vertical-align: top;
   line-height: 36px;
-  font-size: $logo-font-size;
+  font-size: 17px;
   font-weight: normal;
   font-family: $font-family-logo;
+
+  
 }
 
 .site-subtitle {
@@ -44,5 +50,6 @@
     opacity: 0;
     position: relative;
     top: -10px;
+    TEXT-ALIGN: center;
   }
 }
