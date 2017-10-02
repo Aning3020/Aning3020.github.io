@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title>胡裕宁的个人博客</title>
-		<description>Stylish Jekyll Theme</description>
+		<description>书写/阅读/内在驱动/终身学习/好奇/真理/美</description>
 		<link>/</link>
-		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		<atom:link href="/" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>2017-09-读书总结</title>
@@ -90,8 +90,8 @@
 &lt;p&gt;书的封面图片来自豆瓣，本来想用我自己照的照片，但是实在太占内存了。&lt;a href=&quot;https://www.douban.com/people/148687401/&quot;&gt;附上我的豆瓣&lt;/a&gt;。&lt;/p&gt;
 </description>
 				<pubDate>Sat, 30 Sep 2017 00:00:00 +0800</pubDate>
-				<link>/%E8%AF%BB%E4%B9%A6/2017/09/30/2017-09-%E8%AF%BB%E4%B9%A6%E6%80%BB%E7%BB%93.html</link>
-				<guid isPermaLink="true">/%E8%AF%BB%E4%B9%A6/2017/09/30/2017-09-%E8%AF%BB%E4%B9%A6%E6%80%BB%E7%BB%93.html</guid>
+				<link>/%E8%AF%BB%E4%B9%A6/2017/09/30/2017-09-%E8%AF%BB%E4%B9%A6%E6%80%BB%E7%BB%93/</link>
+				<guid isPermaLink="true">/%E8%AF%BB%E4%B9%A6/2017/09/30/2017-09-%E8%AF%BB%E4%B9%A6%E6%80%BB%E7%BB%93/</guid>
 			</item>
 		
 			<item>
@@ -100,10 +100,13 @@
 
 &lt;h3 id=&quot;引发触动&quot;&gt;引发触动&lt;/h3&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;“现代社会中出现很多完美主义者，其实都是不懂轻重缓急的个人评价焦虑症患者。他们关注各种细节，经常能指出别人的小错误。比如给他们看个PPT，他们很容易注意到上面有没有标点错误，却不知道你说的大局是什么。这其实是特别浪费时间的性格。
+&lt;blockquote&gt;
+  &lt;p&gt;“现代社会中出现很多完美主义者，其实都是不懂轻重缓急的个人评价焦虑症患者。他们关注各种细节，经常能指出别人的小错误。比如给他们看个PPT，他们很容易注意到上面有没有标点错误，却不知道你说的大局是什么。&lt;strong&gt;&lt;em&gt;这其实是特别浪费时间的性格&lt;/em&gt;&lt;/strong&gt;。&lt;/p&gt;
+&lt;/blockquote&gt;
 
-衣着无比整洁，东西摆放井井有条，对什么事情都有记录存档，这样的作风并不值得学习，这种人设定了错误的优先级。达到这样的状态要花费很多时间去整理生活，这些时间完全可以用来做些更有意思的事。如果你从未错过航班，你在机场浪费了太多时间。如果你从未丢过东西，你在整理上浪费了太多时间。如果你从未做错事，你做的事不够大。”    －同人于野
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;衣着无比整洁，东西摆放井井有条，对什么事情都有记录存档，这样的作风并不值得学习，这种人设定了错误的优先级。&lt;strong&gt;&lt;em&gt;达到这样的状态要花费很多时间去整理生活，这些时间完全可以用来做些更有意思的事&lt;/em&gt;&lt;/strong&gt;。如果你从未错过航班，你在机场浪费了太多时间。如果你从未丢过东西，你在整理上浪费了太多时间。如果你从未做错事，你做的事不够大。”    －同人于野&lt;/p&gt;
+&lt;/blockquote&gt;
 
 &lt;p&gt;有一天浏览网页，在各种超链接中穿梭，无意中看到了上面这两段话，突然像打通了任督二脉，产生了“aha-moment”：&lt;strong&gt;&lt;em&gt;对于时间，金钱，注意力要不平均分配，甚至对于不重要的干脆不分配。面面俱到反而导致平庸，不平均才是真理。&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -145,8 +148,8 @@
 
 </description>
 				<pubDate>Wed, 27 Sep 2017 00:00:00 +0800</pubDate>
-				<link>/%E6%80%9D%E8%80%83/2017/09/27/%E4%B8%8D%E5%B9%B3%E5%9D%87%E6%98%AF%E7%9C%9F%E7%90%86.html</link>
-				<guid isPermaLink="true">/%E6%80%9D%E8%80%83/2017/09/27/%E4%B8%8D%E5%B9%B3%E5%9D%87%E6%98%AF%E7%9C%9F%E7%90%86.html</guid>
+				<link>/%E6%80%9D%E8%80%83/2017/09/27/%E4%B8%8D%E5%B9%B3%E5%9D%87%E6%98%AF%E7%9C%9F%E7%90%86/</link>
+				<guid isPermaLink="true">/%E6%80%9D%E8%80%83/2017/09/27/%E4%B8%8D%E5%B9%B3%E5%9D%87%E6%98%AF%E7%9C%9F%E7%90%86/</guid>
 			</item>
 		
 			<item>
@@ -161,15 +164,17 @@
 
 &lt;p&gt;&lt;strong&gt;另外，故事在传达信息时具有鲜活性，往往能够唤起人们情感的共鸣。&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;“如果信息是在一种情感激荡情形下呈现的，那么与完全不受情感影响的情形相比，大多数人专注于他们的时间会更长，思考的程度会更深，并能对它们留下更深刻与持久的印象。”   －赫伯特.西蒙
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;“如果信息是在一种情感激荡情形下呈现的，那么与完全不受情感影响的情形相比，大多数人专注于他们的时间会更长，思考的程度会更深，并能对它们留下更深刻与持久的印象。”   －赫伯特.西蒙
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;h2 id=&quot;如何利用故事&quot;&gt;如何利用故事？&lt;/h2&gt;
 
 &lt;p&gt;&lt;strong&gt;利用故事的鲜活性来表达观点／传达信息，而不去证明观点。&lt;/strong&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;“如果你想了解一下苏联大清洗时期，你觉得下述哪种方式最为有效？其一，阅读《正午的黑暗》（《正午的黑暗》是一本小说）；其二，阅读关于大清洗的历史书；其三，在图书馆寻找已公开的大清洗证词抄本。我认为阅读《正午的黑暗》是最佳方式，而恰恰是因为它能够唤起大多数读者的强烈情感。”      －赫伯特.西蒙
-&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;“如果你想了解一下苏联大清洗时期，你觉得下述哪种方式最为有效？其一，阅读《正午的黑暗》（《正午的黑暗》是一本小说）；其二，阅读关于大清洗的历史书；其三，在图书馆寻找已公开的大清洗证词抄本。我认为阅读《正午的黑暗》是最佳方式，而恰恰是因为它能够唤起大多数读者的强烈情感。”      －赫伯特.西蒙
+&lt;/code&gt;&lt;/pre&gt;
+&lt;/div&gt;
 
 &lt;p&gt;&lt;strong&gt;&lt;em&gt;纯论说或科学大多冷冰冰，再有道理也没有文学更能激发人们的情绪。好故事往往能更好的带动一个观点，利用故事来传递与表达信息是一个妙招儿。&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
 
@@ -207,8 +212,8 @@
 &lt;/ul&gt;
 </description>
 				<pubDate>Sat, 23 Sep 2017 00:00:00 +0800</pubDate>
-				<link>/%E6%80%9D%E8%80%83/2017/09/23/%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9-%E6%95%85%E4%BA%8B-%E6%89%8D%E8%83%BD%E8%BF%87%E5%A5%BD%E4%B8%80%E7%94%9F.html</link>
-				<guid isPermaLink="true">/%E6%80%9D%E8%80%83/2017/09/23/%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9-%E6%95%85%E4%BA%8B-%E6%89%8D%E8%83%BD%E8%BF%87%E5%A5%BD%E4%B8%80%E7%94%9F.html</guid>
+				<link>/%E6%80%9D%E8%80%83/2017/09/23/%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9-%E6%95%85%E4%BA%8B-%E6%89%8D%E8%83%BD%E8%BF%87%E5%A5%BD%E4%B8%80%E7%94%9F/</link>
+				<guid isPermaLink="true">/%E6%80%9D%E8%80%83/2017/09/23/%E5%A6%82%E4%BD%95%E9%9D%A2%E5%AF%B9-%E6%95%85%E4%BA%8B-%E6%89%8D%E8%83%BD%E8%BF%87%E5%A5%BD%E4%B8%80%E7%94%9F/</guid>
 			</item>
 		
 			<item>
@@ -289,8 +294,8 @@
 &lt;p&gt;另附：&lt;a href=&quot;http://www.geekonomics10000.com/376&quot;&gt;同人于野强力研读&lt;/a&gt;读书法。&lt;/p&gt;
 </description>
 				<pubDate>Mon, 18 Sep 2017 00:00:00 +0800</pubDate>
-				<link>/%E8%AF%BB%E4%B9%A6/2017/09/18/%E5%AF%B9%E6%88%91%E6%9C%89%E6%95%88%E7%9A%84%E8%AF%BB%E4%B9%A6%E6%B3%95.html</link>
-				<guid isPermaLink="true">/%E8%AF%BB%E4%B9%A6/2017/09/18/%E5%AF%B9%E6%88%91%E6%9C%89%E6%95%88%E7%9A%84%E8%AF%BB%E4%B9%A6%E6%B3%95.html</guid>
+				<link>/%E8%AF%BB%E4%B9%A6/2017/09/18/%E5%AF%B9%E6%88%91%E6%9C%89%E6%95%88%E7%9A%84%E8%AF%BB%E4%B9%A6%E6%B3%95/</link>
+				<guid isPermaLink="true">/%E8%AF%BB%E4%B9%A6/2017/09/18/%E5%AF%B9%E6%88%91%E6%9C%89%E6%95%88%E7%9A%84%E8%AF%BB%E4%B9%A6%E6%B3%95/</guid>
 			</item>
 		
 			<item>
@@ -323,8 +328,8 @@
 &lt;p&gt;联想到这几个月开始对自己重建，&lt;strong&gt;其中最重要的一点就是对一切保持开放的态度&lt;/strong&gt;。世界是多元化的，不是单一结构的，你是什么样，就认为别人一定也要什么样，这就是单一价值观，这种十分不可取。另外，也不要相信故事的预设，也不要随意给人贴标签，当然最后也别给自己设限。&lt;/p&gt;
 </description>
 				<pubDate>Fri, 15 Sep 2017 00:00:00 +0800</pubDate>
-				<link>/%E8%AE%A4%E7%9F%A5/2017/09/15/%E5%85%B3%E4%BA%8E-%E5%8F%8D%E5%B8%B8%E8%AF%86-%E7%9A%84%E6%80%9D%E8%80%83.html</link>
-				<guid isPermaLink="true">/%E8%AE%A4%E7%9F%A5/2017/09/15/%E5%85%B3%E4%BA%8E-%E5%8F%8D%E5%B8%B8%E8%AF%86-%E7%9A%84%E6%80%9D%E8%80%83.html</guid>
+				<link>/%E8%AE%A4%E7%9F%A5/2017/09/15/%E5%85%B3%E4%BA%8E-%E5%8F%8D%E5%B8%B8%E8%AF%86-%E7%9A%84%E6%80%9D%E8%80%83/</link>
+				<guid isPermaLink="true">/%E8%AE%A4%E7%9F%A5/2017/09/15/%E5%85%B3%E4%BA%8E-%E5%8F%8D%E5%B8%B8%E8%AF%86-%E7%9A%84%E6%80%9D%E8%80%83/</guid>
 			</item>
 		
 			<item>
@@ -337,8 +342,8 @@
 
 </description>
 				<pubDate>Sun, 10 Sep 2017 00:00:00 +0800</pubDate>
-				<link>/%E6%80%9D%E8%80%83/2017/09/10/Why-Blog.html</link>
-				<guid isPermaLink="true">/%E6%80%9D%E8%80%83/2017/09/10/Why-Blog.html</guid>
+				<link>/%E6%80%9D%E8%80%83/2017/09/10/Why-Blog/</link>
+				<guid isPermaLink="true">/%E6%80%9D%E8%80%83/2017/09/10/Why-Blog/</guid>
 			</item>
 		
 	</channel>
