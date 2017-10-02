@@ -82,7 +82,7 @@ h2, h3, h4, h5, h6 { margin: 20px 0 15px; }
 /* blog标题*/
 .sidebar-header .title a{
 	text-decoration: none;
-	color:#FDD835 ;
+	color:#FDD835;
 }
 
 a.nav-link {
@@ -97,11 +97,11 @@ a.nav-link:hover { color: blue; }
 
 #bio {
 	font-family: "Courier New", Courier, monospace;
-	font-weight:bold
-	font-size: 15px;
+	font-weight:bold; 
+	font-size: 13px;
 	margin: 0 auto;
 	margin-bottom: 10px;
-	color:#2196F3;
+	color:	#FF0080;
 	
 }
 
@@ -242,8 +242,8 @@ footer {
 
 #nav-menu{
     position: fixed;
-    top: 45px;
-    right: 45px;
+    top: 50px;
+    right: 50px;
     z-index: 2000;
 }
 #nav-menu .dropdown-menu {
