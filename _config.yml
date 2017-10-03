@@ -292,6 +292,10 @@ sidebar:
 
 
 # Blog rolls
+links_title: Links
+links:
+  阳志平: http://www.yangzhiping.com/
+  同人于野: http://www.geekonomics10000.com/
 #links_title: Links
 #links_layout: block
 #links_layout: inline
