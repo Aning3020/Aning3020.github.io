@@ -177,21 +177,21 @@ font:
   global:
     # external: true will load this font family from host.
     external: true
-    family: Roboto+Mono 
+    family: Varela Round
     size: 
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
   headings:
     external: true
-    family: 
-    color: blue
+    family:  
+    
 
   # Font settings for posts
   # Fallback to `global` font settings.
   posts:
     external: true
-    family:
+    family: Varela Round
     size: 
 
   # Font settings for Logo
@@ -199,7 +199,7 @@ font:
   # The `size` option use `px` as unit
   logo:
     external: true
-    family: 
+    family: Varela Round
     size: 
 
   # Font settings for <code> and code blocks.
@@ -222,7 +222,7 @@ font:
 social:
   #LinkLabel: Link
   GitHub: https://github.com/BleuHu
-  mail: huyuning931218@126.com
+  email: huyuning931218@126.com
 
 
 
@@ -238,7 +238,7 @@ social_icons:
   GitHub: github
   # Twitter: twitter
   Weibo: weibo
-  mail: envelope
+  email: envelope
 
 
 
