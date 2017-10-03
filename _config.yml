@@ -14,7 +14,7 @@ date_format: '%d-%m-%Y'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'https://sinantang.github.io'
+url: 'https://BleuHu.github.io'
 baseurl:
 permalink: pretty
 
@@ -78,10 +78,10 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+favicon: http://your-domain.com/assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "Jekyll, huyuning"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
@@ -185,6 +185,7 @@ font:
   headings:
     external: true
     family: 
+    color: blue
 
   # Font settings for posts
   # Fallback to `global` font settings.
