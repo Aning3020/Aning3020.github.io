@@ -413,7 +413,7 @@ pre .k, pre .kd, pre .kn, pre .kp, pre .kr, pre .kt, pre .javascript .function {
 .post-body { font-family: "Varela Round", "Varela Round", "PingFang SC", "Microsoft YaHei", sans-serif; font-size: 16px; }
 @media (max-width: 767px) { .post-body { word-break: break-word; } }
 
-blockquote { color: #9C9C9C; border-left: 3px solid #AE0000; }
+blockquote { color: #8B8970; border-left: 3px solid #AE0000; }
 
 .post-body .fancybox img { display: block !important; margin: 0 auto; cursor: pointer; cursor: zoom-in; cursor: -webkit-zoom-in; }
 
@@ -569,7 +569,7 @@ img[src*='#center'] { display: block; margin: auto; }
 .links-of-author { margin-top: 20px; }
 
 .links-of-author a { display: inline-block; vertical-align: middle; margin-right: 10px; margin-bottom: 10px; border-bottom-color: #222222; font-size: 13px; }
-.links-of-author a:before { display: inline-block; vertical-align: middle; margin-right: 3px; content: " "; width: 4px; height: 4px; border-radius: 50%; background: magenta; }
+.links-of-author a:before { display: inline-block; vertical-align: middle; margin-right: 3px; content: " "; width: 4px; height: 4px; border-radius: 50%; background: white; }
 
 .links-of-blogroll { font-size: 13px; }
 
