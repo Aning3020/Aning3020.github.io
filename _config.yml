@@ -339,15 +339,15 @@ post_wordcount:
   separated_meta: true
 
 # Wechat Subscriber
-wechat_subscriber:
-  enabled: true
-  qcode: /assets/images/wechat-qcode.png
-  description: Want to read more? Scan and subscribe to my WeChat public space!
+#wechat_subscriber:
+ # enabled: true
+  #qcode: 
+  #description: 
 
 # Reward settings
-# reward_comment:
-#   wechatpay:
-#   alipay:
+reward_comment: 这是我的原创文章，如果觉得不错，可以打个赏~
+wechatpay: /assets/images/wechat-reward-image.JPG
+ 
 
 # Declare license on posts
 post_copyright:
