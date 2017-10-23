@@ -17,10 +17,10 @@
 
   a {
     display: block;
-    font-size: 12px;
+    font-size: 14px;
     font-family: Jaldi;
     line-height: inherit;
-    border-bottom: 1px solid $menu-link-border;
+    border-bottom: 2px solid $menu-link-border;
     transition-property: border-color;
     @include the-transition();
 

@@ -404,7 +404,7 @@ pre .k, pre .kd, pre .kn, pre .kp, pre .kr, pre .kt, pre .javascript .function {
 
 .menu .menu-item { display: inline-block; margin: 0 10px; list-style: none; }
 @media screen and (max-width: 767px) { .menu .menu-item { margin-top: 10px; } }
-.menu .menu-item a { display: block; font-size: 12px; font-family: Jaldi; line-height: inherit; border-bottom: 1px solid transparent; transition-property: border-color; transition-duration: 0.2s; transition-timing-function: ease-in-out; transition-delay: 0s; }
+.menu .menu-item a { display: block; font-size: 14px; font-family: Jaldi; line-height: inherit; border-bottom: 2px solid transparent; transition-property: border-color; transition-duration: 0.2s; transition-timing-function: ease-in-out; transition-delay: 0s; }
 .menu .menu-item a:hover { border-bottom-color: #222; }
 .menu .menu-item .fa { margin-right: 5px; }
 
@@ -593,7 +593,7 @@ img[src*='#center'] { display: block; margin: auto; }
 .links-of-author { margin-top: 20px; }
 
 .links-of-author a { display: inline-block; vertical-align: middle; margin-right: 10px; margin-bottom: 10px; border-bottom-color: #222222; font-size: 13px; }
-.links-of-author a:before { display: inline-block; vertical-align: middle; margin-right: 3px; content: " "; width: 4px; height: 4px; border-radius: 50%; background: lime; }
+.links-of-author a:before { display: inline-block; vertical-align: middle; margin-right: 3px; content: " "; width: 4px; height: 4px; border-radius: 50%; background: #ff0059; }
 
 .links-of-blogroll { font-size: 13px; }
 
