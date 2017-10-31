@@ -20,7 +20,9 @@ I'm glad that you finally discovered my site!
 
 <h3>我是谁</h3>
 
-渴望自由意识，野蛮生长。
+Born in 1993.
+
+自由意识，热情创造，终身学习。
 
 
 
