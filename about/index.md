@@ -22,7 +22,7 @@ I'm glad that you finally discovered my site!
 
 Born in 1993.
 
-自由意识，热情创造，终身学习。
+蓝天，听歌，自由，阅读，创造
 
 
 
@@ -32,6 +32,6 @@ Born in 1993.
 
 * <i class="fa fa-envelope"></i>huyuning931218@126.com
 * <i class="fa fa-github"></i><a href="http://www.github.com/BleuHu/" target="_blank" title="BleuHu的github">我的GitHub</a>
-* <i class="fa fa-pencil"></i><a href="http://www.huyuning.com" target="_blank" title="我的个人博客">我的个人博客（www.huyuning.com）</a>
+* <i class="fa fa-pencil"></i><a href="http://www.huyuning.com" target="_blank" title="我的个人博客">光影（www.huyuning.com）</a>
 
 
