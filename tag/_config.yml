@@ -1,20 +1,20 @@
-# ---------------------------------------------------------------
+﻿# ---------------------------------------------------------------
 # Jekyll & Global Configuration
 ## Docs: https://jekyllrb.com/docs/configuration/
 # ---------------------------------------------------------------
 
 # Site
-title: 胡裕宁的个人博客
-subtitle: 自由意志，野蛮生长
-description: 自由意志，野蛮生长，热情创造，终身学习
-author: BleuHu
+title: 静水流深
+subtitle: 
+description: Pain is invevitable, suffering is optional.
+author: 刘 杰
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
 date_format: '%d-%m-%Y'
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com' and baseurl as '/child'
-url: 'https://sinantang.github.io'
+url: 'http://jason2960.github.io'
 baseurl:
 permalink: pretty
 
@@ -78,15 +78,15 @@ plugins:
 # ---------------------------------------------------------------
 
 # Put your favicon.ico into `assets/` directory.
-favicon: /assets/favicon.ico
+favicon: assets/favicon.ico
 
 # Set default keywords (Use a comma to separate)
-keywords: "Jekyll, NexT"
+keywords: "Jekyll, liujie"
 
 # Set rss to false to disable feed link.
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
-rss: false
+rss:
 
 # Specify the date when the site was setup
 since: 2017
@@ -154,8 +154,8 @@ menu_icons:
 # ---------------------------------------------------------------
 
 # Schemes
-# scheme: Muse
-scheme: Mist
+scheme: Muse
+# scheme: Mist
 #scheme: Pisces
 
 
@@ -171,33 +171,36 @@ font:
   enable: true
 
   # Uri of fonts host. E.g. //fonts.googleapis.com (Default)
-  host:
+  host: 
 
   # Global font settings used on <body> element.
   global:
     # external: true will load this font family from host.
     external: true
-    family: Roboto+Mono 
+    family: Varela Round
+    size: 
 
   # Font settings for Headlines (h1, h2, h3, h4, h5, h6)
   # Fallback to `global` font settings.
   headings:
     external: true
-    family:
+    family:  
+    
 
   # Font settings for posts
   # Fallback to `global` font settings.
   posts:
     external: true
-    family:
+    family: Varela Round
+    size: 
 
   # Font settings for Logo
   # Fallback to `global` font settings.
   # The `size` option use `px` as unit
   logo:
     external: true
-    family:
-    size:
+    family: Varela Round
+    size: 
 
   # Font settings for <code> and code blocks.
   codes:
@@ -218,7 +221,9 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
-  GitHub: https://github.com/BleuHu
+  email: mailto:3385.jie@163.com
+  GitHub: https://github.com/jason2960
+  豆瓣: 
 
 
 
@@ -234,12 +239,14 @@ social_icons:
   GitHub: github
   # Twitter: twitter
   Weibo: weibo
+  email: envelope
+  
 
 
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /assets/images/avatar.png
+avatar: https://i.imgur.com/TkSrLbZ.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -262,8 +269,8 @@ toc:
 
 sidebar:
   # Sidebar Position, available value: left | right
-  position: left
-  #position: right
+  #position: left
+  position: right
 
   # Sidebar Display, available value:
   #  - post    expand on posts automatically. Default.
@@ -287,6 +294,10 @@ sidebar:
 
 
 # Blog rolls
+links_title: Links
+links:
+  阳志平: http://www.yangzhiping.com/
+  同人于野: http://www.geekonomics10000.com/
 #links_title: Links
 #links_layout: block
 #links_layout: inline
@@ -328,15 +339,15 @@ post_wordcount:
   separated_meta: true
 
 # Wechat Subscriber
-wechat_subscriber:
-  enabled: true
-  qcode: /assets/images/wechat-qcode.png
-  description: Want to read more? Scan and subscribe to my WeChat public space!
+#wechat_subscriber:
+ # enabled: true
+  #qcode: 
+  #description: 
 
 # Reward settings
-# reward_comment:
-#   wechatpay:
-#   alipay:
+reward_comment: 
+wechatpay: 
+ 
 
 # Declare license on posts
 post_copyright:
@@ -393,7 +404,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: Sinan
+  shortname: liujie
   count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true

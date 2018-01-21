@@ -1,6 +1,6 @@
-# BleuHu.github.io
-[我的个人博客:www.huyuning.com](http://www.huyuning.com/)
-About Me： born in 1993.
+# jason.github.io
+[我的个人博客:http://jason2960.github.io](http://jason2960.github.io)
+About Me： 
 
 
 
