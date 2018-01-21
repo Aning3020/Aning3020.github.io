@@ -89,7 +89,7 @@ keywords: "Jekyll, liujie"
 rss:
 
 # Specify the date when the site was setup
-since: 2017
+since: 2018
 
 # icon between year and author @Footer
 authoricon: heart
@@ -246,7 +246,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: https://i.imgur.com/TkSrLbZ.jpg
+avatar: /assets/images/avatar.jpg
 
 
 # Table Of Contents in the Sidebar
@@ -345,8 +345,8 @@ post_wordcount:
   #description: 
 
 # Reward settings
-reward_comment: 
-wechatpay: 
+reward_comment: 这是我的原创文章，如果觉得不错，可以打个赏~
+wechatpay: /assets/images/wechat-reward-image.JPG
  
 
 # Declare license on posts
