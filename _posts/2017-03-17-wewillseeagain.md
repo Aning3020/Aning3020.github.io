@@ -3,7 +3,7 @@ layout: post
 title: 我们会再次相遇
 date: 2017-03-17
 categories: assay
-tags: movies 
+tags: movie
 ---
 
 ### 总有一天我们会再次相遇
