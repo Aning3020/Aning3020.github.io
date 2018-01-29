@@ -3,10 +3,6 @@ title: about me
 layout: page
 ---
 
-Hi
-
-I'm glad that you finally discovered my site!
-
 
  <h3>为什么写个人博客</h3>
   
@@ -23,11 +19,11 @@ I'm glad that you finally discovered my site!
 
 而立之年，书生气犹存，浸润在琐碎的生活里，在工作的裹挟压迫下，愿为成为一名终身学习者，安静的看书，写作，去创作自己的人生故事。
 
-<h3>勾搭我</h3>
+<h3>联系我</h3>
 
 * <i class="fa fa-envelope"></i>3385.jie@163.com
-* <i class="fa fa-github"></i><a href="http://www.github.com/jason2960/" target="_blank" title="liujie的github">我的GitHub</a>
-* <i class="fa fa-pencil"></i><a href="http://www.liujie2018.com" target="_blank" title="我的个人博客">静水流深（http://www.liujie2018.com）</a>
-* <i class="fa fa-pencil"></i><a href="http://www.liujie2018.com" target="_blank" title="我的简书">深流（http://www.jianshu.com/u/b1fcd74298c6）</a>
+* <i class="fa fa-github"></i><a href="http://www.github.com/jason2960/" target="_blank" title="liujie的github">GitHub</a>
+* <i class="fa fa-pencil"></i><a href="http://www.liujie2018.com" target="_blank" title="我的个人博客">[静水流深](http://www.liujie2018.com)</a>
+* <i class="fa fa-pencil"></i><a href="http://www.liujie2018.com" target="_blank" title="我的简书">[深流](http://www.jianshu.com/u/b1fcd74298c6)</a>
 
 
