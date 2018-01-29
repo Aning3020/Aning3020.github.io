@@ -2,7 +2,7 @@
 layout: post
 title: 写作的最小行动
 date: 2017-11-30 
-categories: assay
+categories: essay
 tags: write
 ---
 

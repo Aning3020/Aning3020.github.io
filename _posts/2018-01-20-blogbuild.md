@@ -2,8 +2,8 @@
 layout: post
 title: 博客落成记
 date:  2018-01-20
-categories: blog
-tags: write
+categories: essay
+tags: blog
 ---
 
 我在2016年毕业之时，就有写作的打算，后来也一度想申请个公众号。今年上完认知写作学课程后，我只想搭建个独立博客，认真写作。本来想在今年十一搭建好博客，当作是送给自己的生日礼物（生日在10月5日）。不凑巧那段时间刚好有其它事情要处理，后来忙起来一发不可收拾，眼看着到2018年了，遂下定决心，2018从博客开始，并与12月30动身，启动搭建工程。
@@ -95,4 +95,6 @@ tags: write
 - [Github Pages + Jekyll 独立博客一小时快速搭建&上线指南](http://playingfingers.com/2016/03/26/build-a-blog/)
 
 - [从零开始新建Hexo博客](http://blog.junyu.io/posts/0002-start-blog-with-hexo.html)系列文章。
+
+- [如何利用 Github 和 Jekyll 快速搭建个人博客](http://zhengxixuan.com/github-jekyll.html) 这篇是博客搭建完成后，无意间发现，但是文章中介绍的流程和思路非常简洁，因此也增补进来（20180129）。
 

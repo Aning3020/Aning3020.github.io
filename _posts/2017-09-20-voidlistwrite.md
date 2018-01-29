@@ -2,7 +2,7 @@
 layout: post
 title: 如何避免清单式写作
 date: 2017-09-20 
-categories: assay
+categories: essay
 tags: write
 ---
 

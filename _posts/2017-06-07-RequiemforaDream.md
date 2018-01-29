@@ -2,7 +2,7 @@
 layout: post
 title: 万物皆有裂痕，那是光照进来的地方
 date: 2017-06-07
-categories: assay
+categories: essay
 tags: movie
 ---
 

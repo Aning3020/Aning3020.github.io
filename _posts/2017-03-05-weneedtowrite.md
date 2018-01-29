@@ -2,8 +2,8 @@
 layout: post
 title: 生活险些就要变成常规，我们需要写作
 date: 2017-03-05
-categories: 
-tags: 
+categories: essay
+tags: read
 ---
 
 

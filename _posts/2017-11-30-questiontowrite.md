@@ -2,7 +2,7 @@
 layout: post
 title: 写作新手的几个问题浅谈
 date: 2017-11-30 
-categories: assay
+categories: essay
 tags: write
 ---
 

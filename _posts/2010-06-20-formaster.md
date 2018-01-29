@@ -2,7 +2,7 @@
 layout: post
 title: 那一年，我在考研
 date: 2010-06-20
-categories: learn
+categories: essay
 tags: learn
 ---
 

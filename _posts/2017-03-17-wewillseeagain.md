@@ -2,7 +2,7 @@
 layout: post
 title: 我们会再次相遇
 date: 2017-03-17
-categories: assay
+categories: essay
 tags: movie
 ---
 

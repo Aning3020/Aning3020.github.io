@@ -2,7 +2,7 @@
 layout: post
 title: 生命里的石头
 date: 2017-04-07
-categories: write
+categories: essay
 tags: movie
 ---
 

@@ -2,7 +2,7 @@
 layout: post
 title: 写作，你需要支趁手的笔
 date: 2017-10-15
-categories: assay
+categories: essay
 tags: write
 ---
 

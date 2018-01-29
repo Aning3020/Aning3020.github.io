@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 你在天堂等我
+title: 在天堂等我
 date: 2017-04-26
-categories: assay
+categories: essay
 tags: movie
 ---
 

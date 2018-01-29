@@ -2,7 +2,7 @@
 layout: post
 title: 我为什么学写作
 date: 2017-06-20
-categories: assay
+categories: essay
 tags: write
 ---
 
