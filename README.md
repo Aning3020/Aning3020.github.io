@@ -1,6 +1,18 @@
 # BleuHu.github.io
-[我的个人博客:www.huyuning.com](http://www.huyuning.com/)
-About Me： born in 1993.
+[My blog : www.huyuning.com](http://www.huyuning.com/)
+
+- a cool girl born in 1993
+-  blue sky
+   - runnning
+   - bicycling
+-  music
+  - Desert Zhang  
+-  book
+  - literature
+  - cognitive psychology
+- sports
+  - lift
+
 
 
 
