@@ -6,12 +6,12 @@
    - runnning
    - bicycling
 -  music
-  - Desert Zhang  
+   - Desert Zhang  
 -  book
-  - literature
-  - cognitive psychology
+   - literature
+   - cognitive psychology
 - sports
-  - lift
+   - lift
 
 
 
