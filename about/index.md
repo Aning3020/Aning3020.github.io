@@ -20,18 +20,23 @@ I'm glad that you finally discovered my site!
 
 <h3>我是谁</h3>
 
-Born in 1993.
-
-蓝天，听歌，自由，阅读，创造
-
-
-
-
+A  girl born in 1993
+ 
+-  blue sky
+-  music
+   - Deserts Zhang  
+-  book
+   - literature
+   - psychology
+-  sports
+   - lift
+   - runnning
+   - bicycling
 
 <h3>勾搭我</h3>
 
 * <i class="fa fa-envelope"></i>huyuning931218@126.com
 * <i class="fa fa-github"></i><a href="http://www.github.com/BleuHu/" target="_blank" title="BleuHu的github">我的GitHub</a>
-* <i class="fa fa-pencil"></i><a href="http://www.huyuning.com" target="_blank" title="我的个人博客">光影（www.huyuning.com）</a>
+* <i class="fa fa-pencil"></i><a href="http://www.huyuning.com" target="_blank" title="我的个人博客"> River Flow（www.huyuning.com）</a>
 
 

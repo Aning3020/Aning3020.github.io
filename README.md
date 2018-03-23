@@ -1,17 +1,17 @@
 # BleuHu.github.io
 [My blog : www.huyuning.com](http://www.huyuning.com/)
 
-- a cool girl born in 1993
+-  a  girl born in 1993
 -  blue sky
-   - runnning
-   - bicycling
 -  music
-   - Desert Zhang  
+   - Deserts Zhang  
 -  book
    - literature
    - cognitive psychology
 - sports
    - lift
+   - runnning
+   - bicycling
 
 
 
