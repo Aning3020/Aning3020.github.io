@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Basic Space
-subtitle: fresh air
-description: 住在混沌深海里，住在神秘云朵里
+title: River Flow
+subtitle: 
+description: FREEDOM
 author: BleuHu
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -246,7 +246,7 @@ social_icons:
 
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
-avatar: /assets/images/avatar.jpg
+avatar: /assets/images/avatar.jpeg
 
 
 # Table Of Contents in the Sidebar
