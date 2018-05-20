@@ -1,7 +1,13 @@
 ---
 layout: post
 title: 如何对抗内在失序？
+<<<<<<< HEAD
 tags: [反思，心流]
+||||||| merged common ancestors
+tags: [反思]
+=======
+tags: 反思,心流
+>>>>>>> origin/master
 category: 思考
 ---
 
