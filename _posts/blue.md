@@ -1,3 +1,11 @@
+---
+layout: post
+title: 蓝
+tags: [诗]
+category: 个人创作
+---
+
+
 # 蓝
 
 白色的空荡房间    
