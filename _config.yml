@@ -4,7 +4,13 @@
 # ---------------------------------------------------------------
 
 # Site
+<<<<<<< HEAD
 title: 树长在云里
+||||||| merged common ancestors
+title: Lunatic Game
+=======
+title: △delta
+>>>>>>> origin/master
 subtitle: 
 description: 风
 author: BleuHu
