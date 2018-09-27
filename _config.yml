@@ -223,7 +223,7 @@ social:
   #LinkLabel: Link
   email: mailto:huyuning931218@126.com
   GitHub: https://github.com/BleuHu
-  豆瓣: https://www.douban.com/people/148687401/
+  豆瓣: https://www.douban.com/people/171888306/
 
 
 
@@ -298,6 +298,7 @@ links_title: Links
 links:
   阳志平: http://www.yangzhiping.com/
   同人于野: http://www.geekonomics10000.com/
+  友情链接 - 认知写作学学员黄页: https://cogwriters.github.io/
 #links_title: Links
 #links_layout: block
 #links_layout: inline
@@ -345,7 +346,7 @@ post_wordcount:
   #description: 
 
 # Reward settings
-reward_comment: 这是我的原创文章，如果觉得不错，可以打个赏~
+reward_comment: 这是我的原创文章，如果觉得不错，打个赏呗~
 wechatpay: /assets/images/wechat-reward-image.JPG
  
 
