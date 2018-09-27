@@ -53,8 +53,6 @@ category: 生活
 PS.怀念初夏去五道口风车转盘盘腿码字的日子，现在的文字敏感性没那时好了。（哭
 
 ![](http://oax0nr6r7.bkt.clouddn.com/2018-09-27-WechatIMG183.jpeg)
-![](http://oax0nr6r7.bkt.clouddn.com/2018-09-27-WechatIMG184.jpeg)
-![](http://oax0nr6r7.bkt.clouddn.com/2018-09-27-WechatIMG179.jpeg)
 ![](http://oax0nr6r7.bkt.clouddn.com/2018-09-27-WechatIMG180.jpeg)
 
 ## 歌词时间
