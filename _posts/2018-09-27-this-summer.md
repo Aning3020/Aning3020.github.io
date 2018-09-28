@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 生命溢出夏季
+title: 生命蔓延夏季
 tags: [生活,思考,随笔]
 category: 生活
 ---
