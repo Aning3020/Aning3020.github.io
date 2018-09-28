@@ -224,6 +224,7 @@ social:
   email: mailto:huyuning931106@gmail.com
   GitHub: https://github.com/BleuHu
   豆瓣: https://www.douban.com/people/171888306/
+  Wechat: 树长在云里
 
 
 
@@ -240,6 +241,7 @@ social_icons:
   # Twitter: twitter
   Weibo: weibo
   email: envelope
+  Wechat: Wechat
   
 
 
@@ -296,8 +298,8 @@ sidebar:
 # Blog rolls
 links_title: Links
 links:
-  阳志平: http://www.yangzhiping.com/
   凋寒-不成文: https://hanlin0516.github.io/
+  阳志平: http://www.yangzhiping.com/
   同人于野: http://www.geekonomics10000.com/
   认知写作学学员黄页: https://cogwriters.github.io/
 #links_title: Links
