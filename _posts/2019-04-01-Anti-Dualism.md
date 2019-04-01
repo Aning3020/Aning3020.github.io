@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 建筑师 | 二元性
-tags: [思考,绘本，文本]
 category: 思考
+tags: [思考,绘本，文本]
 ---
 
 
