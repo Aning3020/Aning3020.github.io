@@ -3,25 +3,23 @@ title: about me
 layout: page
 ---
 
-Hi
-
-I'm glad that you finally discovered my site!
-
-## 歌词时间
+## LyricTime
 
   - 你栽出千万花的一生，四季中径自盛放也凋零，你走出千万人群独行，往柳暗花明山穷水尽去。玫瑰色的你。 - 张悬 「玫瑰色的你」
-  - 你是救我命的那片云，我被时间拖着走不停，解救我于水深火热，这样的你不是我的。- 安全着陆「即将在夜幕下对你诉说」
+
   - 她说下午三点阳光射进教堂的角度，能知道你前世是狼人还是蝙蝠。辛辛苦苦，全家怕日出。 - 周杰伦「威廉古堡」
+  
   - Life is no Nintendo game.Maybe that's what happens when a tornado meets a volcano . - Emniem 「love the way you lie」.
+  
   - If your time to you is worth savin’ Then you better start swimming Or you’ll sink like a stone For the times they are a changin.  -   Bob Dylan
 
-## About Me
+## AboutMe
 
-缘分是神，游戏是我们。白日依山尽，临风听暮寒。
+缘分是神，游戏是我们。
 
 ## Why Blog?
   
-  A place share my thoughts <a href="https://sivers.org/sharing">分享即是意义</a>
+  A place share my thoughts . <a href="https://sivers.org/sharing">分享即是意义</a>
   
 ## Find Me
 

@@ -6,7 +6,7 @@
 # Site
 title: 树长在云里
 subtitle: 
-description: 临风听暮寒
+description: anti - dualism
 author: 十二月晴朗阿宁
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: en
@@ -298,9 +298,7 @@ sidebar:
 # Blog rolls
 links_title: Links
 links:
-  凋寒-不成文: https://hanlin0516.github.io/
-  阳志平: http://www.yangzhiping.com/
-  同人于野: http://www.geekonomics10000.com/
+  素生: http://z.arlmy.me/
   认知写作学学员黄页: https://cogwriters.github.io/
 #links_title: Links
 #links_layout: block
