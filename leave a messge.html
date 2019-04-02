@@ -6,15 +6,20 @@ layout: page
   
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.css">
   <script src="https://cdn.jsdelivr.net/npm/gitalk@1/dist/gitalk.min.js"></script>
+  
   <div id="gitalk-container"></div>
   
+  mounted(){
+  this.gitalk.render("gitalk-container");
+}
+  
   const gitalk = new Gitalk({
-  clientID: 'GitHub Application Client ID',
-  clientSecret: 'GitHub Application Client Secret',
-  repo: 'GitHub repo',
-  owner: 'GitHub repo owner',
-  admin: ['GitHub repo owner and collaborators, only these guys can initialize github issues'],
-  id: location.pathname,      // Ensure uniqueness and length less than 50
+  clientID: 'de226b917ee12d5feafe',
+  clientSecret: '21847c9cf8ecc707628b1fd7491bdf1ddf852487',
+  repo: 'BleuHu.github.io',
+  owner: 'BleuHu',
+  admin: ['BleuHu'],
+  id: /Users/apple     // Ensure uniqueness and length less than 50
   distractionFreeMode: false  // Facebook-like distraction free mode
 })
 
