@@ -72,7 +72,7 @@ plugins:
 # - jemoji
  - jekyll-sitemap
  - jekyll-feed
- - jekyll-gitalk 
+ - Gitalk 
 
 # ---------------------------------------------------------------
 # Site Information Settings
@@ -125,7 +125,7 @@ menu:
   tags: /tags/
   archives: /archives/
   about: /about/
-  leave a message: /leave a message/
+  leave_a_message: /leave_a_message/
 
   # sitemap: /sitemap.xml
   # commonweal: /404.html
@@ -147,6 +147,7 @@ menu_icons:
   archives: archive
   sitemap: sitemap
   commonweal: heartbeat
+  leave_a_message: talk
   # search:
 
 
