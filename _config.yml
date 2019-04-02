@@ -72,6 +72,7 @@ plugins:
 # - jemoji
  - jekyll-sitemap
  - jekyll-feed
+ - jekyll-gitalk 
 
 # ---------------------------------------------------------------
 # Site Information Settings
