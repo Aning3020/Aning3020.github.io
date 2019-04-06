@@ -3,7 +3,9 @@
  * It's based on poole, learn more at
  * https://github.com/ariestiyansyah/naringu.
  *
- * Theme  version is designed by  bleu, and base on Yixuan
+ * Theme geek-green version is designed by Yixuan, and refined by Zoom Quiet + Azeril
+ * Twitter: https://twitter.com/Yixuan5402
+ * GitHub: http://github.com/YixuanFranco
  /
 
 
@@ -80,11 +82,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 3rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 2rem;
 }
 h3 {
   margin-top: 2rem;
