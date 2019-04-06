@@ -38,7 +38,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  border: 1px solid #53b45e;
+  border: 1px solid 	#FFFF00;
 }
 
 html {
@@ -61,11 +61,11 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: #00CED1;
+  color: 	#FFFF00;
   text-decoration: none;
 }
 a strong {
-  color: #00CED1;
+  color: 	#FFFF00;
 }
 
 /* `:focus` is linked to `:hover` for basic accessibility */
@@ -82,14 +82,14 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 5rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 2rem;
+  font-size: 3rem;
 }
 h3 {
-  margin-top: 1.5rem;
+  margin-top: 2rem;
   font-size: 1.25rem;
 }
 h4, h5, h6 {
@@ -105,7 +105,7 @@ p {
 }
 
 strong {
-  color: #00FFFF;
+  color: #FFFF00;
 }
 
 
@@ -128,19 +128,19 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid #53b45e;
-  border-bottom: 1px solid #53b45e;
+  border-top: 1px solid 	#FFFF00;
+  border-bottom: 1px solid 	#FFFF00;
 }
 
 abbr {
   font-size: 85%;
   font-weight: bold;
-  color: #00CED1;
+  color: 	#FFFF00;
   text-transform: uppercase;
 }
 abbr[title] {
   cursor: help;
-  border-bottom: 1px dotted #53b45e;
+  border-bottom: 1px dotted 	#FFFF00;
 }
 
 /*
@@ -245,13 +245,13 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  border: 1px solid #53b45e;
+  border: 1px solid 	#FFFF00;
   border-collapse: collapse;
 }
 td,
 th {
   padding: .25rem .5rem;
-  border: 1px solid #53b45e;
+  border: 1px solid 	#FFFF00;
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
@@ -372,7 +372,7 @@ tbody tr:nth-child(odd) th {
 /* Sidebar content */
 .sidebar a {
   font-weight: normal;
-  color: 	#00FFFF;
+  color: 	#FFFF00;
 }
 .sidebar-item {
   padding: 1rem;
@@ -395,7 +395,7 @@ a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
   background-color: #191E1E;
-  border-color: #7FFFAA;
+  border-color: 	#FFFF00;
 }
 
 @media (min-width: 48em) {
@@ -540,7 +540,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: 	#00FFFF;
+  color: 		#FFFF00;
 }
 .page-title,
 .post-title {
@@ -563,8 +563,8 @@ a.sidebar-nav-item:focus {
 .related {
   /*padding-top: 2rem;*/
   /*padding-bottom: 2rem;*/
-  border-top: 1px solid 	#00FFFF;
-  /*border-bottom: 1px solid 	#00FFFF;*/
+  border-top: 1px solid 		#FFFF00;
+  /*border-bottom: 1px solid 		#FFFF00;*/
 }
 .related-posts {
   padding-left: 0;
@@ -579,7 +579,7 @@ a.sidebar-nav-item:focus {
   color: #999;
 }
 .related-posts li a:hover {
-  color: #268bd2;
+  color: 	#FFFF00;
   text-decoration: none;
 }
 .related-posts li a:hover small {
@@ -653,7 +653,7 @@ a.pagination-item:hover {
 .theme-6dd .container a,
 .theme-6dd .sidebar-toggle,
 .theme-6dd .related-posts li a:hover {
-  color: #	#00FFFF;
+  color: #FFFF00;
 }
 
 
@@ -690,5 +690,5 @@ a.pagination-item:hover {
 .footer {
   padding-top: 10px;
   padding-bottom: 10px;
-  border-top: 1px solid 	#00FFFF;
+  border-top: 1px solid 	#FFFF00;
 }
