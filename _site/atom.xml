@@ -4,7 +4,7 @@
  <title>阿宁</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2019-04-06T19:21:17+08:00</updated>
+ <updated>2019-04-06T19:18:33+08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>阿宁</name>
@@ -13,197 +13,1210 @@
 
  
  <entry>
-   <title>Hello Naringu!</title>
-   <link href="http://localhost:4000/naringu/2015/02/21/Hello-Naringu/"/>
-   <updated>2015-02-21T00:00:00+08:00</updated>
-   <id>http://localhost:4000/naringu/2015/02/21/Hello-Naringu</id>
-   <content type="html">&lt;p&gt;Naringu is a hacker like jekyll dark theme, it’s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
+   <title>思维话痨 | 190325 - 190331</title>
+   <link href="http://localhost:4000/%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E5%A4%A7%E8%84%91%20%7C%20%E6%80%9D%E8%80%83/2019/04/05/thinking-fragment-190325-190331/"/>
+   <updated>2019-04-05T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E5%A4%A7%E8%84%91%20%7C%20%E6%80%9D%E8%80%83/2019/04/05/thinking-fragment-190325-190331</id>
+   <content type="html">&lt;p&gt;脑中飘着太多思想的云朵，写字为了把它们抓下来，不成为过眼云烟。分享每周的思维片段，此为 190325 - 190331 。&lt;/p&gt;
 
-&lt;h3 id=&quot;built-on-poole&quot;&gt;Built on Poole&lt;/h3&gt;
-
-&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Lanyon here) includes the following:&lt;/p&gt;
-
+&lt;h2 id=&quot;0325&quot;&gt;0325&lt;/h2&gt;
 &lt;ul&gt;
-  &lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-  &lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-  &lt;li&gt;Easily scalable text and component sizing with &lt;code class=&quot;highlighter-rouge&quot;&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-  &lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-  &lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-  &lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
+  &lt;li&gt;乔布斯访谈 - &lt;a href=&quot;https://www.bilibili.com/video/av1623373/?spm_id_from=333.788.videocard.3&quot;&gt;遗失的访谈&lt;/a&gt; 。
+    &lt;ul&gt;
+      &lt;li&gt;没有钱不一定是坏事儿。（虽然大多时候是。）他的发家路是自己因为手里没有钱从而开始组装制作自己的电脑，而后逐渐演变成 APPLE 公司。有时没钱恰恰是创造的源点，没有钱买只能自己做。因为有钱会不过脑子，一下子买到已有产品，反而失去重新思考产品，改变世界的机会。&lt;/li&gt;
+      &lt;li&gt;幸运。那个时代十来岁就接触到了计算机，且会编程。十来岁就知道自己想要做什么真的太羡慕了，这个大多数中国人没有的。而很多伟人自我探索很早，这个是共识。（我自己对计算机软件还是硬件都做之甚少。）&lt;/li&gt;
+      &lt;li&gt;非常非常注重人才。精英人才间的「辩论，对抗，争吵，合作，相互打磨」。才能造就好产品，比如MAC。（这对取悦型人来说有点难，因为取悦型下意识避免冲突，但是看来内容导向，有冲突，多碰撞才是好事儿。）&lt;/li&gt;
+      &lt;li&gt;思考方式。他是不停问 Why 的一个人。编程。每个人都应该花一年时间学编程。编程是也学一种思考方式，编程应该纳入基础教育。品味。品味如何养成？「你要熟悉人类在各个领域的优秀成果」。计算机领域软件最优秀的和普通的差别是几百倍，这是在其他领域是很少见的。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;线索搜集：按照时间线收集分析。（chronological）&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;«««&amp;lt; HEAD&lt;/p&gt;
+&lt;h2 id=&quot;0326&quot;&gt;0326&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;与菌探讨「情感与理性」。原来人所有行为的底层动机都是情感（emotion）驱动的，理性只是工具。理性能让人从眼前甜头跳出来，从而关注长时间尺度结果，但是目的仍旧让自己开心的情感，比如理财，减肥，都是让未来能开心阿。一个是现在就要的片刻欢愉，一个是自律后长期的理想结果。乔布斯也说互联网计算机也是为了让人表达情感的，都是媒介。&lt;/li&gt;
+  &lt;li&gt;问题：人类强烈的情感来源自何处？&lt;/li&gt;
+  &lt;li&gt;听歌，找歌儿，发现喜欢的歌儿是真的开心，心脏被音乐直击时，可以感到自己活着。&lt;/li&gt;
+  &lt;li&gt;表达。表达的内容，表达的方式，表达的动机。&lt;/li&gt;
+  &lt;li&gt;找资源要到那个资源集中的平台去阿！&lt;/li&gt;
+  &lt;li&gt;职业转行：&lt;a href=&quot;https://www.youtube.com/watch?v=BT2XlI8oeh0&quot;&gt;Trust your struggle by Zain Asher &lt;/a&gt;。这个是说职业转行的。跟菌对我说的有一些像：从你想做什么事儿去设计你的职业，边缘参与，去做事儿，不要怕没有经验，这样主观体验会好很多。机会给有准备的人。条件都是自己创造出来的。只要你真的想做那件事，真的没有那么多限制。&lt;/li&gt;
+  &lt;li&gt;做自己：&lt;a href=&quot;https://www.youtube.com/watch?v=GwRzjFQa_Og&quot;&gt;The Magic of Not Giving a Fuck by Sarah Knight&lt;/a&gt;。演讲内容：1.学会拒绝 2.不要对拒绝感到愧疚。
+    &lt;ul&gt;
+      &lt;li&gt;整个演讲思路有趣，开讲时先给概念下个明确定义，很有意思。混蛋路线就是自己&lt;/li&gt;
+      &lt;li&gt;这么多播放量还有她演讲时的互动反应，可见是大多数必须生活在社会活动中的人的痛点：没法拒绝，拒绝完自我归因，然后愧疚。&lt;/li&gt;
+      &lt;li&gt;这个社会，做一些拒绝就是走混蛋路线了，可见社会多么不友好，能不能让人能轻松的做个人阿。&lt;/li&gt;
+      &lt;li&gt;「如何面对被拒绝」也是一个课题，社会上其实很多人不懂得怎么处理被拒绝的。现在中国的社会土壤，很多人脑子不清楚，这样的人你拒绝他，其实风险很大。法律上很多案件很多悲剧也是不会处理被拒绝发生的，什么表白被拒绝 XXXX ，然后女子被 XX 。这样的人不要招惹。&lt;/li&gt;
+      &lt;li&gt;如何委婉「表达拒绝」？表达方式就很重要。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;=======&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;blockquote&gt;
-    &lt;blockquote&gt;
-      &lt;blockquote&gt;
-        &lt;blockquote&gt;
-          &lt;blockquote&gt;
-            &lt;blockquote&gt;
-              &lt;p&gt;master&lt;/p&gt;
-              &lt;h3 id=&quot;download&quot;&gt;Download&lt;/h3&gt;
-            &lt;/blockquote&gt;
-          &lt;/blockquote&gt;
-        &lt;/blockquote&gt;
-      &lt;/blockquote&gt;
-    &lt;/blockquote&gt;
-  &lt;/blockquote&gt;
-&lt;/blockquote&gt;
+&lt;h2 id=&quot;0327&quot;&gt;0327&lt;/h2&gt;
 
-&lt;p&gt;Naringu is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/ariestiyansyah/naringu&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;马上马上打开音乐，听自己喜欢的歌儿对我来说太重要了了，起到收注意力的作用。无论想什么，都能到音乐里，同时心情愉悦，觉得特别开心。也是大脑启动的过程，不然刚洗完脸就直接投入到最难的工作，大脑也是扛不动。（但是要设置止损时间！不然我能听一天。）&lt;/li&gt;
+  &lt;li&gt;真的喜欢文化和精神世界啊，艺术，好的书籍，如饥似渴，好奇心来的再早一些就好了。&lt;/li&gt;
+  &lt;li&gt;linearly 线性&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Thanks!&lt;/p&gt;
+&lt;h2 id=&quot;0328&quot;&gt;0328&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;问题：中国35岁以上，40岁以上的人都在干嘛？&lt;/li&gt;
+  &lt;li&gt;⭐️和菌探讨了社会正义（大家）和个人关系（小家）的取舍，比如喜欢的人犯法，小到偷东西，大到杀人，你是否会举报？我肯定会告知那个人这样不好，而且会离开这个人。但是能否举报不一定，这有个自我保护机制在。但是启动自我保护机制后，就面对囚徒困境：个体对自己利益的追求会损害整体利益。自利角度上自我保护，但是造成整个社会变成一个互害的社会，最终也变成了受害者。想研究博弈论。追到了《合作的进化》这本书。&lt;/li&gt;
+  &lt;li&gt;⭐️囚徒困境
+    &lt;ul&gt;
+      &lt;li&gt;合作
+        &lt;ul&gt;
+          &lt;li&gt;我合作他合作 3，我傻乎乎合作他背叛 0&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;背叛
+        &lt;ul&gt;
+          &lt;li&gt;我背叛他傻乎乎合作 5 ，我背叛他背叛 -1&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;结论：如果站在自私自利的个人角度，我选择得到5，但同时另一方也选择得到5，结果双方都背叛，最终结果并不是两人都得到5，而双方都得到 -1 ，同时背叛是最坏的选择。这也说明了我得到的结果是受制于另一方的。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;阅读《黑客与画家》的如何创造财富
+    &lt;ul&gt;
+      &lt;li&gt;⭐️ 财富：创造别人需要的东西。（提醒自己多和主流圈打交道啊！要和主流人群多打交道，才能有钱啊，痛点击中的概率才更大。比如上班族的，比如吃喝玩乐住看病。自己的需求共鸣人会少吧！因为我自己是边缘人啊！怎么发现需求就是数据分析，信息分析就很重要。&lt;/li&gt;
+      &lt;li&gt;公司就是许多人聚在一起创造财富的地方。&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;这个世界，向下沦陷和向上沉沦都取决于你自己，不要推给外界。&lt;/strong&gt;&lt;/li&gt;
+      &lt;li&gt;可测量性和可放大性。小团体是可测量性，高科技是可放大性。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;猜测和反推能力也很重要。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;0329&quot;&gt;0329&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;决定将漫画，绘本纳入精神世界的摄入文本。&lt;/li&gt;
+  &lt;li&gt;第三方工具 看源码 API 函数调用&lt;/li&gt;
+  &lt;li&gt;⭐️菌说要用&lt;strong&gt;系统性思维&lt;/strong&gt;看待事物。世界是整体上的，相互协作，相互影响的。信息搜集是如此，一个成品也是。比如一张桌子，&lt;strong&gt;不是凭空产生&lt;/strong&gt;的，背后有整条产业链条，上游，下游，N 多厂家。再比如思考法国黄马甲事件还会怎样发展？若是周围有做衣服的朋友，问一下黄马甲的销量，卖没卖断货了就可以了，卖断货就是黄马甲活动还在继续。事物都是相互联系的，整体，没有孤立。&lt;/li&gt;
+  &lt;li&gt;还是要看进去书，给了我脑子里在思考的问题的解答。&lt;/li&gt;
+  &lt;li&gt;「硅谷增长黑客实战」这本书
+    &lt;ul&gt;
+      &lt;li&gt;⭐️&lt;strong&gt;抽象的数据本质是啥&lt;/strong&gt;？不是凭空而来的，数据背后是一个活生生的人做的具体动作。（今日最佳得到）&lt;/li&gt;
+      &lt;li&gt;北极星，增长模型，用户视角操作地图&lt;/li&gt;
+      &lt;li&gt;杠杆，最少资源最大化结果&lt;/li&gt;
+      &lt;li&gt;团队协作的重要性&lt;/li&gt;
+      &lt;li&gt;其实增长这一套方法论已经很成熟了&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;0331&quot;&gt;0331&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;菌友说了一句：「最底层的人从来没有幸福过」。 #击中&lt;/li&gt;
+  &lt;li&gt;疏离型是从不信任出发构建的，我是从信任出发构建的。&lt;/li&gt;
+  &lt;li&gt;没事儿就去看 &lt;a href=&quot;http://z.arlmy.me/posts/Chat/Chat_SandD_20180713/&quot;&gt;喧嚣之下 by 素生&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;「又聊起旅行。我说在旅行时，最难忘的都是得以与人交流的机会。戴桑说到第一次去日本时，和媳妇带团，不懂日语，不懂怎么坐地铁，只能查找信息、研究、焦头烂额，最终顺利带完七天的旅行团，也算是找到了在日本生存的方法。他说，只要有过一次这样的经历，就不再恐惧任何事情，并能够在两种全然不同的生存模式和节奏间切换。我完全同意。」
+ -「要找到那一扇门。要体验一个世界的建构。不必多。一两个就好。文学、艺术、旅行都是这样的事情，跨过那一点点慌张与恐惧，克服那一点点劳累和疲倦，会有一个新世界出现，它五彩斑斓。」&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;⭐️关系建立：在社会上一定是信息导向，能力导向，而非情感导向，感情留给值得的人。这个脑回路我要改。我因为情感导向容易建立信任，但是同时自己就太脆弱了阿。学生时代情感导向，社会时代信息内容导向。&lt;/li&gt;
+  &lt;li&gt;⭐️放弃了在一段关系里能彻底做真实的自己的想法。由于观察到很多两性相处问题都是：没办法做真实的自己，只能配合演出，最后积少成多，关系瓦解。所以我极力避免，反而导向另一个极端，我理想的是两个人都能做真实的自己，不必隐藏。但是就会碰到一个不可避免的问题：选自己还是选那个人。比如选择当真实的你会伤害到那个人的时候，你一定是有一个取舍。还是要具体事情具体分析，真的是大事儿，严重程度高的，那么委屈下自己也没关系，但是要说清楚，不能让对方觉得是应该的。这也是一个相对题，而不是绝对题。&lt;/li&gt;
+  &lt;li&gt;我说出这句话，我是怎么想就怎么说的，但是大部分人内心不是怎么想的怎么说的。有一层面具在。人和人之间的信任呢？&lt;/li&gt;
+  &lt;li&gt;线上与线下的思考。网络的时空，线下的时空。
+    &lt;ul&gt;
+      &lt;li&gt;通过文字了解一个人和面对面了解一个人会有两个形象。文字 - 形象 1，面对面 - 形象 2。通过文字了解，这个了解到的更接近一个人的本我，可以探查到一个人潜意识里的部分，折射出理想中的自己。面对面了解则是能观察到真实的一面。说实话现在通过线上的交流更多。&lt;/li&gt;
+      &lt;li&gt;菌说她是一个极端的人：甚至愿意一切在线上。人人都有个虚拟号可以活在虚拟世界才好。我说可是去年的头号玩家的价值倾向还是倡导不要在，她说那是主流价值观。&lt;/li&gt;
+      &lt;li&gt;反观我自己：我倾向于和现实中鲜活的人面对面交流，想到重要的人是一个活在手机信息流虚拟世界里的人，而我为了争夺注意力，在一起做的好多事情都是把他拉向现实世界的时空里。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;⭐️开心大学：&lt;a href=&quot;https://www.youtube.com/watch?v=Hm4GYkyZIR0&quot;&gt;感情變質了，我該如何面對Ｘ南方哲學｜愛情系列 - YouTube&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;反常识：不要「回到过去」，要「创造未来」。回不去了的这个脑回路是在默认过去最好，未来不会更好！正确的做法是要创造新的局面。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Example content</title>
-   <link href="http://localhost:4000/naringu/2014/01/01/example-content/"/>
-   <updated>2014-01-01T00:00:00+08:00</updated>
-   <id>http://localhost:4000/naringu/2014/01/01/example-content</id>
-   <content type="html">&lt;div class=&quot;message&quot;&gt;
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-&lt;/div&gt;
+   <title>建筑师 | 二元性</title>
+   <link href="http://localhost:4000/%E4%B8%8D%E8%BF%9B%E5%85%A5%E5%A4%AA%E5%8F%AF%E6%83%9C%E7%9A%84%E4%B8%96%E7%95%8C%20%7C%20%E6%96%87%E6%9C%AC/2019/04/01/Anti-Dualism/"/>
+   <updated>2019-04-01T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%8D%E8%BF%9B%E5%85%A5%E5%A4%AA%E5%8F%AF%E6%83%9C%E7%9A%84%E4%B8%96%E7%95%8C%20%7C%20%E6%96%87%E6%9C%AC/2019/04/01/Anti-Dualism</id>
+   <content type="html">&lt;p&gt;今天看了一本图册《建筑师》，很好看，安利。平时接触的文字表达居多，文字的非虚构与虚构。最近才发现有一种表达是图像的，视觉语言的。这种更具象，有时击中我心中所想更快。很喜欢，准备以后多多摄入。&lt;/p&gt;
 
-&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+&lt;p&gt;这本画册着重探讨了&lt;strong&gt;二元思维&lt;/strong&gt;。上一段感情里，我被嫌弃总用极端的二元思维来想事情，思考时只有两个极端点的情况。比如一件事情非黑即白，不是对就是错，电影里的角色不是好人就是坏人。人总渴望被理解，对伴侣期待自然更多。被说时，我自知这样不好，但也没想明白自己为何至此，现在渐渐清晰：社会融入我也是有距离的，怕被磨损，怕没有自己，怕成为机器。所以对社会上的事我总想可以随时抽身而出，所以做事都做最坏的打算「不行我就……只要还能保持自己，那样也无所谓」，做决策时前进时也想着最坏打算，在两端的单点间跳跃，忽略了中间的连续部分。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;此刻终于领悟：世界与人都是复杂的，复杂意味着立体，多面。而很多事的探讨不是绝对与极端的问题，而是相对与程度的问题&lt;/strong&gt;。在两个极端点黑与白间，是一条连续的渐变灰色光谱，大多数事物存在的形式是不同程度的灰色。其他的二元对立也如此，比如理性与感性。大多数人既感性又理性，只是混合起来的比例不同，程度不同，落入到感性理性的连续区间光谱的坐标点不同，而非一个人就是绝对感性人或绝对理性人。&lt;/p&gt;
+
+&lt;p&gt;&lt;img width=&quot;364&quot; alt=&quot;屏幕快照 2019-04-01 15 14 38&quot; src=&quot;https://user-images.githubusercontent.com/20737239/55309597-e1b0e080-5490-11e9-84af-677360dfbd68.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;比较有意思。两个极端点连成线，他问为毛不是一个散布在一个平面？我没想过还能这么想，有趣。&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;想事情开始不走二元论，是在反思自己上一段感情的过程。走出来时，想要不那么痛苦，于是强制自己只记得美好的部分，但偏偏痛苦的部分浮现出来。想要去归因，究竟是谁的错，是我的错还是那个人的错，也根本归因不出。 &lt;strong&gt;感情本身就是处在烈度高的「互动模式」&lt;/strong&gt;，我有我做错的部分我的不成熟我要背的锅，对方就一点也没有么？感情一定不可能只是单方有问题。回溯感情的客观事实就是：既有美好也有痛苦，互为因果，是一枚硬币的两面。太阳，温暖耀眼也灼人。&lt;/p&gt;
+
+&lt;p&gt;&lt;img width=&quot;1440&quot; alt=&quot;屏幕快照 2019-03-31 22 41 36&quot; src=&quot;https://user-images.githubusercontent.com/20737239/55409379-8700ad00-5594-11e9-8a4e-b94a5388681f.png&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;图 - 快乐大学的视频&lt;/code&gt;&lt;/p&gt;
+
+&lt;p&gt;我是痴迷型，对方是疏离型。这两种类型回顾时自动跑的脑回路就是不一样的。回顾的脑回路，痴迷型会自动跑美好的部分，而疏离型呢？会自动跑痛苦的部分并且无限放大。其实无论哪种都是偏离客观现实的。&lt;strong&gt;在相处过程中有那么多中性的客观事实，分开后选择如何构建这些客观事实，有人选择感恩，看到成长，有人选择后悔，看到痛苦，这些都是当事人的脑回路决定的&lt;/strong&gt;。分开的那一刻，就是无需再为彼此负责，互相也都再无关系。&lt;/p&gt;
+
+&lt;p&gt;与人相处，如同照镜子，映射出的是平时不自知的自己。身处其中，激情与情绪上来，不能自控，也不能自知。只是相处的阶段与拼命走出来的阶段，都是成长。&lt;/p&gt;
+
+&lt;p&gt;谢谢，再见&lt;/p&gt;
+
+&lt;p&gt;PS.附&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.douban.com/link2/?url=https%3A%2F%2Fbook.douban.com%2Fsubject%2F30218241%2F&amp;amp;query=%E5%BB%BA%E7%AD%91%E5%B8%88&amp;amp;cat_id=1001&amp;amp;type=search&amp;amp;pos=0&quot;&gt;建筑师&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCZrbiZOvQ8sZH5ycwEtyptg&quot;&gt;快樂大學Happiness University - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;changelog&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;190402 修改&lt;/li&gt;
+  &lt;li&gt;190401 阿宁创建 2h&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>8012 拜拜</title>
+   <link href="http://localhost:4000/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E5%B0%B1%E6%AD%A3%E5%9C%A8%E5%92%8C%E6%B8%B4%E6%9C%9B%20%7C%20%E7%94%9F%E6%B4%BB/2019/01/06/2018-experience/"/>
+   <updated>2019-01-06T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E5%B0%B1%E6%AD%A3%E5%9C%A8%E5%92%8C%E6%B8%B4%E6%9C%9B%20%7C%20%E7%94%9F%E6%B4%BB/2019/01/06/2018-experience</id>
+   <content type="html">&lt;p&gt;今年转变极大，总体说来，是收获颇颇颇颇颇丰的一年。自我探索，生活与智识在极速成长，但家庭关系不好，职场一般。总结下来：平衡是扯淡，人生是取舍。&lt;/p&gt;
+
+&lt;h2 id=&quot;阅读&quot;&gt;阅读&lt;/h2&gt;
+&lt;p&gt;阅读年龄一年半，够不上幼儿园的阅读级别，但也能越来越体悟到：&lt;strong&gt;阅读是一件私人的事情。&lt;/strong&gt;各个领域的经典书籍都很好，我相信它们都很值得读。但是《红楼梦》跟你有啥关系？《GEB》你又带着什么目的和心态去读？《艺术的故事》你从中得到了哪些新知，你没读之前的陈旧想法是怎样的？作为一个对自己有要求的读者，就不能不求甚解，不能不建立书与自己的关系。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;而书籍与自己的关系，多由问题意识构建&lt;/strong&gt;。例如自己现在在读历史是想了解真实的过去，都说太阳下无新鲜事，历史在押韵，那么我想我拥有一些历史常识与知识后，对层出不穷的各项热点事件与新闻，就能够知道这个世界在发生什么，也能知道我该如何自处。而越读问题越细化，学科的常识越集中，如民族主义什么意思，奴隶怎么抗争的，中世纪历史怎么回事，封建制度又是咋出现与瓦解的？我再循着这些问题继续去找书读，那么我读时和读后，我会非常知道哪本书给了我什么答案，什么思考方向，什么知识储备，哪些新的问题，我想了解 XX 我应该去读什么。由此，从自己好奇的问题为起点，找资料，思考再回到自己为终点，这样一个环的反复过程中，我就越来越形成了自己的脉络和知识结构，而非别人塞给我的。另，极有感悟的书，一定要写！要写读书笔记呀！&lt;/p&gt;
+
+&lt;p&gt;读的越深也越发现阅读成果无法量化。阅读量只是一个维度，但是思考广度与深度，阅读书籍的质量与目的无法用数字量化。一年读30本，观影100部，听起来收获满满，但又能代表什么呢？你是什么质量的书 30 本？快餐还是经典？它们和你的关系又如何？这样想来，&lt;strong&gt;量化起来终究是给外人看的，其中实实在在增长了什么学识自己才知道&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;而为何目前部分转向人文？起因是自己对艺术感兴趣，偶读《艺术哲学》了解到：理解艺术品，就一定要理解创作出作品的艺术家。人受到那时那地的时空限制，因而一件艺术品是那个艺术家那时那地的产物。离开艺术家那时那地的政治环境，历史进程，时代精神，风俗文化无法真正理解那件艺术品。遂因自己对艺术品的好奇转为对整个人类文明都充满了好奇。以前”嗤之以鼻”的历史政治，换了思考框架全部纳入好奇范畴。而且一个月下来，无论是补充自己知识，还是理解世界，都是收获极大极大的。&lt;/p&gt;
+
+&lt;h2 id=&quot;金钱&quot;&gt;金钱&lt;/h2&gt;
+&lt;p&gt;「阿宁，你花钱习惯这样的啊」，「阿宁，你一点成本意识也没有」。有多次机会得以观察身边欣赏的朋友的花钱习惯，又横向对比盘点自己，由而，我开始真正正视和思考金钱这档子事。&lt;/p&gt;
+
+&lt;p&gt;年初时处于消费主义漩涡中，Nike 新出的球鞋每双都想要，XX 牌的衣服很好看， XX 耳钉好想买……现在想来该感谢肥胖了一阵子，要不是当时胖，穿来也不能好看，不知道要败多少钱出去。而年末，受到某人影响，我也开始计算各项花费，比如在支付宝特价时买了三块钱的地铁月卡，这样一次地铁能省下一块二。双十一购物车加了几千，最后结账只买了六百块钱的冬天必需穿的雪地鞋。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;经济拮据是一个原因，现在想来，盲目地陷入消费主义是多么愚蠢阿&lt;/strong&gt;。给资本主义打工，卖时间卖劳力辛辛苦苦赚来的钱哪能因为几条广告和几张图片，就拱手送回到资本主义里去呢？想到这些年买买买的钱数如此巨大，若能省下来，可以考多次英语，可以买多少书籍画册，出去旅游也能不少地方了，错过了多少自我增值的事情！况且购买的大多数物品，新鲜两天也不喜欢了，在价值上更是一到手里就贬值，是名副其实的消费。消费究竟是什么意思？消费意味着你什么也没创造。而和消费相对的是生产，是创造价值。&lt;/p&gt;
+
+&lt;p&gt;现在花钱，区分需求与欲望是最基本的（我怎么才学会？）。需求再贵也要买，能力支撑不起来的欲望一个子儿也不要花。我们并没有被赋予太多权利，但是消费的权利却可牢牢握在手中。买之前问自己几个问题：这究竟是需求还是欲望？这个产品值得我花钱嘛？能够大幅度提升生活质量吗？当然，克制欲望，勒紧裤腰带是一方面，更为重要的是&lt;strong&gt;提升赚钱能力&lt;/strong&gt;。毕竟，省出来的资源是有限的，大幅度开源才解渴阿！&lt;/p&gt;
+
+&lt;h2 id=&quot;女性&quot;&gt;女性&lt;/h2&gt;
+&lt;p&gt;社会上强奸猥亵女性的新闻如此之多，而后被责备的都是女性受害者，男性犯罪者或逍遥法外，或被判刑极轻。另外，年轻女性发展，生育后的女性发展也存在许多现实问题。由此今年，我也开始关注女性的处境。&lt;/p&gt;
+
+&lt;p&gt;更多机会倾向男性是事实。今年看了一个纪录片 - &lt;a href=&quot;https://movie.douban.com/subject/5973966/&quot;&gt;雕塑小姐&lt;/a&gt; ，讨论的是女性在最发达的美国的处境，当然不好。（那么中国只会更糟。）一个事实：在美国媒体巨头公司，决策层通常有 14 - 16 名 ，只有 1 - 4 名是女性。而媒体塑造大众认知。这就意味着是&lt;strong&gt;最上层的男性决定在向公众投放什么信息&lt;/strong&gt;。外貌与体重更是夺走了女性每天大多的关注与时间，从而提升自己的时间比男性少。在这点上，女性成功者给了建议：「如果女生能把考虑体重的注意力放在其他任何对世界有价值的事儿上……很多问题几个月内就能得到解决。」我认为社会上男女不该对立起来，如此也是简化问题，共生共赢才是解决之道。&lt;/p&gt;
+
+&lt;p&gt;由此，&lt;strong&gt;常看到营销说「你不成功，是你不努力」这套线性说辞，实在是没有同理心的观点，尤其对于女性&lt;/strong&gt;。毕竟成不成功的最大因素，是命而非努力，出身已经决定很多。倘若我出身于大山农村，那么剧本就是不到二十就生了好几个娃娃，还很可能遭受丈夫毒打，悲惨一生。倘若出身欧美中层家庭，那么剧本就是可以读到大学，有着更多人生可能性。倘若出身于上层家庭，如贝克汉姆家小七，那么她不需任何努力，一生不知道过得好到哪里去了。&lt;/p&gt;
+
+&lt;p&gt;反观自身成长，唯有幸运二字来形容。不得不说，于时代，90后女生是国家计划生育政策的受益者。在成长到大学毕业的过程中，爸妈只有我一个女儿，遂将资源都倾注在我身上。于小家庭，我的家人很爱我，他们资源虽然有限，但仍倾尽所有把我一直供到社会工作后两年，让我有条件能做更多探索，只能双手合十的感谢。&lt;/p&gt;
+
+&lt;h2 id=&quot;关系&quot;&gt;关系&lt;/h2&gt;
+&lt;p&gt;然而相爱相杀，家庭关系却让我越发头疼。爸爸核心是让我听话，如若听话走他想的路，那么我仍旧是掌中宝，如若不听话就只能维持一个正常父女关系。因，自己的想法与他的出入越来越多，可以说是两个时代的框架在冲撞，其中不乏传统男性对现代女性的定位和现代女性自己定位的冲撞，比如「你一个女孩子应该XX」，「你现在没啥起色，过几年越来越大啥也不行咋办?」…… 这就导致一个新想法出现，基本达不成一致，然后关系疏远，因为一些事儿会缓和，然后再不一致再疏远。我想避开冲突，和拒绝他想法时的难受，导致能跟我爸说的越来越少，由而信息越来越不对称，透明。也只能怪自己出来到社会还没混好，仍旧不能让他放心。可大城市容不下肉身，小城市容不下灵魂，又何尝不是大多数在大城市打拼的年轻人的写照呢?&lt;/p&gt;
+
+&lt;p&gt;社会关系。今年通过工作接触了新的朋友，看到越来越多元化的生活方式，只能说生活是自己的，哪种适合哪种就是好的。关系最亲的几个闺蜜不看书，无法做太多读书的交流，但是她们是我感情上的坚实支持，一想到嘴角会笑心里暖；有早在步入社会前完成自我探索的人，我在补人文，人家已经很明白自己要什么了；有信佛有信仰，不信科学理性的朋友，在大平台工作，生活自足；有上海北京本地的朋友，少年读书时不会拼命考，上一个普通大学，毕业在家门口找份几千块的工作，但举手投足间我能感到她们安全感很高，没有丝毫焦虑，思考问题也很独特。而我自己，好像和社会有时差，时常一意孤行，不考虑后果，笨拙的到现在还让家人朋友担心，常被身边人调侃安全地活到这么大真是个奇迹。&lt;/p&gt;
+&lt;h2 id=&quot;结语&quot;&gt;结语&lt;/h2&gt;
+&lt;p&gt;唐诺在十三邀中说「生活中的我总是笨笨的，但书写里的我就好很多，总能找到最精确的方式来表达。不是书写需要我，是我需要书写。」我想我也是这样，虽谈不上唐诺老师的精准表达，但是书写时付诸的反复思考，比生活中说话时笨拙的我要好很多。&lt;strong&gt;2019，继续书写与阅读。大时间周期的事情，要比任何自我封闭的事物都长久。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;PS. 2019&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;保持身体健康呀！god bless.&lt;/li&gt;
+  &lt;li&gt;英语。行动中学（已经开始啃原版书了）。逐步将输入的资料(如原版书，播客音频，视频），过渡到英文资料。不得不承认众多优质信息英文世界才有。&lt;/li&gt;
+  &lt;li&gt;提高赚钱能力。开源节流使经济状况转良。&lt;/li&gt;
+  &lt;li&gt;小企鹅。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;changelog&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;190106 13:39 - 16:42 3h&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Art Acquaintance</title>
+   <link href="http://localhost:4000/2018/12/09/art-acquaintance/"/>
+   <updated>2018-12-09T00:00:00+08:00</updated>
+   <id>http://localhost:4000/2018/12/09/art-acquaintance</id>
+   <content type="html">&lt;hr /&gt;
+&lt;p&gt;layout: post
+title: 艺术初探
+tags: [艺术,思考,阅读]
+category: 不进入太可惜的世界 | 文本&lt;/p&gt;
+
+&lt;p&gt;艺术不受任何限制，自由表达自我，想做什么就做什么？艺术家不需掌握技法与知识，随意挥洒就成杰作？美是艺术的唯一目的？艺术与世俗金钱不沾边儿？不，不是。&lt;/p&gt;
+
+&lt;h2 id=&quot;艺术品不是凭空而来&quot;&gt;艺术品不是凭空而来&lt;/h2&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+  &lt;p&gt;绘画是以时代精神与文化为背景的，是一时代的人的人生观、自然观、世界观的表现，是画家的思想、人格的表现。 -  丰子恺&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+&lt;p&gt;艺术品并非像孙悟空从石头蹦出，而是由一个个真实的人创造而出。因而理解艺术品，就一定要理解创作出作品的艺术家。是人就一定会受到那时那地的时空限制，因而&lt;strong&gt;一件艺术品是那个艺术家那时那地的产物&lt;/strong&gt;。离开艺术家那时那地的政治环境，历史进程，时代精神，风俗文化无法真正理解那件艺术品。&lt;/p&gt;
 
-&lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt;
+&lt;h3 id=&quot;艺术离不开政治与时代精神&quot;&gt;艺术离不开政治与时代精神&lt;/h3&gt;
 
-&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;「文章对识字者之作用，与绘画对文盲之作用，同功并运。」 - 格列高列大教皇&lt;/p&gt;
+&lt;/blockquote&gt;
 
+&lt;p&gt;艺术离不开政治。艺术与政治不但不可能分家，艺术更在大半艺术史上是政治的奴隶，即使是拉斐尔，米开朗琪罗等人类文明巅峰的作品也是政治工具。要知道，从前的艺术家大多服务教会，宫廷。为教皇，贵族，商人等做委托订件，和现代人出来工作换取生存资料并无二异。&lt;/p&gt;
+
+&lt;p&gt;艺术更与时代精神有关。为何身体之美是希腊人发现？这就要回到古希腊时期，那时希腊城邦时刻面临其他城邦入侵危险，因此城中男人必须身体强健，善于战斗才能生存。因而，那时的希腊以男子体格强壮为荣，力量至上。更有极端规定：「凡是有体格缺陷的婴儿一律处死」，「老夫而有少妻的，必须带一个青年男子回家，以便生养体格健全的孩子」，足见当时社会风气：生育和培养最强壮体格的男人。少年男女赤裸习武，练兵更是司空见惯，如此，希腊艺术家具有更多人体知识，发现人体之美就不足为奇。试想当时希腊若以裸露肌肤为耻，衣服裹得很严密，那么希腊辉煌的裸体雕塑也不会存在。&lt;/p&gt;
+
+&lt;h3 id=&quot;艺术需要知识&quot;&gt;艺术需要知识&lt;/h3&gt;
+
+&lt;p&gt;做画需要基础知识与技巧支撑。在西方，人体解剖知识与素描是必须要掌握的。天才如梵高在给提奥的信里再三提到绘画基础知识的必要性。「我深感去学习大师们的人物画法的必要性，比如米勒、布雷东、布里翁、鲍顿等」，「约翰.马歇尔的《艺用解剖学》是我现在用的参考书，书里有大量关于手足等的解剖示意图，清楚实用」，「比例，光线和阴影，透视法是一个画画的人必须要遵循的法则，如果缺少这些知识，就只会付出无谓的努力，徒劳无果。」&lt;/p&gt;
+
+&lt;p&gt;由此我们知道，一件艺术品的生产过程：从前的艺术家受雇主委托，而后按照雇主意图而非个人意志创作，按照反馈修改，通过绘画的基本技巧人体解剖知识，透视法等（透视法中世纪被发明）作出，最后交出作品拿到金钱。&lt;/p&gt;
+
+&lt;h2 id=&quot;艺术品究竟在画啥&quot;&gt;艺术品究竟在画啥&lt;/h2&gt;
+
+&lt;h3 id=&quot;宗教神话故事&quot;&gt;宗教/神话故事&lt;/h3&gt;
+&lt;p&gt;我们已经知道艺术家在人类大半艺术史都在服务教会，宫廷，为政治服务，因此许多世界名画是在表达一个宗教叙事。比如米开朗琪罗著名的天顶画，所用的就是旧约中《创世纪》的故事，他选择九个题材，创造亚当，创造日月，分开黑暗，大洪水等等。艺术家根据委托内容摘取一个故事片段，将其展开到画布上。若想对这类画儿理解更深就不得不探究这是一个怎样的故事，这就可查阅相关宗教资料（比如基督教史，圣经，神话，史诗等）去理解故事。而艺术家是如何通过高超技法完成的这一表达，又可从技法上去做赏析。&lt;/p&gt;
+
+&lt;p&gt;除了宗教叙事，西方神话对大众影响深远，因此许多作品以常见的神话原型或各路神仙来进行再创造或表达。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://imgchr.com/i/FMf40O&quot;&gt;&lt;img src=&quot;https://s1.ax1x.com/2018/12/04/FMf40O.jpg&quot; alt=&quot;FMf40O.jpg&quot; /&gt;&lt;/a&gt;
+图 - 米开朗琪罗 《创造亚当》
+&lt;img src=&quot;https://s1.ax1x.com/2018/12/04/FQgV6f.jpg&quot; alt=&quot;FQgV6f.jpg&quot; /&gt;
+图- 安格尔《俄狄浦斯和斯芬克斯》&lt;/p&gt;
+
+&lt;h3 id=&quot;客观写实&quot;&gt;客观写实&lt;/h3&gt;
+&lt;p&gt;还有一类作品，理解时则无需探究题材，深究题材究竟有何深意，因为艺术家作画目的在于其他。比如印象派之父莫奈的作品，无需探讨画的内容，草垛对莫奈有何意义？火车站有何意义？睡莲又有何意义？题材内容对他全无意义。他一生遵循到户外（plain air）去作画，视自然为父，作品只为探究光在不同自然物的变化，醉心于用画笔定格光与自然交相辉映的刹那。这也是为何他一个草垛可以画十五幅，朝暮晨曦，阴晴雾汽，对他来说光下的草垛每时每刻都不同。他的题材可以说是他为了探究光与色的实验材料。观摩他的画可着重看技法，笔触，色彩，构图等。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://imgchr.com/i/FMROPA&quot;&gt;&lt;img src=&quot;https://s1.ax1x.com/2018/12/04/FMROPA.jpg&quot; alt=&quot;FMROPA.jpg&quot; /&gt;&lt;/a&gt;
+图 - 莫奈 《La_Grenouillére》
+&lt;img src=&quot;https://s1.ax1x.com/2018/12/04/FMRX8I.jpg&quot; alt=&quot;FMRX8I.jpg&quot; /&gt;
+图 - 莫奈 《La_Gare_Saint-Lazare》
+&lt;a href=&quot;https://imgchr.com/i/FMhEuV&quot;&gt;&lt;img src=&quot;https://s1.ax1x.com/2018/12/04/FMhEuV.jpg&quot; alt=&quot;FMhEuV.jpg&quot; /&gt;&lt;/a&gt;
+图 - 莫奈 《Wheatstacks》&lt;/p&gt;
+
+&lt;h3 id=&quot;主观表现&quot;&gt;主观表现&lt;/h3&gt;
+&lt;p&gt;宗教故事，是为宗教，政治奴仆；客观写实，即使印象派时期题材，技法，色彩都进行革命，但作品如同照相，完全表现客观。这两类都有天才作品，但他们也的确不曾表达过自己的内心世界，不曾表达过自己的个性。&lt;/p&gt;
+
+&lt;p&gt;抛弃客观描绘，画家开始注重自己内心的主观表现，自由表达个性是从十九世纪开始。比如梵高著名的向日葵。「这向日葵不是向日葵的再现，而是向日葵加梵高火焰般个性的表现。」向日葵是为梵高表达自己而存在。在这以前，人被所画对象支配，这之后，对象是表达主观的手段，受人支配。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://s1.ax1x.com/2018/12/09/F8gQ39.jpg&quot; alt=&quot;F8gQ39.jpg&quot; /&gt;
+梵高 - 向日葵
+&lt;a href=&quot;https://imgchr.com/i/F85Maq&quot;&gt;&lt;img src=&quot;https://s1.ax1x.com/2018/12/09/F85Maq.md.jpg&quot; alt=&quot;F85Maq.md.jpg&quot; /&gt;&lt;/a&gt;
+蒙克 - 呐喊&lt;/p&gt;
+
+&lt;h2 id=&quot;总结&quot;&gt;总结&lt;/h2&gt;
+&lt;p&gt;专业人士去看艺术品，自然能从技法（人物造型，用色，构图，笔触等）专业角度去获得灵感和收获。大众去看就是无用功，收获全无吗？当然不是。艺术品就是让人可以从平庸琐碎的生活中解脱出来的。但若想深入了解艺术品在表达什么，就要付出努力去理解艺术家，理解他生活的时代。&lt;/p&gt;
+
+&lt;p&gt;一件艺术品是一个时代的产物，艺术的发展脉络，就是人类文明的发展脉络。可喜的是，自己之前对人文历史一点兴趣也没有，但因自己对艺术品的好奇，现在对整个人类文明都充满了好奇。&lt;/p&gt;
+
+&lt;p&gt;倘若人类毁灭，浩瀚宇宙中，外星人如何知道曾有人类这一物种存在过呢？人类文明可以由什么来代表呢？古人留下长城与金字塔，现代人会给后人留下什么呢？&lt;/p&gt;
+
+&lt;p&gt;本文参考&lt;/p&gt;
 &lt;ul&gt;
-  &lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code class=&quot;highlighter-rouge&quot;&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
-  &lt;li&gt;Citations, like &lt;cite&gt;— Mark otto&lt;/cite&gt;, should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-  &lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
+  &lt;li&gt;《艺术的故事》- 贡布里希&lt;/li&gt;
+  &lt;li&gt;《艺术哲学》- 丹纳&lt;/li&gt;
+  &lt;li&gt;《美的情绪》- 丰子恺&lt;/li&gt;
+  &lt;li&gt;《梵高手稿》- 梵高&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+&lt;h2 id=&quot;changelog&quot;&gt;changelog&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;181209 1.5h&lt;/li&gt;
+  &lt;li&gt;181205 0.5h&lt;/li&gt;
+  &lt;li&gt;181204 2h&lt;/li&gt;
+  &lt;li&gt;181203 1h&lt;/li&gt;
+  &lt;li&gt;181202 1.5h&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>生命蔓延夏季</title>
+   <link href="http://localhost:4000/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E5%B0%B1%E6%AD%A3%E5%9C%A8%E5%92%8C%E6%B8%B4%E6%9C%9B%20%7C%20%E7%94%9F%E6%B4%BB/2018/09/27/this-summer/"/>
+   <updated>2018-09-27T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E5%B0%B1%E6%AD%A3%E5%9C%A8%E5%92%8C%E6%B8%B4%E6%9C%9B%20%7C%20%E7%94%9F%E6%B4%BB/2018/09/27/this-summer</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;生命中总有某些时刻，比其他 99% 都意味深长，这些时刻使生命流向再不相同。多年以后，我会常常回想起 24 岁的这个夏天。是将星空烧成河流的绿色火焰，是大片云朵切割的深不见底的天空，是想让人永远活下去的时光总和。&lt;/strong&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;heading&quot;&gt;Heading&lt;/h2&gt;
+&lt;h2 id=&quot;调节&quot;&gt;调节&lt;/h2&gt;
 
-&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+&lt;p&gt;两年前膝盖劳损，跑不了步，独立的举铁系统也没建立起来，加之之前抑制饮食的反噬，开始这样的恶性循环：开心与否，任何情绪都会导向吃垃圾食品，嚼着不爱吃的东西，只因心里想吃，尤其是睡前，不吃睡不着觉，结果就是身心都彻底失控，以肉眼可见的速度胖了起来，心情糟透。后来膝盖好了，但仍被功利和完美主义捆绑没能迈步运动，陷入心理怪圈：吃垃圾食品 - 运动也是白运动 - 从明天开始干净饮食和运动吧 - 然而第二天并不能改变 - 放弃。&lt;/p&gt;
 
-&lt;h3 id=&quot;code&quot;&gt;Code&lt;/h3&gt;
+&lt;p&gt;七月份从婚礼回来终于跳出了这个圈。怎么跳出的？&lt;strong&gt;1.抛弃结果导向的功利主义：享受和专注过程。运动的过程，吃东西的过程。2.允许不完美，对自己宽容。允许累了就不去运动，允许想吃些乱遭的就吃，吃多就吃多，只要不自毁式吃就好。3.时间尺度放长做运动计划。4.坚决建立正向调节机制&lt;/strong&gt;。当不纠结于结果，开始享受过程反而有了成果：五六周瘦了十斤，腰围也掉了五六厘米，大姨妈仍正常。饮食只戒掉夜宵和奶茶，运动恢复一些3-5公里的跑步和部分力量训练。展开说。&lt;/p&gt;
 
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code class=&quot;highlighter-rouge&quot;&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
+&lt;p&gt;过程的重要性。过程就是路径，&lt;strong&gt;从开始到目标达成的路径是非线性，一般是螺旋上升，有倒退也很正常&lt;/strong&gt;。只盯结果，心里会焦虑：如果我达不到目标怎么办？我达不到是不是这些都白做了？这样恐惧着能不能达到结果，十分消耗，反而不会做实事。事实上是没有白做的事情，过程是给自己的，结果是给别人的，每走一步都是给往后的路积累经验。&lt;strong&gt;倘若自己对自己都不愿多付出，不愿多试错，如此斤斤计较，就只能站在自己的人生外羡慕别人的人生&lt;/strong&gt;。（执行方法要科学）&lt;/p&gt;
 
-&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console
-&lt;/span&gt;
+&lt;p&gt;不要让完美主义导致行动瘫痪。一开始做了一个计划，其实只要做了计划的 60% 就会有效果，当你有进步，需要做到计划的 70% ，当又进了一步，做到 70% 不再足够，那么需要做到 80%，以此类推。&lt;strong&gt;完成大于完美&lt;/strong&gt;。最优解可能不如满意解，因为找到最优解时已过时效。倘若一开始就是个弱鸡，还要规定自己做到 100%，能力值差太大，大脑尝不到正向循环的甜头，就会习得无助从而放弃，进度条永为 0，产生的负面影响也会渗透到方方面面，人更不自信甚至干枯。&lt;/p&gt;
 
-&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments
-&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;a&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&quot;return a + b&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;p&gt;建立正向调节方式太重要。人有情绪，开心了想犒劳自己，不开心想发泄，内部情绪排解到外部需要导管 - 调节活动。而每一次用运动，跳舞等正向方式来调节，和每一次用暴饮暴食，酗酒，超额购买等负向方式来调节，经过大时间尺度滚雪球后，一个让人越来越好，一个让人越来越糟。亲自体验了两种后，会问自己问题来自省：今后大大小小的坎只增不减，难道每次都用自毁的方式调节吗？那你还活不活了？想不想好了？
+&lt;img src=&quot;http://oax0nr6r7.bkt.clouddn.com/2018-09-27-WechatIMG173.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
-&lt;span class=&quot;c1&quot;&gt;// Call the function
-&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+&lt;h2 id=&quot;他人&quot;&gt;他人&lt;/h2&gt;
 
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;越发觉得活着是在处理两件事情：和自己相处，和他人相处&lt;/strong&gt;。内耗少不了外界原因，比如他人眼光，话语，评价等。那眼光有时像吸人膏血的吻，看了让我心生皱纹。&lt;strong&gt;我也是今年夏天才明白：其实大多数人，即使曾经回忆里很重要的人，也再不重要。没多少要在乎的人&lt;/strong&gt;。此时此刻，想想对你来说中塔尖的 7 个人是谁？是不是他们和你自己本身在牵动着你大多数时候的悲喜？他人如果是地狱，也是你给了通行证。&lt;/p&gt;
 
-&lt;h3 id=&quot;lists&quot;&gt;Lists&lt;/h3&gt;
+&lt;p&gt;还有一个事实：&lt;strong&gt;其实没那么多人关注你&lt;/strong&gt;，别给自己加戏。现代大城市人每天要处理太多事，个人成长，社会工作，亲密关系，同时注意力又都被商家广告和信息洪流裹挟，还能抗住，没被生活杀死就不错了，大多数人自顾不暇。因此，外界纷扰，大多与你无关，大可打开自己，不要因外界眼光压抑扭曲自己，更无需有任何包袱。&lt;/p&gt;
 
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
+&lt;p&gt;这个夏天认识了些三十岁左右的朋友，多次碰撞后意识到：&lt;strong&gt;现在拥有让人羡慕而不自知的是时间&lt;/strong&gt;。当三十岁后，会有更多关系，责任争夺自己的时间，像现在纯粹自由地支配自己时间会很少。因而心力和精力多用在自我成长，亲密关系，创造作品和价值上，而非无用的自我拉扯。多做复利大的事。（其实，如何自己面对自己，如何和自我和解，处理好自己的内部矛盾才更重要。自己无条件爱自己，完全打开时，和外界交互才不别扭。）&lt;/p&gt;
+
+&lt;h2 id=&quot;流年&quot;&gt;流年&lt;/h2&gt;
+
+&lt;p&gt;七月中旬最好的朋友结婚，回老家见了一圈家人与姐妹。&lt;/p&gt;
+
+&lt;p&gt;婚礼头晚与爽姐，月月喝酒。爽姐挑衅，我应战，喝酒变成一杯杯灌，一块儿玩的感觉没变，一如当年在教室，皮着嘴损着话但关心着。看着她俩，憋不住心里的问题：「我变胖你们还爱不爱我？这两年有些不知道自己是谁，过得不好时也不敢找你们，感觉像一个人在大海上，没灯。」话音刚落就被爽姐摸头骂傻逼，说每次接到微信都开心到飞起，因为你是胡狗狗，而不是其他外在因素。&lt;/p&gt;
+
+&lt;p&gt;和爸爸一起吃烤肉。爸爸没太多变化，唠叨的话题也没变化。又憋不住心里的问题：「是不是我达到一些条件后你才爱我，如果是这样，达不到我就不想联系你」。我爸说「肯定会有期望，但是你啥样都是我姑娘。你一失联我们都蒙了，什么样儿都多和家里联系。最近工作怎么样，缺不缺钱……」&lt;/p&gt;
+
+&lt;p&gt;文姐和小万结了婚，现在仍感觉不真实，隐隐担忧。但关起门过日子是两人自己的事情，我相信文姐，只希望文姐能幸福。赶在心心去香港前见了一面，去长春见了阿凝，去了情姐的老家和新家。总之，此次回家目标明确，直截了当，一一确认。带着安心，温暖，解放感和双脚稳踏在土地上的踏实回到了北京。心像被光包裹着，感觉有后盾，有支撑。&lt;strong&gt;家人与姐妹聚在一起的时间，千金不换。我还是那个我，你们也还是那个你们。走的人不重要，重要的人不会走。世界上有无法用数字衡量的，因为无价。希望你们都好&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;h2 id=&quot;总结&quot;&gt;总结&lt;/h2&gt;
+
+&lt;p&gt;走了好多路，袜子里装满了错误。一朋友造了一个美妙的隐喻：坑里有很多水晶碎片。我想现在我已经带了好多水晶碎片出来了，更在爬出来时捡到了一只宝贝，叼进我的小狗窝。（世界上怎么有这么好的人？我去问问良知，坏笑）。也知道人生起伏，随时可能进下一个坑，不知下一个坑里藏着哪些水晶碎片。&lt;/p&gt;
+
+&lt;p&gt;人生是过程，唯一能确定的是每个人都是死路一条，但因为会死，还不活了吗？因为会疼，还不爱了吗？开心时尽情开心，疼的时候尽情疼，去爱，去体验，去付出，去犯错，去共情，去理解，去尝甜头，这才是人而为人吧。&lt;/p&gt;
+
+&lt;p&gt;PS.怀念初夏去五道口风车转盘盘腿码字的日子，本来有一点点的文字敏感性好像消失了。（哭&lt;/p&gt;
+
+&lt;h2 id=&quot;歌词时间&quot;&gt;歌词时间&lt;/h2&gt;
+&lt;p&gt;你是救我命的那片云  &lt;br /&gt;
+我被时间拖着走不停  &lt;br /&gt;
+解救我于水深火热  &lt;br /&gt;
+这样的你（不）是我的&lt;/p&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;changelog&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;180927 3h&lt;/li&gt;
+  &lt;li&gt;180926 3h&lt;/li&gt;
+  &lt;li&gt;180924 3h&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>2018ToSeeList</title>
+   <link href="http://localhost:4000/%E4%B8%8D%E8%BF%9B%E5%85%A5%E5%A4%AA%E5%8F%AF%E6%83%9C%E7%9A%84%E4%B8%96%E7%95%8C%20%7C%20%E6%96%87%E6%9C%AC/2018/09/13/2018-to-see-list/"/>
+   <updated>2018-09-13T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%8D%E8%BF%9B%E5%85%A5%E5%A4%AA%E5%8F%AF%E6%83%9C%E7%9A%84%E4%B8%96%E7%95%8C%20%7C%20%E6%96%87%E6%9C%AC/2018/09/13/2018-to-see-list</id>
+   <content type="html">&lt;p&gt;2018 想看的文本&lt;/p&gt;
+
+&lt;p&gt;艺术&lt;/p&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
-  &lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
-  &lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
+  &lt;li&gt;现代艺术 150 年 - 威尔·贡培兹&lt;/li&gt;
+  &lt;li&gt;艺术哲学 - 丹纳 傅雷译（第一编:艺术品的本质及其产生；第五编:艺术中的理想）&lt;/li&gt;
+  &lt;li&gt;影子简史 - 维克多•I.斯托伊奇塔&lt;/li&gt;
+  &lt;li&gt;艺术的故事 - 贡布里希 (Sir E.H.Gombrich) （现代史，序言，开头）&lt;/li&gt;
+  &lt;li&gt;艺术：让人成为人 - 理查德·加纳罗&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+&lt;p&gt;诗&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
-  &lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
-  &lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;ul&gt;
+  &lt;li&gt;海子诗全集&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
+&lt;p&gt;小说&lt;/p&gt;
 
-&lt;dl&gt;
-  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
-  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
+&lt;ul&gt;
+  &lt;li&gt;一个陌生女人的来信 - 茨威格&lt;/li&gt;
+  &lt;li&gt;局外人 - 加缪&lt;/li&gt;
+  &lt;li&gt;包法利夫人 - 福楼拜&lt;/li&gt;
+  &lt;li&gt;鞑靼人沙漠 - 迪诺·布扎蒂&lt;/li&gt;
+  &lt;li&gt;不朽 - 昆德拉&lt;/li&gt;
+  &lt;li&gt;不可承受的生命之轻 - 昆德拉（重读）&lt;/li&gt;
+  &lt;li&gt;玻璃球游戏 - 黑塞&lt;/li&gt;
+&lt;/ul&gt;
 
-  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
-  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
+&lt;p&gt;文论&lt;/p&gt;
 
-  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
-  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
-&lt;/dl&gt;
+&lt;ul&gt;
+  &lt;li&gt;希尼三十年文选 - 谢默斯·希尼&lt;/li&gt;
+  &lt;li&gt;染匠之手 - W·H·奥登&lt;/li&gt;
+  &lt;li&gt;唐诗杂论 - 闻一多&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+&lt;p&gt;其他&lt;/p&gt;
 
-&lt;h3 id=&quot;tables&quot;&gt;Tables&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;昨日的世界 - 茨威格&lt;/li&gt;
+  &lt;li&gt;人类的群星闪耀时 - 茨威格&lt;/li&gt;
+  &lt;li&gt;雕刻时光 - 塔科夫斯基&lt;/li&gt;
+  &lt;li&gt;时光中的时光 - 塔科夫斯基&lt;/li&gt;
+  &lt;li&gt;左手的缪斯 - 余光中&lt;/li&gt;
+  &lt;li&gt;朱生豪情书全集 - 朱生豪、宋清如&lt;/li&gt;
+  &lt;li&gt;会动的相对论 - 斯蒂芬·杜兰德&lt;/li&gt;
+  &lt;li&gt;超越时空 - 加来道雄&lt;/li&gt;
+  &lt;li&gt;文化与价值 - 维特根斯坦&lt;/li&gt;
+  &lt;li&gt;哲学研究 - 维特根斯坦&lt;/li&gt;
+  &lt;li&gt;哲学·科学·常识 - 陈嘉映&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
+&lt;p&gt;影片&lt;/p&gt;
 
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Name&lt;/th&gt;
-      &lt;th&gt;Upvotes&lt;/th&gt;
-      &lt;th&gt;Downvotes&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Totals&lt;/td&gt;
-      &lt;td&gt;21&lt;/td&gt;
-      &lt;td&gt;23&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Alice&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Bob&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Charlie&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
+&lt;ul&gt;
+  &lt;li&gt;生活多美好（1946）- 弗兰克·卡普拉&lt;/li&gt;
+  &lt;li&gt;豹（1963）- 卢基诺·维斯康蒂&lt;/li&gt;
+  &lt;li&gt;假面（1966）- 博格曼&lt;/li&gt;
+  &lt;li&gt;永恒和一日(1998) - 西奥·安哲罗普洛斯&lt;/li&gt;
+  &lt;li&gt;伯爵夫人的耳环(1953) - 马克斯·奥菲尔斯&lt;/li&gt;
+  &lt;li&gt;世界旦夕之间(1973) -  赖纳·维尔纳·法斯宾德&lt;/li&gt;
+  &lt;li&gt;卡比利亚之夜(1957) - 费德里科·费里尼&lt;/li&gt;
+  &lt;li&gt;春宵苦短，少女前进吧(2017) - 汤浅政明&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;http://oax0nr6r7.bkt.clouddn.com/2018-09-13-18toseelist.jpeg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;changelog&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;180911 阿宁整理&lt;/li&gt;
+  &lt;li&gt;180913 阿宁补充&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>音响</title>
+   <link href="http://localhost:4000/%E4%B8%80%E4%B8%AA%E5%87%BA%E5%8F%A3%20%7C%20%E5%8E%9F%E5%88%9B/2018/07/09/sound/"/>
+   <updated>2018-07-09T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%80%E4%B8%AA%E5%87%BA%E5%8F%A3%20%7C%20%E5%8E%9F%E5%88%9B/2018/07/09/sound</id>
+   <content type="html">&lt;p&gt;黑夜从大地升起，夏日蝉鸣捅破了天空，露出点点星光，被烈日晒得扭曲的楼房逐渐恢复原样，死神浮在城市上空，把玩着手里的镰刀，他用目光审视着城市众人的内心。死神观察世界的角度和人不同，他判断生命活力并非用肉体的形式，而是看内心。那些内心有大洞的人是死神的目标。&lt;/p&gt;
+
+&lt;p&gt;少年打开房门，踢掉拖鞋，将背包扔在地上后，重重地陷进床里，紧紧抱住一只露了棉花的熊玩偶，两眼空洞地盯着天花板，一点面部表情也没有，像一棵被砍倒的死树。一片黑暗中，手机屏幕亮了一下，和 Z 见面倒计时提醒弹出，少年看到后，叹了口气，他的心脏像刚被正在膨胀的气球挤压着，阵阵刺痛袭来。他握紧拳头，使劲砸向墙壁。少年的目光变回呆滞，目光顺着卧室四处游荡，像苍蝇似的停留在各处：墙上的一块污渍，哎！地板箱子里花花绿绿的衣服，穿不进去了，哎！墙角的那么多书，好想看但是还有好多工作，哎！实木桌上的外卖，外卖太难吃了，哎！窗外的猫叫，哎！死神注视着少年的眼睛，直直地望进他的内心深处，为自己找对了目标而兴奋地挥动着镰刀。等等，桌上的音响？少年的目光重新聚合。&lt;/p&gt;
+
+&lt;p&gt;少年的音响是某个加工厂造出来的，加工厂内将金属，芯片联结成一个可以发声的物体。水滴状的音响，披着银色的外衣，安静坐在少年卧室里的红色实木桌上，默默看着这一切。&lt;/p&gt;
+
+&lt;p&gt;少年的目光停留在音响上，用遥控器打开，音乐顿时从音响身体小孔流淌而出，充满整个房间。少年唰地从床上坐起，揉了揉刚刚打疼的拳头，心里感到一股早晨刚热好的牛奶般的暖流。随后少年抛开小熊，跳下床，重新穿上拖鞋，随着变成波浪状的地板摇动身体，外卖，污渍，衣服，猫叫都不见了，眼神逐渐被可以使太阳退散的目光取代。他拿起手机，打开与 Z 的对话框，输入「后天街口咖啡店不见不散」，点击了发送。&lt;/p&gt;
+
+&lt;p&gt;死神一声叹息，收回悬在空中的镰刀，留下被流淌的音符包裹而手舞足蹈的少年，起身寻找下一个猎物。&lt;/p&gt;
+
+&lt;h2 id=&quot;changlog&quot;&gt;changlog&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;170709 10mins 去掉骰子的随机设定&lt;/li&gt;
+  &lt;li&gt;180708 增添细节 0.5 h ，少年自己打开音响&lt;/li&gt;
+  &lt;li&gt;180706 快写 3h&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>问自己</title>
+   <link href="http://localhost:4000/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E5%B0%B1%E6%AD%A3%E5%9C%A8%E5%92%8C%E6%B8%B4%E6%9C%9B%20%7C%20%E7%94%9F%E6%B4%BB/2018/06/25/ask-yourself/"/>
+   <updated>2018-06-25T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E5%B0%B1%E6%AD%A3%E5%9C%A8%E5%92%8C%E6%B8%B4%E6%9C%9B%20%7C%20%E7%94%9F%E6%B4%BB/2018/06/25/ask-yourself</id>
+   <content type="html">&lt;p&gt;问问自己，以从熟悉的麻木中逃脱&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;多久没有离开信息流文本流，放空和自己对话了？&lt;/li&gt;
+  &lt;li&gt;你渴望生活吗？&lt;/li&gt;
+  &lt;li&gt;觉得自己是幸存者吗？&lt;/li&gt;
+  &lt;li&gt;上次发自内心的笑是什么时候？&lt;/li&gt;
+  &lt;li&gt;每天早上醒来的动力是什么？&lt;/li&gt;
+  &lt;li&gt;最近有看到蓝天和月亮吗？&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;最近认识了哪些可以用无价来形容的朋友？&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;哪本书（或漫画，电影，动漫，艺术品，画）改变了你对世界的看法？&lt;/li&gt;
+  &lt;li&gt;久久不能忘怀的一个故事是什么？&lt;/li&gt;
+  &lt;li&gt;最近印象深刻的一个空间是哪里？&lt;/li&gt;
+  &lt;li&gt;失去了什么后，会觉得你就不再是你自己了？&lt;/li&gt;
+  &lt;li&gt;曾经喜欢的哪些事感到了厌倦？&lt;/li&gt;
+  &lt;li&gt;此刻最想做的事情是什么？如果不能立刻就做，什么束缚了你？&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;喜欢/讨厌自己身上哪点？&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;现在最困扰你的问题是什么？&lt;/li&gt;
+  &lt;li&gt;最近有哪些时刻让你从日常熟悉的麻木中唤醒？&lt;/li&gt;
+  &lt;li&gt;如果世上只剩你一人，立刻不做哪些事情？&lt;/li&gt;
+  &lt;li&gt;是否觉得生活已经杀死了一切？&lt;/li&gt;
+  &lt;li&gt;会觉得这个世界吵吗？&lt;/li&gt;
+  &lt;li&gt;觉得自己走过的最大弯路是什么？会给别人什么建议？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;changelog&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;180924 增补修改&lt;/li&gt;
+  &lt;li&gt;180625 02:47 创建&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>落地之后</title>
+   <link href="http://localhost:4000/%E4%B8%80%E4%B8%AA%E5%87%BA%E5%8F%A3%20%7C%20%E5%8E%9F%E5%88%9B/2018/06/14/afterlanding/"/>
+   <updated>2018-06-14T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%80%E4%B8%AA%E5%87%BA%E5%8F%A3%20%7C%20%E5%8E%9F%E5%88%9B/2018/06/14/afterlanding</id>
+   <content type="html">&lt;p&gt;有一个叫第七区的城市，城市边缘被高大树木环绕。这座城市的人们都不知道，在密林交错间，一个山洞在远古时代就存在了。&lt;/p&gt;
+
+&lt;p&gt;家里弥漫着煎蛋和牛排散发的果木香气，一个叫蓝的少年走到镜子前看了看自己的脸，笑了笑。洗完头，他对着镜子换了几套前些天刚买的新衣服，但都不满意，还是选择了最喜欢的红格子衬衫和破洞牛仔裤，将衬衫的扣子扣好，衣服褶皱抚平，卷好裤腿，对着镜子细细整理理一番后，蓝边吃着已放凉的早餐，边和父母谈论即将迈入的大学生活。蓝很喜欢他出生的城市，也未想过离开，况且这座城市有世界上最好的大学，想到明天就要去上大学了，蓝照了照镜子出门后，不禁兴奋的像看到猎物的猛兽，朝城市边缘全力狂奔，他喜欢在重大日子前独自躺在一颗大树旁，盯着蓝天放空自己。一边畅想一边跑着，他脚下一滑，一溜烟似的顺着下坡一路摔到坡下，当他站起时，一个山洞出现在他眼前。&lt;/p&gt;
+
+&lt;p&gt;山洞像有引力似的把他吸了进来，他打开洞中央的木箱，一道闪光突现使他下意识地用手捂住眼睛，睁开眼睛后他看到自己的视野上方有一串数字，他使劲揉揉眼睛再次睁开，那串数字还在，他又拼命转动眼珠，结果发现无论怎样睁眼闭眼，一串数字如琥珀里的昆虫凝结眼眶中。蓝刚刚接受数字在眼中消不掉的事实时，木箱的一角伸出了一根头发丝般的细线，连接到他心脏外的皮肤处。而后，他像一只风筝，被这根细线缓缓放到空中。&lt;/p&gt;
+
+&lt;p&gt;当到达云层之上后，少年不再升高。从远处看就像一轮低矮的月亮悬在离云端很近的位置。他用手扯线，用嘴撕咬，想回到地上，但这根线看似像蛛丝羸弱，实则如钢筋坚硬，他奈何不得，只能睁眼俯视着云层，决定观察一些时日。一些天后，他发现眼里的数字每天在减少，原来这串数字是倒计时，当数字归 0 时，就是落地之时，可以回家与家人朋友重聚，也能去上大学了。想到还是可以落地的，蓝忘记了处境，不禁笑了出来。&lt;/p&gt;
+
+&lt;p&gt;又过了一些时日，慢慢的，他看到自己的身体和大脑也在变化。谁想这线是一根知识传送线，每当日出就从小木箱中抽出大量优秀文本，如同管道输送水流传送到蓝的大脑，阿西莫夫描绘的宇宙，昆德拉构建的虚无，尼采的永恒轮回……这是他在应试教育时没有接触过的世界，被传输知识时他唇上挂着一个像太平洋那样大大的微笑。接受知识后，他立刻感觉皮肤一阵痒痒，一块类似穿山甲壳的硬片如蘑菇长在土地从皮肤冒出。蓝使劲用指甲挠自己的皮肤，他不敢相信这是真的，这块硬壳令刚刚大脑接受的愉悦无影无踪。日复一日，知识越来越多，硬壳也越来越多，日出时刻的双重变化如同刀子一点点划开他的心脏，心脏内的恐惧逐步浇灭渴望，他无法想象穿着这个皮囊回到大地，面对众人的场景，人们的窃窃私语，轻视的眼光代替曾经仰慕的目光，被抓走做生物样本实验…..光是设想这一场景，他的心就像被串上铁针放在碳火上炙烤。他越来越恐惧倒计时为 0 的那天，想着若能永远在空中，每天吸纳文本多好。&lt;/p&gt;
+
+&lt;p&gt;0，一次睁眼后，数字变为了 0 。一阵熟悉的刺痛从心而来，线，开始动了。他死命对抗，已经变为鳞片硬壳的双臂扯着那根线，想要把自己拉回去。但他仍拉扯不动，只能任凭这根线使自己降落，空中偶有乌鸦经过，他感觉该死的乌鸦在嘲笑他的怪样子，可是他也心想这该死的乌鸦一定没读过书。&lt;/p&gt;
+
+&lt;p&gt;落地后，绳子牵引蓝回到离开时的山洞。他站在箱子前，看到地上水坑里映出自己的样子，不知如何是好，他想，如果能不见任何人也没什么的。这时，箱子内传来一个声音：「蓝，你现在有两个选择，一个是变回以前英俊的样子，但你不会了解世上科学人文和艺术的奥秘，还有一个选择是保持现在的样子进入我的体内和文本世界永生。」&lt;/p&gt;
+
+&lt;p&gt;蓝想都没想，一股脑的跳进了箱子里。&lt;/p&gt;
 
 &lt;hr /&gt;
 
+&lt;h2 id=&quot;构思&quot;&gt;构思&lt;/h2&gt;
+
+&lt;p&gt;最最开始，就是想描述自己「卡住了」这个心理状态。前些天听一首歌叫&lt;strong&gt;落地之前&lt;/strong&gt;。其中一句歌词是&lt;strong&gt;落地之前，灵魂碰面&lt;/strong&gt;，我脑中一个被放风筝的人悬在天空无法落地的场景越来越明晰。而后根据自己的场景开设定起因和结果推动故事发展。故事当然结合了我这两年的自我拉扯，才是个人小传嘛。这两年自己设定了一个目标和假设，规定自己达到那之后才能开始探索外部的世界，&lt;strong&gt;导致每天早上醒来，困在自己的规则里，一天天倒计时，无法开启新的生活，心悬着，无法落地&lt;/strong&gt;。总之，这是一个探讨自我认同，支持活着的价值观构建，如何爱自己，如何面对外人眼光的故事。&lt;/p&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;changelog&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;180614 1h 6.14 晚坐在五道口风车转盘写完，把恐惧因素写出后自己也越发清晰了，好像有点能和自己和解，也丢掉了一些执念。✨&lt;/li&gt;
+  &lt;li&gt;180611 回家路上突然想到其他故事线&lt;/li&gt;
+  &lt;li&gt;180610 1h 修改&lt;/li&gt;
+  &lt;li&gt;180608 3h 构思+结尾&lt;/li&gt;
+  &lt;li&gt;180608 1h 写了一点后边 想结尾&lt;/li&gt;
+  &lt;li&gt;180607 2h 写出前半边 升到天空&lt;/li&gt;
+  &lt;li&gt;180607 2h 构思出大概故事和隐喻&lt;/li&gt;
+&lt;/ul&gt;
 </content>
  </entry>
  
  <entry>
-   <title>What's Jekyll?</title>
-   <link href="http://localhost:4000/naringu/2013/12/31/whats-jekyll/"/>
-   <updated>2013-12-31T00:00:00+08:00</updated>
-   <id>http://localhost:4000/naringu/2013/12/31/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project’s readme&lt;/a&gt;:&lt;/p&gt;
+   <title>蓝</title>
+   <link href="http://localhost:4000/%E4%B8%80%E4%B8%AA%E5%87%BA%E5%8F%A3%20%7C%20%E5%8E%9F%E5%88%9B/2018/06/10/blue/"/>
+   <updated>2018-06-10T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%80%E4%B8%AA%E5%87%BA%E5%8F%A3%20%7C%20%E5%8E%9F%E5%88%9B/2018/06/10/blue</id>
+   <content type="html">&lt;p&gt;第一首诗&lt;/p&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;蓝&lt;/p&gt;
+
+&lt;p&gt;白墙壁的空荡卧室  &lt;br /&gt;
+太阳穴左侧抵着一把手枪  &lt;br /&gt;
+食指逐渐用力弯曲&lt;/p&gt;
+
+&lt;p&gt;这时他眼前出现一大块未知物    &lt;br /&gt;
+发出的声音      &lt;br /&gt;
+像痞子阿姆的嘶吼     &lt;br /&gt;
+摸起来  &lt;br /&gt;
+像睡觉时抱的  &lt;br /&gt;
+漏出棉花的小熊玩偶&lt;/p&gt;
+
+&lt;p&gt;他把这大块  &lt;br /&gt;
+别人称为蓝的东西      &lt;br /&gt;
+捧进厨房切的细碎  &lt;br /&gt;
+端回房间后             &lt;br /&gt;
+用手送进嘴里大口咀嚼&lt;/p&gt;
+
+&lt;p&gt;喉结一动  &lt;br /&gt;
+就着水咽下时  &lt;br /&gt;
+手枪消失了&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;思路：&lt;/p&gt;
+
+&lt;p&gt;结构：想写个最小故事：死 - 蓝 - 活&lt;/p&gt;
+
+&lt;p&gt;诗背后的故事：蓝色至于我自己是蓝天，代表开放空间，是一种治愈感和解放感。观察自己有很多次，在室内封闭空间感觉压抑消极的时候，一出来到开放空间，瞬间得到解放，消极负面一扫而空，想着能大口呼吸，感受阳光真好。而怎么把这种解放感和治愈感呈现出来，描述的有形可感是一个难题。&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;changelog&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;180624 在家里床上坐着，改了两处比喻，音乐改为阿姆，另一处改为给我带来安全感的小熊玩偶。(又 low 到不行，水壶音响中突然听到阿姆的歌，抛去 RAP 特有的伴奏鼓点，他的嘶吼和有故事与押韵的歌词，充满矛盾与挣扎，忏悔和鼓励，像火山喷发的岩浆倾泻而出流到我心里，太太太有力量了。听完就想着自己别当个怂货，死磕就是了。)&lt;/li&gt;
+  &lt;li&gt;180610 音乐还是想描写鼓点击中我的瞬间 于是想到击中灵魂的瞬间还是和喜欢的人四目相对的时候，会有心里翻江倒海的感觉。&lt;/li&gt;
+  &lt;li&gt;180609 修改 看到王熬写的「海里的火焰比绸缎还要柔软」 ，突然想到「 比 。。 还 」这个句式也是一种呈现，遂将「像水龙头拧到最大时的冷水流」改为「比。。。还凉快」句式&lt;/li&gt;
+  &lt;li&gt;180609 修改 40mins 鼓声与钢琴交错 交错改为拥抱 好很多了 。水流的描写也不是小溪了，就是水龙头的水流也好一些了&lt;/li&gt;
+  &lt;li&gt;180607 修改 20mins&lt;/li&gt;
+  &lt;li&gt;180606 创建 40mins&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>如何对抗内在失序？</title>
+   <link href="http://localhost:4000/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E5%B0%B1%E6%AD%A3%E5%9C%A8%E5%92%8C%E6%B8%B4%E6%9C%9B%20%7C%20%E7%94%9F%E6%B4%BB/2018/05/07/how-to-resist-psychicentropy/"/>
+   <updated>2018-05-07T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E5%B0%B1%E6%AD%A3%E5%9C%A8%E5%92%8C%E6%B8%B4%E6%9C%9B%20%7C%20%E7%94%9F%E6%B4%BB/2018/05/07/how-to-resist-psychicentropy</id>
+   <content type="html">&lt;p&gt;「Pain is inevitable，suffering is optional.痛楚难以避免，而磨难可以选择。」 - 村上春树&lt;/p&gt;
+
+&lt;p&gt;终于，我接受了一个关于自己的事实：&lt;strong&gt;当前，我是一个注意力难以集中的人&lt;/strong&gt;，这是怎样的状态？其实就是上学时代老师批评同学总用的「溜号」。我想你也一定有过溜号的体验：看似平静的外表下，同时大脑内部有无数念头如同热锅上的蒸汽，撒开脚丫在脑中四处流窜狂奔，一回过神已跟不上外界的节奏。偶尔溜号人人有之，只是最近一个月频繁到自己嫌弃自己。就当要判定无解之时，一位朋友推荐了一本书叫《发现心流》，本想随便读一读，却从中找到了答案。&lt;/p&gt;
+
+&lt;p&gt;原来我那种一个个念想蹦出来快将脑袋撑破的状态，在积极心理学的专业术语中叫&lt;strong&gt;「精神熵 ( psychic entropy ) 」&lt;/strong&gt;，也可叫内在失序。精神熵，内部完全失序的极端例子是精神分裂症患者。心流之父「米哈里」说：精神分裂症患者会不由自主地注意到所有不相干的刺激，接受所有资讯。而很悲惨的是，&lt;strong&gt;他们并没有控制任何事物进出意识的能力&lt;/strong&gt;。有些病人把这种现象描述得很生动：事情太快地涌进来，我失去控制，终于迷失。读到这里我自己偷偷庆幸：我该没到患病的程度。&lt;/p&gt;
+
+&lt;p&gt;精神熵的反面是什么呢？什么是内在有序？&lt;strong&gt;答：是心流(Flow)，米哈里也称之为「 最优体验 optimal experience 」。&lt;/strong&gt; 什么是心流？米哈里说道：&lt;/p&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory […] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
+  &lt;p&gt;心流即一个人完全沉浸在某种活动中，无视其他事物存在的状态。这种体验本身带来莫大的喜悦，使人愿意付出巨大的代价。一般人认为生命中最美好的时光莫过于心无牵挂，感受最敏锐，完全放松的时刻，其实不然。游泳健将在最刻骨铭心的比赛中，会肌肉酸痛，肺腑要迸裂，甚至快晕倒，但这可能是他一生中最美妙的时刻。掌控生命有时根本就是一种痛苦，但日积月累的最优体验会汇集成一种掌控感 - 一种能自行决定生命内涵的参与感 - 这就是我们所能想象的最捷捷所谓「幸福」的状态。这种最优体验不仅在顺境时会发生，甚至在集中营的幸存者或刚从千钧一发的危机中逃生的人也有可能在最艰难的一刻突然大彻大悟。&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;It’s an immensely useful tool and one we encourage you to use here with Hyde.&lt;/p&gt;
+&lt;p&gt;达到心流状态，需要满足的条件是什么呢？《三生有幸》的作者李晓煦老师总结如下&lt;/p&gt;
 
-&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;具有挑战性的活动&lt;/li&gt;
+  &lt;li&gt;知行合一&lt;/li&gt;
+  &lt;li&gt;明确目标&lt;/li&gt;
+  &lt;li&gt;及时反馈&lt;/li&gt;
+  &lt;li&gt;全神贯注&lt;/li&gt;
+  &lt;li&gt;掌控自如&lt;/li&gt;
+  &lt;li&gt;浑然忘我&lt;/li&gt;
+  &lt;li&gt;时间感异常&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://oax0nr6r7.bkt.clouddn.com/2018-04-05-%E5%BF%83%E6%B5%81.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;上图为心流模型&lt;/p&gt;
+
+&lt;p&gt;心流击中我的几点&lt;/p&gt;
+
+&lt;p&gt;1.管理注意力，掌控意识&lt;/p&gt;
+
+&lt;p&gt;掌控意识为进入心流之前提，也决定生活的品质。而控制意识最明显的指标就是能随心所欲地集中注意力。要将有限的注意力像探照灯一样集中成一道光束，而非任它毫无章法地散开。假如自己是一个小和尚，那么&lt;strong&gt;打水时就只想着打水，扫地时就只想着扫地，不要打水时想着念经，念经时想着吃饭&lt;/strong&gt;。从另一个角度看专注带来的忘我时刻，也可看出&lt;strong&gt;幸福是过程性&lt;/strong&gt;的附加结果，而非最终目标。&lt;/p&gt;
+
+&lt;p&gt;3.区别享乐与乐趣&lt;/p&gt;
+
+&lt;p&gt;第一次听说心流，我下意识地将心流等同于感官之乐，以为心流就是即刻快乐，是吃巧克力冰淇淋的愉悦，实则不是的，&lt;strong&gt;心流不等于当时快乐&lt;/strong&gt;。回想我认为很快乐很爽时是在做什么事情？如果是自己一个人，好像都是在做顺应生物本能的事，是吃碳水甜食油炸高热量。享乐时我们在是服从基因的设计做「刺激 - 反应」模式。适当享乐并无不好，但若一直如此，就会沦为基因的奴隶，和其他动物无异。而心流强调的是去做有挑战的事，在&lt;strong&gt;做这种事时&lt;/strong&gt;你不会感到快乐，但是&lt;strong&gt;过后&lt;/strong&gt;你回想起来，会对自己感到自豪。从另一个角度去理解做难事和享乐，遇到阻力就放弃，生活的确会舒适愉快，但人生到头来也会变得空洞而无意义。&lt;/p&gt;
+
+&lt;p&gt;4.认识自己从记录开始&lt;/p&gt;
+
+&lt;p&gt;这个模型如何得来？是米哈里投入 25 年时间，通过「心里体验抽样法 Experience Sampling Method」采集大量样本，收集了人生体验剖面分析记录超过 10 万份，通过大量实验数据得出。这个方法也可完全迁移到自己的生活：你可以设计一个电子表格，每隔两个小时做记录。记录什么？记录自己在什么地方，在做什么，在想什么，有谁为伴，再以数字量化描述当时意识形态，如开心指数，专注程度，动机高低，自尊心强弱。（不知有无这样一个 APP 可提醒记录这些要素）记录两周后，如何提高生活质量就很明朗了。提高去做各指数高事件的频次，降低各项指数低的事件频次。&lt;strong&gt;但知易行难，knowing and doing is totally a different thing.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;总结：&lt;strong&gt;道可道，非常道，这个流，非常流。&lt;/strong&gt;心流模型不抽象，不鸡汤，反而它给了太多勺子可在平日生活中践行。如果你也经常心，想，念不能合一，不妨读一读。如果你想知道人在何时最幸福，不妨读一读。BTW,《心流》《发现心流》《三生有幸》可做主题阅读，一同食用，效果更佳。再BTW,&lt;strong&gt;写作&lt;/strong&gt;可以说是成本最低的心流运动了，比如我写这篇文章时，时间嗖地就过去了。&lt;/p&gt;
+
+&lt;p&gt;PS. 四月份看了有窦靖童的愚公移山音乐节，和朋友夜爬了华山，看到了山上日出。&lt;strong&gt;昨天是立夏，自己还是喜欢夏天的，想过好这个夏天。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;changelog&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;180506 6h&lt;/li&gt;
+  &lt;li&gt;180505 1h&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Man in the mirror</title>
+   <link href="http://localhost:4000/%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E5%A4%A7%E8%84%91%20%7C%20%E6%80%9D%E8%80%83/2018/03/29/man-in-the-mirror/"/>
+   <updated>2018-03-29T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E5%A4%A7%E8%84%91%20%7C%20%E6%80%9D%E8%80%83/2018/03/29/man-in-the-mirror</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;“我觉得你应该变得更好”
+ “如果这已经是我最好的样子了呢”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;大风吹&quot;&gt;大风吹&lt;/h2&gt;
+&lt;p&gt;从去年夏天到现在变化蛮多，催生变化的点在于去年夏天我突然意识到：这么多年其实我一点也不认识我自己。同时有好多问题想找到答案，比如自己到底发生了什么？为什么总是不开心？我到底想要什么？这让以前只为应付考试才看书的我开始向书求解。果然书中自有黄金屋。 &lt;strong&gt;思考+看书&lt;/strong&gt;让我慢慢找到了一些答案：&lt;strong&gt;总体可以概括为从前做事的底层动机错误&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;我以前做事的底层动机大多建立在他人身上，所谓看人不看事。比如如果喜欢跟一个人玩，觉得一起压马路都会很开心，忽略了事情本身的重要性。&lt;strong&gt;其实【事情本身】特别重要，压马路十年压不出花儿来，但若一起弹吉他，看书，十年下来积累会很不一样&lt;/strong&gt;。常态绝不是通过第三方构建你和世界的联系，而是【从自己出发】，直接构建自己和一切事物的联系。看人不看事的爱屋及乌是非常态，只在极少数人和极少数阶段才会发生，但我却拿这样的非常态当做常态太久，时间溜走，导致我的积累都积累在了一些感情关系上，而非自己身上。因此自己独立的精神世界几乎为空。&lt;/p&gt;
+
+&lt;p&gt;还有一点是以前我特别在意别人的看法眼神期待等，会把别人对我说的「你应该 XX」不假思索地全盘接受。现在自己独自生活越来越久就越来越真切感受到：活着的实实在在的每分每秒都是自己和自己相处，这一秒就这一秒你是开心到想飞起还是愤怒到想摔手机，是紧张到心快要跳出来还是孤单到觉得世界上只有自己一个人？&lt;strong&gt;这些所有所有的细碎情绪【只有自己知道】&lt;/strong&gt;。反思产生情绪背后的原因，我意识到当自我和他人发生冲突，我舍弃自己的意愿去迎合他人意愿时，那一刻可能会让被迎合的人开心，但是过后所有细碎的情绪是自己承载着，分分秒秒。&lt;strong&gt;别人的期待终究只是他们自己的事情&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;提到「你应该 XX 」，比如到年纪了你应该找对象，身为一个女孩子你应该 XXX，男的就应该 XXX ，艺人不应该碰政治……【警惕你应该！】&lt;strong&gt;「你应该」代表对你说「你应该」的那个人已经替你思考出了解决方案，解决方案就是「你应该」后面的那些内容，是那个人对原始材料加工后的演绎&lt;/strong&gt;。但是作为一个有独立思考能力的人，我不需要社会替我想「我应该 XX」，我也不需要他人替我想「我应该 XX」。fuck it.&lt;/p&gt;
+
+&lt;p&gt;你真的了解自己吗？喜欢吃什么，喜欢看什么书？喜欢和谁一起玩，喜欢天空还是大海还是都不喜欢？究竟什么才能让自己开心？究竟想要什么？这些问题的答案又是为什么？&lt;strong&gt;成为自己，忠于自己，绝不意味着自私&lt;/strong&gt;，相反自己底层逻辑建立稳固，真的知道自己要什么后，会散发独特魅力，甚至可以带动别人一同有质量地玩耍。成为自己该是一生的目标，也是奋斗的动力。但&lt;strong&gt;成为自己是有对应代价的，只有越厉害才越有资格说不，越有勇气不一样&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;h2 id=&quot;柳暗花明&quot;&gt;柳暗花明&lt;/h2&gt;
+&lt;p&gt;老阳建议我们读人物传记找寻人生榜样，我没看过太多人物传记，也不觉得找人生榜样是件重要紧急的事情。不过最近听歌听着听着突然找到了我的人生榜样 &lt;strong&gt;&lt;a href=&quot;https://baike.baidu.com/item/%E5%BC%A0%E6%82%AC/4730388?fromtitle=%E7%84%A6%E5%AE%89%E6%BA%A5&amp;amp;fromid=2532958&quot;&gt;焦安溥（张悬）&lt;/a&gt;，从而隐隐约约地知道了我究竟想成为什么样的人。&lt;/strong&gt;By the way,她最近每周日晚上会在电台当 DJ 放她平时私藏歌单里的歌曲，她的歌单为我打开了更广阔的音乐天地，知道了更多优秀创作者和更多元的曲风：落日飞车，草东没有派对，吠人，Lianne La Havas,Ben Howard,Dawn Golden……一个听歌狂魔内心不知道有多幸福了！时不时地有学吉他的冲动。&lt;/p&gt;
+
+&lt;p&gt;这一个多月在 youtube 上看了好多好多她的 live 和 talk，作为一个声控，每次看完视频我都不停在心里感慨：这世上怎么会有这样的人？声音性感，五官清秀，歌词哲理，编曲抓耳，手指细长好看，勇敢地为少数人和不公平现象发声，孜孜不倦地向年轻人说要保持独立思考……&lt;strong&gt;随性真诚，清醒独立，知行合一，忠于自己，我想要成为的样子她都有！&lt;/strong&gt;这样的优质公众人物多来一沓世界一定会更美好。不过人无完人，她是烟鬼酒鬼，哈哈。&lt;strong&gt;但作品说话&lt;/strong&gt;。很好奇她究竟读过哪些书，听哪些歌，遇见什么人，是有怎样的人生经历可以写出「关于我爱你」「艳火」「玫瑰色的你」「无状态」「疯狂的眼光」「我想你要走了」「两者」「城市」「危险的是」「蓝天白云」……这些歌呢？「神的游戏」真的是神专。下面是我摘的一些歌词。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;你栽出千万花的一生 四季中径自盛放也凋零
+你走出千万人群独行 向柳暗花明山穷水尽去
+  -玫瑰色的你&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;扑火 我们相视笑着扑火
+什么都不说 不说的是真的
+我们在遥远的路上
+白天黑夜为彼此是艳火
+如果你在前方回头而我亦回头 我们就错过
+  -艳火&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;超脱和追求时常是混在一起
+你拥抱的 并不总是也拥抱你
+而我想说的 谁也不可惜
+去挥霍和珍惜是同一件事情
+在必须发现我们终将一无所有前
+至少你可以说
+我懂活着的最寂寞
+我拥有的都是侥幸啊
+我失去的都是人生
+  -关于我爱你&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;想起我不喜欢的 也如今它们四散无寻
+看来多么陌生 我去注视变得再也不疏离
+今如旧的，昨天比较新
+新，让我感觉 好奇 怀疑 恐惧 有心
+-蓝天白云&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h2 id=&quot;趁生命气息逗留&quot;&gt;趁生命气息逗留&lt;/h2&gt;
+&lt;p&gt;因为种种原因觉得以后可能会发生一些很不确定不可控的事情。&lt;strong&gt;假如我只剩下一年时间，那么这辈子的身躯和灵魂还有什么遗憾？&lt;/strong&gt;思考了一下，列出一些生命待完成清单。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;1.技能&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;英语&lt;/li&gt;
+  &lt;li&gt;吉他&lt;/li&gt;
+  &lt;li&gt;编程（逻辑）&lt;/li&gt;
+  &lt;li&gt;写作&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;2.事&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;张悬的演唱会&lt;/li&gt;
+  &lt;li&gt;有窦靖童的音乐节&lt;/li&gt;
+  &lt;li&gt;coldplay 的演唱会&lt;/li&gt;
+  &lt;li&gt;连续早睡早起好多天&lt;/li&gt;
+  &lt;li&gt;看到自己的腹肌&lt;/li&gt;
+  &lt;li&gt;跑个 10 公里&lt;/li&gt;
+  &lt;li&gt;好多好多书还没看&lt;/li&gt;
+  &lt;li&gt;看不懂英文原版书&lt;/li&gt;
+  &lt;li&gt;芬兰看极光&lt;/li&gt;
+  &lt;li&gt;美国还没去过&lt;/li&gt;
+  &lt;li&gt;没在山崖上蹦极过&lt;/li&gt;
+  &lt;li&gt;以后一起生活的另一半是谁？&lt;/li&gt;
+  &lt;li&gt;出版一本自己写的书&lt;/li&gt;
+  &lt;li&gt;变得有钱 哈哈哈哈&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;3.近期想看的书&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;非文学
+    &lt;ul&gt;
+      &lt;li&gt;非工作相关
+        &lt;ul&gt;
+          &lt;li&gt;「心流」主题阅读，同时包含《三生有幸》，《这才是心理学》&lt;/li&gt;
+          &lt;li&gt;「政治学」的两本牛津通识读本，也许要和历史同时服用&lt;/li&gt;
+          &lt;li&gt;「科学史」「科学哲学」这一脉络，可能要和《这才是心理学》同时服用&lt;/li&gt;
+          &lt;li&gt;「牛津通识读本」全集&lt;/li&gt;
+          &lt;li&gt;「跑步」主题&lt;/li&gt;
+          &lt;li&gt;下厨房食谱&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;工作相关
+        &lt;ul&gt;
+          &lt;li&gt;「运营」方面的书，尤其是运营之光&lt;/li&gt;
+          &lt;li&gt;「信息安全」「开源」「社会工程学」的主题阅读&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;文学
+    &lt;ul&gt;
+      &lt;li&gt;「银河帝国」七部曲&lt;/li&gt;
+      &lt;li&gt;「风沙星辰」&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;最喜欢天很蓝空气很好有点冷还有一点点风时，我骑车或跑步，一边听着喜欢的歌一边呼吸着把冷空气吞进身体，这种随时可以飞起来的自由感爽过夏天超热时喝的冰可乐。&lt;/strong&gt;我想多发现一些能让自己产生这种感觉的时刻。&lt;strong&gt;新，让我感觉好奇 怀疑 恐惧 有心。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;changelog&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;180331 修改 3h&lt;/li&gt;
+  &lt;li&gt;180330 修改 1.5h&lt;/li&gt;
+  &lt;li&gt;180328 修改 4h&lt;/li&gt;
+  &lt;li&gt;180324 创建&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>火锅底料</title>
+   <link href="http://localhost:4000/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E5%B0%B1%E6%AD%A3%E5%9C%A8%E5%92%8C%E6%B8%B4%E6%9C%9B%20%7C%20%E7%94%9F%E6%B4%BB/2018/01/28/hotpot/"/>
+   <updated>2018-01-28T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E5%B0%B1%E6%AD%A3%E5%9C%A8%E5%92%8C%E6%B8%B4%E6%9C%9B%20%7C%20%E7%94%9F%E6%B4%BB/2018/01/28/hotpot</id>
+   <content type="html">&lt;p&gt;&lt;strong&gt;发自内心的笑就像澄澈的双眼，从不会骗人。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;前天晚上和同事一起吃老北京火锅，&lt;strong&gt;已经不知道多久没这样笑过了&lt;/strong&gt;。这样持续不断，控制不住的笑持续了两三个小时，我想这一定撕裂了躲在脂肪下的深层腹肌，如果我像学生时代那么瘦，吃完饭回家立即对着镜子撩起衣服，定会看到失踪多年的马甲线。第一个说出「笑出腹肌」的人一定是这样笑过的，经常这样笑的人想必身边也环绕着一群有趣的人。&lt;/p&gt;
+
+&lt;p&gt;头脑里闪回搜索笑成这样的人生片段，第一个蹦到脑海中的是高中时期和闺蜜去吃午饭的路上。天呐！自己竟然快六年没这么笑过了？也许这之间也有过，但我忘了。（突然想到爸爸这样的笑是从前年有了弟弟开始多了起来，也许是大学之后的我太糟糕了吧。)&lt;/p&gt;
+
+&lt;p&gt;大家吃着吃着从最开始的扯淡互怼到自白人生经历和心路历程，一段段鲜活真实的故事从每个人口中说出，我心里的小人不停地给出反馈：原来现在的学霸亮哥求学阶段很坎坷还打架，以前抽烟喝酒，家里两个优秀的姐姐有时让他喘不过气；原来彭彭一直是这样的超级大学霸，人家死记硬背考试内容时她在看庄子，高考最后 100 天考上复旦，游刃有余的学生时代实在我羡慕；阿磊的谜之自信和家庭与学校环境有很大关系；团队的二把手兔子和我一样愿意玩模拟人生，愿意听 coldplay ，和我一样在初中高把老师的话当做圣旨……&lt;/p&gt;
+
+&lt;p&gt;人就像一枚硬币，往往美好的一面朝上，阴郁的一面隐藏在下面看不见。大家的生命故事并不都是阳光的，有些人和我去年一样也有着「至暗时刻」，或是外部的评价，或是一些「我本可以」，或是一些意外，这些变量突如其来，慢慢筑起围墙把一颗心圈在里面，封闭，压抑，黑暗，毫无光亮。也像一场噩梦。&lt;strong&gt;这时，纵然自己再拳打脚踢再挣脱撕扯拼命掐疼自己也无法醒来。直到有一天，一群人拍拍我说「hey,醒一醒，起来收拾收拾，我们一起去吃火锅吧。」于是终于从噩梦醒来，重见光亮。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;这段经历让我明白破解心牢有时真的不在自己，而是外界带来的第二序的改变。若下次再有至暗时刻，我希望做一个真正的勇士。如果没有，那我希望去做一个可以摇醒在做噩梦的人。&lt;/p&gt;
+
+&lt;p&gt;人生如同火锅，底料是清汤锅还是麻辣锅，是番茄锅还是咖喱锅，吃的时候配上麻将还是海鲜酱油还是大蒜香油，最后搭配出的味道是只属于自己的叙事，如果恰巧有一群人可以一起互相品尝彼此的火锅，那真的太好了。&lt;/p&gt;
+
+&lt;p&gt;你的火锅是什么味道？&lt;/p&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;changelog&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;180210 修改&lt;/li&gt;
+  &lt;li&gt;180129 修订&lt;/li&gt;
+  &lt;li&gt;180128 创建&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>什罗普郡的浪荡儿</title>
+   <link href="http://localhost:4000/%E4%B8%8D%E8%BF%9B%E5%85%A5%E5%A4%AA%E5%8F%AF%E6%83%9C%E7%9A%84%E4%B8%96%E7%95%8C%20%7C%20%E6%96%87%E6%9C%AC/2018/01/27/A-Shropshire-Lad/"/>
+   <updated>2018-01-27T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%8D%E8%BF%9B%E5%85%A5%E5%A4%AA%E5%8F%AF%E6%83%9C%E7%9A%84%E4%B8%96%E7%95%8C%20%7C%20%E6%96%87%E6%9C%AC/2018/01/27/A-Shropshire-Lad</id>
+   <content type="html">&lt;p&gt;来自远方&lt;/p&gt;
+
+&lt;p&gt;来自黄昏和清晨&lt;/p&gt;
+
+&lt;p&gt;来自十二重高天的好风轻扬&lt;/p&gt;
+
+&lt;p&gt;飘来生命气息的吹拂&lt;/p&gt;
+
+&lt;p&gt;吹在我身上&lt;/p&gt;
+
+&lt;p&gt;快&lt;/p&gt;
+
+&lt;p&gt;趁生命气息逗留&lt;/p&gt;
+
+&lt;p&gt;盘桓未去&lt;/p&gt;
+
+&lt;p&gt;拉住我的手&lt;/p&gt;
+
+&lt;p&gt;告诉我你的心声&lt;/p&gt;
+
+&lt;p&gt;告诉我，我便能回答&lt;/p&gt;
+
+&lt;p&gt;说我如何能够助你&lt;/p&gt;
+
+&lt;p&gt;在我向那十二风彼方行进&lt;/p&gt;
+
+&lt;p&gt;踏上无尽旅途的前夕&lt;/p&gt;
+
+&lt;p&gt;– [英] A E 霍斯曼&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;A Shropshire Lad&lt;/p&gt;
+
+&lt;p&gt;A.E.Housman&lt;/p&gt;
+
+&lt;p&gt;Poem XXXII&lt;/p&gt;
+
+&lt;p&gt;From far, from eve and morning&lt;/p&gt;
+
+&lt;p&gt;And yon twelve-winded sky&lt;/p&gt;
+
+&lt;p&gt;The stuff of life to knit me&lt;/p&gt;
+
+&lt;p&gt;Blew hither: here am I&lt;/p&gt;
+
+&lt;p&gt;Now – for a breath I tarry&lt;/p&gt;
+
+&lt;p&gt;Nor yet disperse apart&lt;/p&gt;
+
+&lt;p&gt;Take my hand quick and tell me&lt;/p&gt;
+
+&lt;p&gt;What have you in your heart&lt;/p&gt;
+
+&lt;p&gt;Speak now, and I will answer&lt;/p&gt;
+
+&lt;p&gt;How shall I help you, say&lt;/p&gt;
+
+&lt;p&gt;Ere to the wind’s twelve quarters&lt;/p&gt;
+
+&lt;p&gt;I take my endless way.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>24</title>
+   <link href="http://localhost:4000/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E5%B0%B1%E6%AD%A3%E5%9C%A8%E5%92%8C%E6%B8%B4%E6%9C%9B%20%7C%20%E7%94%9F%E6%B4%BB/2017/12/17/24/"/>
+   <updated>2017-12-17T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E5%B0%B1%E6%AD%A3%E5%9C%A8%E5%92%8C%E6%B8%B4%E6%9C%9B%20%7C%20%E7%94%9F%E6%B4%BB/2017/12/17/24</id>
+   <content type="html">&lt;p&gt;写在 23 岁的最后几个小时。&lt;/p&gt;
+
+&lt;p&gt;现在是 19：57 ，刚吃完一份辛拉面，在听 The xx 乐队新专辑的  On Hold ，好听，喜欢。前些天同事问我，如果五种感官你只能留一个，你会留哪个，我立刻说会在听觉和视觉选择，完全想象不出听不到歌该怎么生活，现在听到好听的歌还是会立刻停下手头所有的事情，戴上耳机去单曲循环，然后心想「卧槽，这个歌好好听，如果我能听现场，耳朵割下来也可以啦」&lt;/p&gt;
+
+&lt;p&gt;博客断了一个半月，赶在生日之前才一定要写一篇。这期间找了份新工作，没想到可以到 &lt;a href=&quot;http://www.yangzhiping.com/&quot;&gt;阳老师&lt;/a&gt; 手下工作，工资还好，就是五道口的房租好贵，吃完饭也不剩几个子儿了。不过对钱还没有太多的想法，能生活就好。这份工作解决了我的城市，专业，行业等太多太多问题。 &lt;strong&gt;so much thanks to yang!&lt;/strong&gt; 开智同事都很好，行动力很强，既能思考又能做事，我差距还是有点大，只能说加油喽，快写慢改，完成大于完美，learning by doing。然而我的高阶奢求还是希望能交到几个朋友。&lt;/p&gt;
+
+&lt;p&gt;最近的一些感悟&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;不要害怕犯错，多试错。最近发现自己一个十分十分不好的思考习惯：别人说一句什么我下意识地点头或者说好，然后再去思考那句话。正确的应该是我先去思考说的话，然后给出反应，点头或 say no 或 ask why 。&lt;strong&gt;没想明白自己的这个习惯是因为太害怕出错太害怕冲突与争论还是想取悦别人&lt;/strong&gt;，这个坏思考习惯是我很多行为的来源。这两天已经开始有意识地监控自己的思考顺序了，明年一年也都会重点监控这个思考习惯。&lt;strong&gt;如果害怕犯错，害怕起冲突，从而畏手畏脚的，别人说什么是什么，那我好像会比较完蛋。&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;面对未知，让子弹飞一会儿。有时候自己碰到新的，未知的，不确定的东西时会下意识排斥恐惧躲避，希望那件事儿没有该多好，但往往经历了过后都会有新的感悟，并会感谢自己当时选择了参与其中。比如前几天公司团建的蹦床，一开始我听到是排斥的，但是跟着去了和大家一起玩，感受到失重和在空中的感觉真的很爽，也有点明白了富人愿意玩极限运动，可能也是体会到了失重的爽。我想年轻的这几年可能要多多尝试失重啦比如蹦极，哈哈。这点好像就是走出舒适区&lt;/li&gt;
+  &lt;li&gt;多和他人沟通。现在越来理解阳老师说的追承载信息的人，而非追逐信息本身是什么意思了。的确是要落在人身上，一个人就是一个世界，和一个厉害的人交谈起来会发现不直接接触就不知道的内隐知识，这就是具身认知吧。除去具身认知，和他人沟通时也会打开自己的眼界，了解到这个世界是这样的多元化，还有这样的一类人在这样的生活而非沉溺在自己的小世界，并且这些形色各异的价值观没有是非对错，大家只是选择不同罢了。总之，没什么事儿的话多和人吃吃饭说说话，每个人都是通向另一番风景的窗&lt;/li&gt;
+  &lt;li&gt;重新定义常态。不确定才是常态，小到每天的工作内容大到你的生活。另外看不懂诗才是常态，博尔赫斯也有好多诗不懂呢&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;万物都有裂隙，那是光照进来的地方。朋友问我你今年最大的感悟是什么？我说我感受到了光，我想继续活下去了。加油。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;changelog&quot;&gt;changelog&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;180114 修改&lt;/li&gt;
+  &lt;li&gt;171217 创建&lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>开智行</title>
+   <link href="http://localhost:4000/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E5%B0%B1%E6%AD%A3%E5%9C%A8%E5%92%8C%E6%B8%B4%E6%9C%9B%20%7C%20%E7%94%9F%E6%B4%BB/2017/10/28/openmindclub/"/>
+   <updated>2017-10-28T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%8D%E7%9F%A5%E9%81%93%E6%80%8E%E4%B9%88%E5%B0%B1%E6%AD%A3%E5%9C%A8%E5%92%8C%E6%B8%B4%E6%9C%9B%20%7C%20%E7%94%9F%E6%B4%BB/2017/10/28/openmindclub</id>
+   <content type="html">&lt;p&gt;北京不同区的气质也很不同。五道口的气质原来是这样。&lt;/p&gt;
+
+&lt;p&gt;天微冷，同道咖啡好隐蔽，不在商业街道上，在写字楼外侧。进入后，独自拘泥地站了一会儿，默默看几个男生聚在一起侃侃而谈。&lt;strong&gt;突然只见一个矮小，穿着黑羽绒服，却气场非凡的光头快步走进来。&lt;/strong&gt;哇！这就是阳志平老师！终于见到了男神，&lt;strong&gt;对大脑性感的人毫无抵抗力&lt;/strong&gt;。比想的瘦一些，在视频中反复听到的魔性口音亲耳听到，感觉很微妙。&lt;/p&gt;
+
+&lt;p&gt;上午讲部落2.0计划，阳老师兴致勃勃地说了很多。总结：底层认知升级服务更多人，中层培养写作／编程／黑客技能，顶层通过考试选拔才能加入开智教练团，成为利益同盟者，另外付费社群因为一些隐患转为免费的校友会模式。&lt;/p&gt;
+
+&lt;p&gt;有几个点感触颇深。最有感触的是阳老师将文学和商业完美平衡。&lt;strong&gt;文学等艺术类用于滋养灵魂，防止灵魂干瘪，预防抑郁，焦虑等现代心理疾病。其他核心技能用于创造未来，产出商业价值。所以正确的理念应该是不必当文艺青年吃不上饭，也不必在互联网行业因为创业压力太大跳楼自杀。真好。&lt;/strong&gt;另外，他又再次强调哲学思维和工程思维。一个鲜活的成功转型案例：一个男生初中出来做了八年销售，自学三年编程后成功转型加入开智阳老师团队。阳老师强调程序员需求很大。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;中午和阳老师吃了饭！真正的具身认知。&lt;/strong&gt;几个点：1.没想到阳老师对我和我的小故事还蛮深刻，说出了我的名字还记得我姓胡，是吉林大学毕业的，开心。2 解决了我对城市的困惑与心结。&lt;strong&gt;阳老师的建议是让我赶快离开东北，干脆直接去五道口，从事科技互联网行业。&lt;/strong&gt;从运营做起，因为我的学历背景还好，并且行业门槛不高，五道口机会多，运营每天都在做决策，成长的很快。产品很难有好机会成长，编程我的能力还不行。（离开东北，北京东边已经不行，要去五道口，望京，上地）3.&lt;strong&gt;人的差距是在不知不觉中被拉大的。不要相信个人的意志力，和聪明人在一起，相信同侪压力。&lt;/strong&gt;4.&lt;strong&gt;摆脱路径依赖。我真的不能走家里的路线了，如果这样，我以后都会一直依赖，这样下去根本没办法自己独立决策。另外即使传统行业的500强也不行了。我一定要说服家里，跳出他们的系统。&lt;/strong&gt;5.一个点我印象深刻。阳老师想说付费社群的隐患，我却听到&lt;strong&gt;基础概率是阳老师随时调用的思维工具&lt;/strong&gt;。1000人社群90%的好评率，那么1000人会有100人散播差评。我听到90%不会去计算，以后我碰到百分比，也要去运用概率数字进行具体计算。6.数学很重要。&lt;strong&gt;晚上回想，吃饭的机会其实很难得。有一点点遗憾，想问哲学怎么入门，没问出口，等下次去的。&lt;/strong&gt;（我录了音，嘿嘿。简直不要太聪明）&lt;/p&gt;
+
+&lt;p&gt;下午是认知写作学讲座。可能自己有点点累，听的迷迷糊糊。拿王小波的例子来证明有趣是对世俗标准的偏离，一部分要变，一部分不要变。我提的问题的答案&lt;strong&gt;在《玩具屋九讲》，细读慢读文学文本&lt;/strong&gt;。另外，翻译对练习文学很重要，还有如果找到自己的想模仿写作的风格，干脆就去背诵好了！（古诗源，辛弃疾全集），写作还是要慢慢形成自己的写作风格。时空变形，创造新的认识感觉。平时的写法：黑暗&lt;strong&gt;笼罩&lt;/strong&gt;大地。海子的写法：黑暗从大地&lt;strong&gt;升起&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;跟开智的模因怎么就这么合。“嘿嘿”，一想到开智会嘴角上扬，这难道不是恋爱才有的行为吗？这几个月真的就像和一个知识体系谈了一次恋爱。以前一直觉得自由是能游离于任何体系之外，不受任何限制，但现在才发现约束和限制很重要，你总得信任什么不是吗？什么都不信，什么都质疑，游离于任何体系之外，根本不能成长，那也真的不会自由。你要找到想归属的那一套体系，然后受制其中，对比哪里做得好，哪里做得不好，然后进行自我修正。&lt;/p&gt;
+
+&lt;p&gt;终于知道了自己觉得对的气质是什么样的，以前该是跑偏到外太空了。说是此行完成一次心中朝圣，绝对夸张了，但是，你总要相信什么，现在的我就是相信开智的体系。（当然，阳老师倡导不要依赖任何第三方评价体系，形成自己的独立生成体系能力，这一点我还在路上，慢慢练习吧。）&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;异类与异类终会相遇&lt;/strong&gt;，只是正确的事儿赶早不赶晚。感谢自己开悟和输出，感谢阳老师和开智的知识体系，感谢家人（去年还是爸爸拿的钱让我加入的）。&lt;/p&gt;
+
+&lt;p&gt;这次开智行，太值了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https:/github.com/BleuHu/BleuHu.github.io/blob/master/_posts/FullSizeRender%204.jpg?raw=true/FullSizeRender 4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https:/github.com/BleuHu/BleuHu.github.io/blob/master/_posts/IMG_3223.JPG?raw=true/IMG_3223.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https:/github.com/BleuHu/BleuHu.github.io/blob/master/_posts/IMG_3226.JPG?raw=true/IMG_3226.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https:/github.com/BleuHu/BleuHu.github.io/blob/master/_posts/IMG_3249.JPG?raw=true/IMG_3249.JPG&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>读书法（二）－ 走出轻松读书</title>
+   <link href="http://localhost:4000/%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E5%A4%A7%E8%84%91%20%7C%20%E6%80%9D%E8%80%83/2017/10/16/readingskills2/"/>
+   <updated>2017-10-16T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E5%A4%A7%E8%84%91%20%7C%20%E6%80%9D%E8%80%83/2017/10/16/readingskills2</id>
+   <content type="html">&lt;p&gt;放眼读书，前十年未必胜，中十年不会败，后十年无须战。&lt;/p&gt;
+
+&lt;h1 id=&quot;选书选有难度的书&quot;&gt;选书：选有难度的书&lt;/h1&gt;
+&lt;p&gt;上次写过一篇&lt;a href=&quot;http://www.huyuning.com/%E8%AF%BB%E4%B9%A6/2017/09/18/%E8%AF%BB%E4%B9%A6%E6%B3%95-%E4%B8%80-%E8%B5%B0%E5%87%BA%E8%AF%BB%E4%B9%A6%E7%98%AB%E7%97%AA/&quot;&gt;读书法（一）&lt;/a&gt;，那是告别读书瘫痪，可以开始读书这个行为了。但是开始读书了，然后呢？答：&lt;strong&gt;&lt;em&gt;勿要轻松读书&lt;/em&gt;。&lt;/strong&gt;若读书目的是提高自己，将知识内化，提升思想，改变行为行为，&lt;strong&gt;那么读书是一件严肃，辛苦的事，要付出相当脑力&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;市面上的书可以分为几种：&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;毫不费劲可以读懂的书。&lt;/li&gt;
+  &lt;li&gt;费一点脑力可读懂的书。&lt;/li&gt;
+  &lt;li&gt;需要耗费全部脑力读懂的书。&lt;/li&gt;
+  &lt;li&gt;耗费全部脑力也无法读懂的书。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;1，2类在现实里就是&lt;strong&gt;畅销书&lt;/strong&gt;或&lt;strong&gt;各知识平台转述的二三手知识&lt;/strong&gt;。那些看的再多也不能让你进步，当时看个热闹，你认为你知道一些信息了，但过后什么也没剩下。更何况现在的新媒体为了写10万+爆款文而写，有庞大利益牵扯，动机不会是让你长知识。&lt;/p&gt;
+
+&lt;p&gt;我们举铁锻练时，用超负荷的重量去炼肌肉，肌肉才能更强。读书也是一样，若只看1，2类一看就能看懂的书，获取感官愉悦，那么毫不客气的说，无论读了多少本书，&lt;strong&gt;都是在低水平重复&lt;/strong&gt;，至多增加一些茶余饭后的谈资，&lt;strong&gt;很难有知识水平的提高。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;向圣者学一二远远胜过向庸人学八九，读书亦然。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;知识也符合二八定律，20%的源头知识产出一个领域80%的知识，书本无限，源头知识有限&lt;/strong&gt;。书与书的含金量很不同。比如决策与判断领域中，《思考快与慢》诺奖获得者卡尼曼的一篇1974年论文深深影响了这个领域三十年，很多决策书的内容就是由这篇经典学术论文&lt;strong&gt;衍生&lt;/strong&gt;而出。源头知识要到3，4类难书神书中去学，从那些书打怪升级锻炼出来后，看世界会不一样，市面上的二手知识更可&lt;strong&gt;“一笑而过”&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;h1 id=&quot;主题阅读一堆书--一本书&quot;&gt;主题阅读：一堆书 &amp;gt; 一本书&lt;/h1&gt;
+&lt;p&gt;一本难书&lt;strong&gt;远远不够&lt;/strong&gt;，我们还需要&lt;strong&gt;一堆书&lt;/strong&gt;来进行&lt;strong&gt;主题阅读&lt;/strong&gt;。例如想研究&lt;strong&gt;如何学习&lt;/strong&gt;的主题，同时读&lt;a href=&quot;https://book.douban.com/subject/4864832/&quot;&gt;《为什么学生不喜欢不上学》&lt;/a&gt;，&lt;a href=&quot;https://book.douban.com/subject/2124114/&quot;&gt;《怎样解题》&lt;/a&gt;，&lt;a href=&quot;https://book.douban.com/subject/26895988/&quot;&gt;《学习之道》&lt;/a&gt;，&lt;a href=&quot;https://book.douban.com/subject/6510682/&quot;&gt;《脑的阅读》&lt;/a&gt;等，而非只读其中一本。&lt;/p&gt;
+&lt;h2 id=&quot;1大脑善于找不同&quot;&gt;1.大脑善于找不同&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;我们的大脑喜欢对比，喜欢找不同&lt;/em&gt;&lt;/strong&gt;。例如单问你爸爸的性格你会模模糊糊答不出，但问你爸爸妈妈有什么不同，你一定会脱口而出。这一认知原理用在读书上就是&lt;strong&gt;主题阅读&lt;/strong&gt;。从一堆书中，看不同书如何以不同视角对同一问题解读。例如理性思维主题，《机器人叛乱》以故事和隐喻风格切入；《思考快与慢》是科普文风格；《超越智商》偏学术风格，《这才是心理学》是通俗易懂的白话风格，使用一堆书从不同视角切入，&lt;strong&gt;比单看其中一本&lt;/strong&gt;要高效深刻很多。&lt;/p&gt;
+
+&lt;h2 id=&quot;2一堆书帮你找到源头知识&quot;&gt;2.一堆书帮你找到源头知识&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;无体系不可取，乱读易走火入魔，不如不读。任何知识都不是一片孤岛，独立于体系之外。&lt;/em&gt;&lt;/strong&gt;掌握一个领域的知识脉络比掌握单一知识点重要太多。利用主题阅读找到源头知识：&lt;strong&gt;反复被引用，被大多数书的目录都包含的部分一定是重要的源头知识。顺着这些源头知识的承载者继续梳理，知识体系自然涌现。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;读完不算完写完才算完&quot;&gt;读完不算完，写完才算完&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;读完不算完，写完才算完。输出&amp;gt;输入。&lt;/em&gt;&lt;/strong&gt;如果读难书比读畅销书难，那么写难书的读书笔记是难上加难，有时会“痛不欲生”！&lt;strong&gt;正因如此，更要努力去写一张张读书卡片和一本本读书笔记。&lt;/strong&gt;只有&lt;strong&gt;倒逼自己输出，&lt;/strong&gt;才能将知识内化，下次再调用这些知识时，也会更容易。&lt;/p&gt;
+
+&lt;h1 id=&quot;心态年轻时做更难的事&quot;&gt;心态：年轻时做更难的事&lt;/h1&gt;
+&lt;p&gt;大学前一直看教科书，大学时也是。现在回想，教科书中的知识其实是纯正，通用，普世的。然而当时年纪小，生活经验少，没有触发，没有深刻理解，僵化教育体制更摧毁了内在动机和好奇心。&lt;strong&gt;错误的时间遇到正确的知识&lt;/strong&gt;，糟蹋了多少好知识！&lt;/p&gt;
+
+&lt;p&gt;今年八月开始啃起提高认知的一本本难书，理解力在大大增进。也悔恨为何没早早开始，浪费多少无压力的黄金时光！转念一想，也有好处，要不是一些错误，一些看似不好的经历，我不会顿悟，不会像现在这般有方向与冲劲，我仍是到处喊迷茫的我。庆幸自己幡然悔悟，&lt;strong&gt;明白的恰是时候&lt;/strong&gt;！年轻时做更难的事，不然等到70做吗？&lt;/p&gt;
+
+&lt;h1 id=&quot;总结尽早享受知识的复利&quot;&gt;总结：尽早享受知识的复利&lt;/h1&gt;
+
+&lt;p&gt;&lt;strong&gt;知识是有复利的，像财富一样，越多越多。从恶性循环到良心反馈需要时间，需要过程，0到1时难，1到N会越来越简单。一开始读不懂正常，大家都一样。把读书当作习惯，把知识当作回忆。享受知识复利之时，你会感谢当初的自己！&lt;/strong&gt;
+&lt;strong&gt;用桑兵老师的话共勉！用&lt;a href=&quot;https://mp.weixin.qq.com/s?__biz=MzA3MzM0MjUyMQ==&amp;amp;mid=2652149947&amp;amp;idx=1&amp;amp;sn=e3056c8d2dfee447d0097e9df3d54102&amp;amp;chksm=84f0b3edb3873afb77c024ec6604e2426563601715c389600bafccef6c1f71cb148cdff3d807&amp;amp;scene=0&amp;amp;key=2c45ecf06f18becea4a94530becd1d7138d48e2f1a25b5b182f0debb51768ed97e5f948d08f9bfbb04aef27130bae09b4bad49cbfab06785a5fac86c65fd094ee4e420d3d5e1d97d281d735fbcaacbe3&amp;amp;ascene=0&amp;amp;uin=Mjc3OTAxMDcyMA%3D%3D&amp;amp;devicetype=iMac+MacBookPro11%2C4+OSX+OSX+10.11.6+build(15G1510)&amp;amp;version=12020810&amp;amp;nettype=WIFI&amp;amp;fontScale=100&amp;amp;pass_ticket=XB%2F7DGAkSvqzs238BWmmrojIqIghCXNS%2BYxyLmxgoHQbn2wZ4V7menTkkxYRf4vR&quot;&gt;文化资本&lt;/a&gt;跃迁阶级层次。&lt;/strong&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;” 放眼读书，前十年未必胜，中十年不会败，后十年无须战。“－桑兵&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;附：&lt;strong&gt;难书哪里开始？&lt;/strong&gt;&lt;a href=&quot;https://www.douban.com/doulist/41691053/&quot;&gt;开智正典心智升级百本经典导读&lt;/a&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>逆向思维</title>
+   <link href="http://localhost:4000/%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E5%A4%A7%E8%84%91%20%7C%20%E6%80%9D%E8%80%83/2017/10/11/reverse-thinking/"/>
+   <updated>2017-10-11T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E5%A4%A7%E8%84%91%20%7C%20%E6%80%9D%E8%80%83/2017/10/11/reverse-thinking</id>
+   <content type="html">&lt;p&gt;“我只想知道将来我会死在什么地方，这样我就不会去那了。”&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;投资界大拿&lt;strong&gt;查理.芒格&lt;/strong&gt;思考问题总是从逆向开始。例如，如果要明白人生如何得到幸福，他首先研究人生如何变得痛苦；大部分人最关心的是为什么在股市投资上成功，他最关心为什么在股市投资上会失败。他漫长的一生中，持续不断地收集研究人类失败著名案例，并列出正确决策的清单，这使他在人生，事业的决策上几乎从不犯重大错误。 －《穷查理宝典》&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;strong&gt;大师利用逆向思维使自己立于不败之地，我们普通人也可巧用逆向思维这把流星锤打破思维枷锁，使局面豁然开朗。那么该如何巧用逆向思维呢？&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;证伪思维&quot;&gt;证伪思维&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E5%8F%AF%E8%AF%81%E4%BC%AA%E6%80%A7&quot;&gt;可证伪性&lt;/a&gt;的源头是哲学家&lt;a href=&quot;https://zh.wikipedia.org/wiki/%E5%8D%A1%E5%B0%94%C2%B7%E6%B3%A2%E6%99%AE%E5%B0%94&quot;&gt;卡尔.波普尔&lt;/a&gt;，波普尔证伪思想的中心是：&lt;strong&gt;真不能被证明，只有伪可以被证明&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;可证伪的意思是可以被推翻，可以被证明是错误的&lt;/strong&gt;。什么叫具有可证伪性呢？举个例子：一个理论说“世界上所有的绵羊都是白色的”，那么当你在客观世界里观察到一个黑绵羊存在，这个理论就被推翻了，那么我们说“所有绵羊都是白色的“这个理论具有可证伪性，&lt;strong&gt;&lt;em&gt;这个理论存在能够被推翻的可能&lt;/em&gt;&lt;/strong&gt;。&lt;strong&gt;再多的白羊也不能证明所有的羊都是白的，而只要一只黑羊就能证明“所有的羊都是白的”这个理论是错的&lt;/strong&gt;。再抽象一点：再多的正面例子也无法证明观点，只要一个反例就能推翻观点，那么那个观点就具有可证伪性！（不过被推翻并不意味着理论完全错误，通常是需要修正，&lt;strong&gt;科学不是完美，是无限逼近&lt;/strong&gt;。）&lt;/p&gt;
+
+&lt;p&gt;为了加深理解，现在从反面想一下，&lt;strong&gt;什么是不可证伪呢&lt;/strong&gt;？举个著名的例子：卡尔.萨根的&lt;a href=&quot;https://www.douban.com/note/309830653/&quot;&gt;龙喻&lt;/a&gt;。有人说“一条龙在车库中”，你好奇去看，结果车库除了旧车什么也没有。你问龙呢，他说龙是会隐身的的，无法肉眼看到，你说那我们用粉末撒在地板上看看有无龙爪的痕迹，他说龙是悬浮空中的，然后你建议用红外线传感器探测肉眼看不见的火焰，他说这个火焰同时是没有温度的，就这样一直下去，你所有物理探测的建议他都能用一个特别的解释反驳你，告诉你为什么你的建议行不通。&lt;strong&gt;这就是不可证伪,不可证伪就是将否定无限合理化。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;回到主题逆向思维，我们已经可以看到，证伪思维是一定会使用逆向思维的！证伪过程两步走，第一步找反例，如白羊的反例是黑羊(也可以是红羊绿羊，这里就拿黑羊代替非白羊)，第二步是要去证明反例是存在的，如在现实世界里观察到了一只黑羊。可以看到，第一步找反例就是最地道的逆向思维。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;人们天然的思维倾向是寻找证实假设的证据，而非证伪的证据。－基思.斯坦诺维奇&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;h1 id=&quot;贝叶斯定理中的逆向思维备择假设项&quot;&gt;贝叶斯定理中的逆向思维－备择假设项&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&quot;https://zh.wikipedia.org/zh-cn/%E8%B4%9D%E5%8F%B6%E6%96%AF%E5%AE%9A%E7%90%86&quot;&gt;贝叶斯定理&lt;/a&gt;的&lt;em&gt;二中择一形式中，充分说明了贝叶斯定理是一个由结果推导原因，由已知倒未知的过程&lt;/em&gt;。由四项P(~B),P(B),P(A|B),P(A|~B)能够导出P(B|A)，其中P(A|~B)通常表示备择假设导致结果A出现的概率，此项是正常思维容易忽视的一项，&lt;strong&gt;它往往代表大脑容易忽视的反例&lt;/strong&gt;。 （A是结果，是收集到的有关假设的数据。B是焦点假设，~B是备择假设。）&lt;/p&gt;
+
+&lt;h2 id=&quot;备择假设的例子&quot;&gt;备择假设的例子：&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;1.最经典的一个例子就是疾病检测。假设某种疾病在所有人群中的感染率是0.1%，医院现有的技术对于该疾病检测准确率为99%（已知患病情况下， 99%的可能性可以检查出阳性；正常人99%的可能性检查为正常），如果从人群中随机抽一个人去检测，医院给出的检测结果为阳性，那么这个人实际得病的概率是多少？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;2.出了一期交通肇事逃逸事件，城市只有两个颜色的车：蓝色和绿色，蓝色车15%，绿色85%，目击证人指证的正确率为80%，问造成事故是蓝色车的概率？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;第一个例子中的结果A是呈阳性，那么备择假设为&lt;strong&gt;不患病（由于仪器误差)导致结果也呈现阳性。&lt;/strong&gt;第二个例子中结果是蓝色，备择假设为&lt;strong&gt;不是蓝色的车（由于眼睛误认)导致结果也呈现蓝色&lt;/strong&gt;。&lt;/p&gt;
+
+&lt;p&gt;若没有概率思维，不考虑贝叶斯定理的备择假设，那么会得出十分错误的答案，觉得都呈现阳性了，那么患病概率怎么也要90%以上吧，其实即使被医院检测为阳性，实际患病的概率其实还不到10%，有很大可能是假阳性，往往需要复检来确定是否真的患病。&lt;strong&gt;故要想到备择假设，也就是反例，也要想到基础概率，训练概率思维。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;反义词的表述影响决策&quot;&gt;反义词的表述影响决策&lt;/h1&gt;
+
+&lt;h2 id=&quot;框架效应&quot;&gt;框架效应&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;进行海上救援，一共600人，A计划确保200人&lt;strong&gt;获救&lt;/strong&gt;；B计划1／3概率全部人获救，2/3概率全部丧生。你会选哪个？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;还是海上救援，一共600人，C计划400人&lt;strong&gt;死亡&lt;/strong&gt;；D计划1/3概率没有人死亡，2/3概率全部丧生。你会选哪个？&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;大多数人在第一种说法里选A,第二种说法里选D，但其实A和C是一回事，B和D是一回事，只是&lt;strong&gt;使用了一对儿反义词&lt;/strong&gt;使语言表述不同，但这两种表述框架都&lt;strong&gt;指向同一个结果&lt;/strong&gt;。这说明仅仅使用反义词就影响了决策，可见人是多么非理性。&lt;/p&gt;
+
+&lt;h1 id=&quot;刻意训练&quot;&gt;刻意训练&lt;/h1&gt;
+
+&lt;p&gt;8月份开始一边读书一边反思自己。读书与反思过程突然让我意识到，我从来都是正向思考，不曾考虑过如失去，损失等反面词汇，&lt;strong&gt;很少有逆向思维的意识&lt;/strong&gt;。知晓逆向思维的妙处后，&lt;strong&gt;刻意练习逆向思考&lt;/strong&gt;，想事情的确更深刻了。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;用逆向思维理解一个概念&lt;/strong&gt;。比如&lt;strong&gt;组织&lt;/strong&gt;，我当然认识这个词，但每次都是不过脑子的用或说，&lt;strong&gt;所以这个总在使用的词我理解的并不深刻。&lt;/strong&gt;有一天我看到&lt;strong&gt;形容没有组织&lt;/strong&gt;是“&lt;strong&gt;想起什么说什么&lt;/strong&gt;”，那瞬间我秒懂了“组织”作为动词时的意思。&lt;/p&gt;
+
+&lt;p&gt;又如前几天复习概率论中的条件概率。条件概率是概率论中的重要知识点，我一开始一直纠结公式中的分母，它为什么不是原来的大样本空间。百思不得解后，我想到用逆向思维转换思路：&lt;strong&gt;没有条件是怎样的情况呢？更准确的说，有没有条件究竟造成了什么区别呢？&lt;/strong&gt;这么逆向反问自己让我突然意识到若分母还是原来的样本空间，那不就跟没设置条件一样么，&lt;strong&gt;有条件就意味在原来的大样本里规定了新样本空间。&lt;/strong&gt;（即条件发生的同时产生新样本空间）！所以运用逆向思维让我彻底理解了条件概率。&lt;strong&gt;条件就是附加信息，附加信息产生了新样本空间，就这么点事儿。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;用逆向思维促进决策，解决问题&lt;/strong&gt;。比如前几天我的一个微信群里讨论：人为什么要学习。我用逆向思维考虑这个问题：&lt;strong&gt;如果不学习&lt;/strong&gt;那本来用来学习的时间干嘛呢？玩手机？刷无聊的剧？如果没有更有意义的事去做，那还不如学习，&lt;strong&gt;因为自己迷失过一段时间，不学习的状态太空虚可怕，永远都不想回到那个时候&lt;/strong&gt;。你看，适当运用逆向思维就可以把问题解决掉。&lt;/p&gt;
+
+&lt;h1 id=&quot;总结&quot;&gt;总结&lt;/h1&gt;
+
+&lt;p&gt;逆向思维之所以另辟蹊径，是因为这个思考过程产生了&lt;strong&gt;新的反向思维路径&lt;/strong&gt;。认知科学原理告诉我们，&lt;strong&gt;我们的大脑善于找不同&lt;/strong&gt;，面对一正一反两个路径，我们会&lt;strong&gt;不自觉地进行对比&lt;/strong&gt;，不知道什么是对的，但知道什么是错的，眼前也会更澄澈明亮。因此手握&lt;strong&gt;逆向思维&lt;/strong&gt;这把登山杖，会避免我们迷失在真相之山的虚缈迷雾，&lt;strong&gt;想反例，想证伪，想备择假设&lt;/strong&gt;如同点点璀璨星光，眨着眼，指引我们更快达到山顶，与鸟儿共舞，与白云嬉戏，与天空为伴。&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>读书法（一）－走出读书“瘫痪”</title>
+   <link href="http://localhost:4000/%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E5%A4%A7%E8%84%91%20%7C%20%E6%80%9D%E8%80%83/2017/09/18/readingskills1/"/>
+   <updated>2017-09-18T00:00:00+08:00</updated>
+   <id>http://localhost:4000/%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E5%A4%A7%E8%84%91%20%7C%20%E6%80%9D%E8%80%83/2017/09/18/readingskills1</id>
+   <content type="html">&lt;p&gt;如果有天堂，天堂一定是图书馆的样子。不过先要找到入口才是。&lt;/p&gt;
+
+&lt;h1 id=&quot;明确目的&quot;&gt;明确目的&lt;/h1&gt;
+&lt;p&gt;首先一定要弄明白你读那本书的目的&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;消遣，打发时间。&lt;/li&gt;
+  &lt;li&gt;获取信息。&lt;/li&gt;
+  &lt;li&gt;增长自己的理解力，将知识化为己用。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;这里我讨论的是第三种读书目的。要知道很多经典书作者要比当代牛人更牛，而读好书就是直接和历史伟人进行深层地对话，直接从他身上学习。大多数普通人没有太多机会接近当代牛人，因而对于提高自己而言，看书实在最具性价比。&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;我以前的读书状态&quot;&gt;我以前的读书状态&lt;/h1&gt;
+
+&lt;p&gt;读书是好事儿这个观念在我心里一直没变。但我读书一直不得法，这导致我想看的书也几乎没看完过。自己在阅读书籍时就像大多数人在大学背单词，永远停在头字母是A的单词表，背了几天就放弃。&lt;/p&gt;
+
+&lt;p&gt;下面是几个我以前十分错误的读书方式：&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;遇到第一个不懂的生词或不理解的句子就停下来死磕，导致永远不知道这本书后半部分在说什么；&lt;/li&gt;
+  &lt;li&gt;对书保有不必要的尊敬：不敢用重笔划线！不敢做标记，特别有启发页面不敢折书角；&lt;/li&gt;
+  &lt;li&gt;在阅读中，都到特别有启发的句子，我竟然是想去记忆，想去背诵下来；&lt;/li&gt;
+  &lt;li&gt;不写读书笔记，也不做阅读笔记。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;现在回看这几个“超级错误点”，怪不得我读不完一本书。这几个因素相互影响，共同作用，使我看书没有形成良性反馈，从而导致我在最应该读书的时候基本放弃了&lt;strong&gt;读书&lt;/strong&gt;这个行为！反思一下，主要是自己傻逼的完美主义导致，好像时光穿梭，去抽自己两巴掌，&lt;strong&gt;完美主义害人不浅，完成比完美重要一万倍。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h1 id=&quot;读书步骤&quot;&gt;读书步骤&lt;/h1&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;分类&lt;/li&gt;
+  &lt;li&gt;看目录＋前言／摘要＋后记&lt;/li&gt;
+  &lt;li&gt;粗略地&lt;strong&gt;读完&lt;/strong&gt;一遍书&lt;/li&gt;
+  &lt;li&gt;精读你需要了解的部分&lt;/li&gt;
+  &lt;li&gt;做读书笔记&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;先用1，2，3步骤粗读一本书，判断这本书是什么水平，适不适合自己花精力与时间读。粗读后你对那本书应该已经有了大概的认识，这时如果判断书还值得自己接着读，那么就开始精读吧，带着问题对书中内容进行深入探索，与作者互动，以求能通过书中内容可以解决自己的问题。最后阅读完毕，一定要做&lt;strong&gt;读书笔记&lt;/strong&gt;，记录自己的感想，收获，记录一切你与书之间的互动。不要忘记，输出是更好的学习。&lt;/p&gt;
+
+&lt;p&gt;粗读时一个非常重要的小技巧是：&lt;strong&gt;可以从中间章节开始翻阅，甚至可以跳章节读&lt;/strong&gt;，而不是从第一章开始。&lt;/p&gt;
+
+&lt;h2 id=&quot;如何精读&quot;&gt;如何精读&lt;/h2&gt;
+&lt;p&gt;精读一定不是浮光掠影地读书，要付出相当的脑力去阅读。它不轻松，但你经过脑力付出后，一定会有收获。&lt;/p&gt;
+&lt;h3 id=&quot;1带着问题阅读&quot;&gt;1带着问题阅读&lt;/h3&gt;
+&lt;p&gt;自己也带有问题去阅读，主动地和作者互动，不要一味的听作者在讲什么。自己设置一些问题，如“这个章节究竟在讲什么”“他的观点有足够的证据支撑吗”“他说的都对吗”“这里的内容和我又有什么联系呢”“整个书的逻辑框架是什么呢”，通过主动设问与寻求回答来更好的深入阅读，提高自己的理解力。&lt;/p&gt;
+&lt;h3 id=&quot;2标签读书法&quot;&gt;2标签读书法&lt;/h3&gt;
+&lt;p&gt;1.通过&lt;strong&gt;复述&lt;/strong&gt;来检验自己理解没理解作者的意思，有没有与作者达成共识。&lt;/p&gt;
+
+&lt;p&gt;2.假设你理解了作者的意思，想传授你什么知识，那么此时&lt;strong&gt;联想自己有没有相关的经验&lt;/strong&gt;。比如我在读积极心理学的作品时，作者想要传达的一个观点是：“及时行乐的行为只能带来暂时愉悦，并不会带来真正幸福。”那么我怎么更深入地去理解这个观点呢？我就联想自己有关及时行乐的行为：晚上吃披萨大餐／透支下一个月的钱买奢侈品／该看书时我去看韩国综艺……联想后自己反思这些行为，偏感官／物质的及时行乐行为的确带给了我当时的满足与愉悦，&lt;em&gt;**&lt;/em&gt;但是很多时候都透支了未来，所以及时行乐最终给未来的自己造成负担，所以这些行为没给我幸福。&lt;/p&gt;
+
+&lt;p&gt;3.&lt;strong&gt;思考怎么将知识应用到以后生活&lt;/strong&gt;。同样用上述观点举例，应用：以后减少感官／物质的及时行乐行为，多做一些真正投资自己的事儿，让自己不断增值的事儿。&lt;/p&gt;
+
+&lt;p&gt;相信如果你精读时，运用以上面的方法，那么你会对作者想传达的内容有更深层次的了解，而不是当时觉得那句话很有用，画了横线，做了标记，睡一觉全忘了。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https:/github.com/BleuHu/BleuHu.github.io/blob/master/_posts/media/15055754507526/FullSizeRender%202.jpg?raw=true/FullSizeRender 2.jpg&quot; alt=&quot;&quot; title=&quot;标签读书法&quot; /&gt;&lt;/p&gt;
+&lt;h2 id=&quot;检验读懂与否的关键一步复述&quot;&gt;检验读懂与否的关键一步：复述&lt;/h2&gt;
+
+&lt;p&gt;之所以单拿出来说，就是觉得复述极其重要。我在想如果我还在读大学时就懂这个，我各方面的的理解力一定会大大增进。&lt;strong&gt;所谓复述，就是用自己的话把你看到的内容说出来，其实是一种翻译行为，用你的脑回路翻译作者的脑回路，从而检验你俩的脑回路通没通，即你到底懂没懂作者要表达的内容。&lt;/strong&gt;复述的可以应用的地方可谓无处不在！它可以是一个娱乐综艺如《奇葩说》《十三邀》，可以是你爸妈说的话，可以是一个微信文章，可以是一部电影，可以是一部漫画，可以是一段演讲，总之它可以是任何东西！你想知道到底自己懂没懂，看看自己能否用自己的话说出来，写出来。如果你看完一样东西，你觉得懂了，但是让你复述，你说不出个一二三，那就是没懂。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;复述是增加自己理解力的第一步，是极为重要的一步！&lt;/strong&gt;我现在将复述全方位应用于我的生活中，甚至刻意练习它，我的理解力确实在提高。毕竟如果你一样东西都没懂，你都不知道怎么回事儿，那么你根本就没有发言权。&lt;strong&gt;&lt;em&gt;Be honest to yourself!对自己诚实些！&lt;/em&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;总结&quot;&gt;总结&lt;/h2&gt;
+&lt;p&gt;《这样读书就够了》重构了我的读书观，是背后的理念指导，&lt;strong&gt;它彻底打破了我的读书瘫痪行为&lt;/strong&gt;！让我从自己读书的思想包袱中解放。《如何阅读一本书》是更深层次的技法之谈，值得反复翻阅。《智识的生产技术》短小精悍，作为方法补充。&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;em&gt;总之，一切都以学习者自己为中心，不以书为中心！以能把知识运用到自己以后生活为中心，不以记忆知识为中心！一定抛弃完美主义，完成大于完美！&lt;/em&gt;&lt;/strong&gt;&lt;em&gt;要刻意练习拿到一本书粗读，粗读可以不从第一章开始。刻意练习“复述”，刻意练习“标签读书法”。&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;这里的读书法，可能在一些人眼里较为功利，读书一定得有用么？我这篇谈的是实用类工具书，不是文学类。阅读文学类我们沉浸在大作家们创造的世界中就好。对于非文学类书籍，我想分享的是能把知识化为己用，增进自己理解力的读书法，这种读书法，只专注于自己的心智成长。&lt;/p&gt;
+
+&lt;h2 id=&quot;自己说两句&quot;&gt;自己说两句&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;只是把我受益的，让我有长进的，我觉得好的东西拿出来分享给大家看，给大家提供个新思路，不强迫别人接受我的观点。&lt;/strong&gt;如果你看到了，认为我说的挺对，对我来说是个意外收获。如果我说的有错误，也请指出。路刚刚开始，还有很远要走，大家一起进步。&lt;/p&gt;
+
+&lt;p&gt;另附：&lt;a href=&quot;http://www.geekonomics10000.com/376&quot;&gt;同人于野强力研读&lt;/a&gt;读书法。&lt;/p&gt;
 </content>
  </entry>
  
