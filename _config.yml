@@ -11,25 +11,25 @@ gems: [jekyll-paginate]
 permalink:           pretty
 
 # Setup
-title:               Naringu
-tagline:             'A Hacker like jekyll theme'
-description:         'oonlab is crafted with <3 by ariestiyansyah.'
-url:                 http://naringu.oonlab.com
+title:              阿宁
+tagline:             ' What happens when a tornado meets a volcano'
+description:         '因好奇心活着，听歌狂魔，文本世界，渴望生活'
+url:                 http://huyuning.com
 baseurl:             /
 paginate:            7
 
 # About/contact
 author:
-  name:              Rizky Ariestiyansyah
-  url:               https://twitter.com/ariestiyansyah
-  email:             ariestiyansyah.rizky@gmail.com
+  name:             阿宁
+  url:              http://huyuning.com
+  email:            huyuning931106@gmail.com
+  github:           https://github.com/BleuHu
 
 # Custom vars
 version:             2.0
 
 # Social Media
-github:				http://github.com/ariestiyansyah
-twitter:			http://twitter.com/ariestiyansyah
+github:				 https://github.com/BleuHu
 disqus:             testnaringu
 
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
