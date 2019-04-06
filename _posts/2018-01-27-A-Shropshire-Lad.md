@@ -2,7 +2,7 @@
 layout: post
 title: 什罗普郡的浪荡儿
 tags: [诗歌]
-category: 不进入太可惜的世界|文本
+category: 不进入太可惜的世界 | 文本
 ---
 
 
