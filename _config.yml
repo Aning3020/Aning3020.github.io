@@ -15,7 +15,7 @@ title:              阿宁
 tagline:             'when a tornado meets a volcano'
 description:         '听歌狂魔，文本空间，好奇而渴望。'
 url:                 https://BleuHu.github.io
-baseurl:             /
+baseurl:             
 paginate:            7
 
 # About/contact
