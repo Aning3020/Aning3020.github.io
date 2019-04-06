@@ -5,25 +5,77 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
-  {{ content }}
+  {{ content }} <br>
+
+  <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+    <img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a>
+    本作品采用 <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">CC BY-NC-ND</a> 进行许可.
+    如需转载, 请标明 <b style = "color:#53b45e">Yixuan</b> + <b style = "color:#53b45e">源地址</b>
+<br> <br>
+  <img width="50" height="50" alt="Glider" src="/images/glider.png" >
+  <p>
+  <em>Too fast to live.</em>
+  </p>
 </div>
 
-<div class="related">
-  <h2>Related Posts</h2>
-  <ul class="related-posts">
-    {% for post in site.related_posts limit:3 %}
-      <li>
-        <h3>
-          <a href="{{ site_url }}{{ post.url }}">
-            {{ post.title }}
-            <small>{{ post.date | date_to_string }}</small>
-          </a>
-        </h3>
-      </li>
-    {% endfor %}
-  </ul>
-</div>
+
+
+<!--这个地方可以放 disqus -->
+<div id="disqus_thread"></div>
+<script>
+/**
+* RECOMMENDED CONFIGURATION VARIABLES: EDIT AND UNCOMMENT THE SECTION BELOW TO INSERT DYNAMIC VALUES FROM YOUR PLATFORM OR CMS.
+* LEARN WHY DEFINING THESE VARIABLES IS IMPORTANT: https://disqus.com/admin/universalcode/#configuration-variables
+*/
+/*
+var disqus_config = function () {
+this.page.url = PAGE_URL; // Replace PAGE_URL with your page's canonical URL variable
+this.page.identifier = PAGE_IDENTIFIER; // Replace PAGE_IDENTIFIER with your page's unique identifier variable
+};
+*/
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//yixuanfranco.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+
+<script id="dsq-count-scr" src="//yixuanfranco.disqus.com/count.js" async></script>
+
+<!--Disqus 结尾的地方-->
 
 <div class="comments">
     {% include comments.html %}
+</div>
+
+
+
+<script src="https://utteranc.es/client.js"
+        repo="YixuanFranco/yixuanfranco.github.io"
+        issue-term="url"
+        label="BlogComments"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
+<div class="related">
+  <h3>近日的叨叨叨...</h3>
+  <ul class="related-posts">
+    {% for post in site.related_posts limit:3 %}
+      <li>
+        <strong>
+			<i><a href="{{ site_url }}{{ post.url }}">
+            {{ post.title }}
+            <small>{{ post.date | date_to_string }}</small>
+			</a></i>
+        </strong>
+      </li>
+    {% endfor %}
+  </ul>
 </div>

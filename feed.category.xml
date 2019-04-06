@@ -3,15 +3,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>{{ site.name | xml_escape }} - Naringu</title>
+		<title>{{ site.name | xml_escape }} - Food</title>
 <<<<<<< HEAD
-		<description>Posts categorized as 'naringu'</description>
+		<description>Posts categorized as 'Food'</description>
 =======
-		<description>Posts categorized as 'Naringu'</description>
+		<description>Posts categorized as 'Food'</description>
 >>>>>>> master
 		<link>{{ site.url }}</link>
         <atom:link href="{{ site.url }}feed.category.xml" rel="self" type="application/rss+xml" />
-		{% for post in site.categories.naringu limit:10 %}
+		{% for post in site.categories.Food limit:10 %}
 			<item>
 				<title>{{ post.title | xml_escape }}</title>
 				{% if post.excerpt %}

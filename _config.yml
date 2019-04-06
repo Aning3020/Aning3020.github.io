@@ -2,38 +2,36 @@
 markdown:            kramdown
 highlighter:         rouge
 
-# Gems (for Jekyll 3.0)
-gems: [jekyll-paginate]
 
 # Permalinks
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
+
 # Setup
-title:              阿宁
-tagline:             'when a tornado meets a volcano'
-description:         '听歌狂魔，文本空间，好奇而渴望。'
-url:                 https://BleuHu.github.io
-baseurl:             
+title:               阿宁
+tagline:             '下水道不过是另一个黄泉路'
+description:         '美与好奇'
+url:                 www.huyuning.com
+baseurl:             /
 paginate:            7
 
 # About/contact
 author:
-  name:             阿宁
-  url:              http://huyuning.com
-  email:            huyuning931106@gmail.com
-  github:           https://github.com/BleuHu
+  name:              bleu
+  url:               www.huyuning.com
+  email:             huyuning931106@gmail.com
 
-# Custom vars
-version:             2.0
+# Custom vers
+version:             3.0
 
 # Social Media
-github:				 https://github.com/BleuHu
-disqus:             bleu
+github:				https://github.com/BleuHu
+twitter:			
 
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
 theme:
-  creator:			Rizky Ariestiyansyah
-  codename:			Naringu
-  link:             https://github.com/ariestiyansyah/naringu
+  creator:			Yixuan Li
+  codename:			Geek-green
+  link:         https://github.com/YixuanFranco
