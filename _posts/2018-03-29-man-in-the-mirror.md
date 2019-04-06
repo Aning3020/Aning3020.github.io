@@ -2,7 +2,7 @@
 layout: post
 title: Man in the mirror
 tags: [反思,成为自己]
-category: 不能让你知道我的大脑 |思考
+category: 不能让你知道我的大脑 | 思考
 ---
 
 >  "我觉得你应该变得更好"

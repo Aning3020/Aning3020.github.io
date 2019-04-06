@@ -2,7 +2,7 @@
 layout: post
 title: 如何对抗内在失序？
 tags: [反思，心流]
-category: 不知道怎么就正在和渴望|生活
+category: 不知道怎么就正在和渴望 | 生活
 ---
 
 「Pain is inevitable，suffering is optional.痛楚难以避免，而磨难可以选择。」 - 村上春树

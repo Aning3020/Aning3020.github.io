@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 建筑师 | 二元性
-category: 不进入太可惜的世界|文本
+category: 不进入太可惜的世界 | 文本
 tags: 文本，思考
 ---
 

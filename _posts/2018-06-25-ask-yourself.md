@@ -2,7 +2,7 @@
 layout: post
 title: 问自己
 tags: [问，生活]
-category: 不知道怎么就正在和渴望|生活
+category: 不知道怎么就正在和渴望 | 生活
 ---
 
 问问自己，以从熟悉的麻木中逃脱
