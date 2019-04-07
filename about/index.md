@@ -3,6 +3,11 @@ title: about me
 layout: page
 ---
 
+
+## Why Blog?
+  
+  A place share my thoughts . <a href="https://sivers.org/sharing">分享即是意义</a>
+
 ## LyricTime
 
   - 你栽出千万花的一生，四季中径自盛放也凋零，你走出千万人群独行，往柳暗花明山穷水尽去。玫瑰色的你。 - 张悬 「玫瑰色的你」
@@ -14,17 +19,15 @@ layout: page
   - If your time to you is worth savin’ Then you better start swimming Or you’ll sink like a stone For the times they are a changin.  -   Bob Dylan
 
 ## AboutMe
-
-缘分是神，游戏是我们。
-
-## Why Blog?
+   - 渴望生活
+   - 美与好奇
+   - 听歌狂魔
+   - 文本空间
   
-  A place share my thoughts . <a href="https://sivers.org/sharing">分享即是意义</a>
-  
-## Find Me
+## FindMe
 
 * 邮件：<i class="fa fa-envelope"></i>huyuning931106@gmail.com
-* 此地： <i class="fa fa-pencil"></i><a href="http://www.huyuning.com" target="_blank" title="我的个人博客">树长在云里（www.huyuning.com）</a>
+* 此地： <i class="fa fa-pencil"></i><a href="http://www.huyuning.com" target="_blank" title="我的个人博客">阿宁（www.huyuning.com）</a>
 * 我的 github:<i class="fa fa-github"></i><a href="http://www.github.com/BleuHu/" target="_blank" title="BleuHu的github"> github </a>
 
 
