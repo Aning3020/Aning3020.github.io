@@ -218,8 +218,8 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color:  #FFF9C4;
-  border-left: .25rem solid #e5e5e5;
+  color:  #FFFDE7;
+  border-left: .25rem solid #FFFDE7;
 }
 blockquote p:last-child {
   margin-bottom: 0;
@@ -307,7 +307,7 @@ tbody tr:nth-child(odd) th {
   margin-bottom: 3rem;
   border-bottom: 0.5px solid #00FFFF;
 }
-.masthead-title {
+.masthead- {
   margin-top: 0;
   margin-bottom: 0;
   color: #FAFAD2;
@@ -319,7 +319,7 @@ tbody tr:nth-child(odd) th {
 }
 .masthead-title small {
   font-size: 75%;
-  font-weight: 400;
+  font-weight: bold;
   color: #FAFAD2; 
   letter-spacing: 0;
 }
