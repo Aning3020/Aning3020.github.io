@@ -38,7 +38,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  border: 1px solid 	#00FFFF;
+  border: 1px solid #00FFFF;
 }
 
 html {
@@ -53,7 +53,7 @@ html {
 }
 
 body {
-  color: #D3D3D3;
+  color: #FAFAD2;
   background-color: #242424;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -82,11 +82,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 1.8rem;
+  font-size: 1.6rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.4rem;
 }
 h3 {
   margin-top: 2rem;
@@ -101,7 +101,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #D3D3D3;
+  color: #FAFAD2;
 }
 
 strong {
@@ -113,7 +113,7 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #D3D3D3;
+  color: #FAFAD2;
 }
 
 dt {
@@ -305,7 +305,7 @@ tbody tr:nth-child(odd) th {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  border-bottom: 0.5px solid #00FFFF	;
+  border-bottom: 0.5px solid #00FFFF;
 }
 .masthead-title {
   margin-top: 0;
@@ -320,7 +320,7 @@ tbody tr:nth-child(odd) th {
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #D3D3D3; 
+  color: #FAFAD2; 
   letter-spacing: 0;
 }
 
@@ -423,7 +423,7 @@ a.sidebar-nav-item:focus {
   display: block;
   width: 2.2rem;
   padding: .5rem .65rem;
-  color: #53b45e;
+  color: #00FFFF;
   background-color: #313131;
   border-radius: 4px;
   cursor: pointer;
