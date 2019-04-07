@@ -53,7 +53,7 @@ html {
 }
 
 body {
-  color: #F4F6F7 ;
+  color: #F4F6F7;
   background-color: #242424;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -101,7 +101,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #FAFAD2;
+  color: #FDFEFE ;
 }
 
 strong {
