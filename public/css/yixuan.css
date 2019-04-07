@@ -53,7 +53,7 @@ html {
 }
 
 body {
-  color: #DCDCDC;
+  color: #D3D3D3;
   background-color: #242424;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -101,7 +101,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #DCDCDC;
+  color: #D3D3D3;
 }
 
 strong {
@@ -113,7 +113,7 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #DCDCDC;
+  color: #D3D3D3;
 }
 
 dt {
@@ -305,20 +305,22 @@ tbody tr:nth-child(odd) th {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  border-bottom: 0.5px solid 	#00FFFF	;
+  border-bottom: 0.5px solid #00FFFF	;
 }
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  color: #505050;
+  color: #FAFAD2;
+  font-weight: bold;
 }
 .masthead-title a {
-  color: #505050;
+  color: #FAFAD2;
+  font-weight: bold;
 }
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #DCDCDC;
+  color: #D3D3D3; 
   letter-spacing: 0;
 }
 
