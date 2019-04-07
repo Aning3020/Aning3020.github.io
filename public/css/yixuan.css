@@ -38,7 +38,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  border: 1px solid 	#FFF176;
+  border: 1px solid 	#00FFFFF;
 }
 
 html {
@@ -61,11 +61,11 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: 	#FFF176;
+  color: 	#00FFFFF;
   text-decoration: none;
 }
 a strong {
-  color: 	#FFF176;
+  color: 	#00FFFFF;
 }
 
 /* `:focus` is linked to `:hover` for basic accessibility */
@@ -77,16 +77,16 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color:	#FFF176;
+  color:	#00FFFFF;
   letter-spacing: -.025rem;
 }
 
 h1 {
-  font-size: 3rem;
+  font-size: 2rem;
 }
 h2 {
   margin-top: 1rem;
-  font-size: 2rem;
+  font-size: 1.5rem;
 }
 h3 {
   margin-top: 2rem;
@@ -105,7 +105,7 @@ p {
 }
 
 strong {
-  color: #FFF176;
+  color: #00FFFFF;
 }
 
 
@@ -128,19 +128,19 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid 	#FFF176;
-  border-bottom: 1px solid 	#FFF176;
+  border-top: 1px solid 	#00FFFFF;
+  border-bottom: 1px solid 	#00FFFFF;
 }
 
 abbr {
   font-size: 85%;
   font-weight: bold;
-  color: 	#FFF176;
+  color: 	#00FFFFF;
   text-transform: uppercase;
 }
 abbr[title] {
   cursor: help;
-  border-bottom: 1px dotted 	#FFF176;
+  border-bottom: 1px dotted 	#00FFFFF;
 }
 
 /*
@@ -171,7 +171,7 @@ pre {
   word-break: break-all;
   word-wrap: break-word;
   background-color: #313131;
-  border: 0.5px solid #FFF176;
+  border: 0.5px solid #00FFFFF;
 }
 pre code {
   padding: 0;
@@ -245,13 +245,13 @@ img {
 table {
   margin-bottom: 1rem;
   width: 100%;
-  border: 1px solid 	#FFF176;
+  border: 1px solid 	#00FFFFF;
   border-collapse: collapse;
 }
 td,
 th {
   padding: .25rem .5rem;
-  border: 1px solid 	#FFF176;
+  border: 1px solid 	#00FFFFF;
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
@@ -372,7 +372,7 @@ tbody tr:nth-child(odd) th {
 /* Sidebar content */
 .sidebar a {
   font-weight: normal;
-  color: 	#FFF176;
+  color: 	#00FFFFF;
 }
 .sidebar-item {
   padding: 1rem;
@@ -395,7 +395,7 @@ a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
   text-decoration: none;
   background-color: #191E1E;
-  border-color: 	#FFF176;
+  border-color: 	#00FFFFF;
 }
 
 @media (min-width: 48em) {
@@ -540,7 +540,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: 		#FFF176;
+  color: 		#00FFFFF;
 }
 .page-title,
 .post-title {
@@ -563,8 +563,8 @@ a.sidebar-nav-item:focus {
 .related {
   /*padding-top: 2rem;*/
   /*padding-bottom: 2rem;*/
-  border-top: 1px solid 		#FFF176;
-  /*border-bottom: 1px solid 		#FFF176;*/
+  border-top: 1px solid 		#00FFFFF;
+  /*border-bottom: 1px solid 		#00FFFFF;*/
 }
 .related-posts {
   padding-left: 0;
@@ -579,7 +579,7 @@ a.sidebar-nav-item:focus {
   color: #999;
 }
 .related-posts li a:hover {
-  color: 	#FFF176;
+  color: 	#00FFFFF;
   text-decoration: none;
 }
 .related-posts li a:hover small {
@@ -615,7 +615,7 @@ a.sidebar-nav-item:focus {
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
-  background-color: 	#FFF176;
+  background-color: 	#00FFFFF;
 }
 
 @media (min-width: 30em) {
@@ -653,7 +653,7 @@ a.pagination-item:hover {
 .theme-6dd .container a,
 .theme-6dd .sidebar-toggle,
 .theme-6dd .related-posts li a:hover {
-  color: #FFF176;
+  color: #00FFFFF;
 }
 
 
@@ -690,5 +690,5 @@ a.pagination-item:hover {
 .footer {
   padding-top: 10px;
   padding-bottom: 10px;
-  border-top: 1px solid 	#FFF176;
+  border-top: 1px solid 	#00FFFFF;
 }
