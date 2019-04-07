@@ -53,7 +53,7 @@ html {
 }
 
 body {
-  color: #999999;
+  color: #F5F5F5;
   background-color: #242424;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
@@ -82,7 +82,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 2rem;
+  font-size: 1.8rem;
 }
 h2 {
   margin-top: 1rem;
@@ -101,7 +101,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #999999;
+  color: #F5F5F5;
 }
 
 strong {
@@ -113,7 +113,7 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #999999;
+  color: #F5F5F5;
 }
 
 dt {
@@ -305,7 +305,7 @@ tbody tr:nth-child(odd) th {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  border-bottom: 0.5px solid 	#FFFF77	;
+  border-bottom: 0.5px solid 	#00FFFF	;
 }
 .masthead-title {
   margin-top: 0;
@@ -318,7 +318,7 @@ tbody tr:nth-child(odd) th {
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
-  color: #c0c0c0;
+  color: #F5F5F5;
   letter-spacing: 0;
 }
 
@@ -358,7 +358,7 @@ tbody tr:nth-child(odd) th {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
-  border: 1px solid #FFFF77;
+  border: 1px solid #00FFFF;
   background-color: #202020;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
@@ -442,7 +442,7 @@ a.sidebar-nav-item:focus {
 
 .sidebar-toggle:active,
 #sidebar-checkbox:checked ~ .sidebar-toggle {
-  color: #FFFF77;
+  color: #00FFFF;
   background-color: #505050;
 }
 
