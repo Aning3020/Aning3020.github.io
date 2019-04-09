@@ -556,8 +556,6 @@ a.sidebar-nav-item:focus {
   margin-bottom: 1rem;
   color: #9a9a9a;
 }
-.post-link {
-color: #FFF9C4;}
 
 /*
  * Related posts
@@ -657,11 +655,9 @@ a.pagination-item:hover {
 .theme-6dd .container a,
 .theme-6dd .sidebar-toggle,
 .theme-6dd .related-posts li a:hover {
-  color: #00FFFF;
+  color: #FFFDE7;
 }
-.theme-6dd .a:link{
-  color: #FFF9C4;
-}
+
 
 
 /*
