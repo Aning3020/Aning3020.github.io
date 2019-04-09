@@ -323,8 +323,7 @@ tbody tr:nth-child(odd) th {
   color: #FAFAD2; 
   letter-spacing: 0;
 }
-.masthead-title a:hover {
-  color: #FAFAD2; 
+
 }
 
 @media (max-width: 48em) {
@@ -658,7 +657,7 @@ a.pagination-item:hover {
 .theme-6dd .container a,
 .theme-6dd .sidebar-toggle,
 .theme-6dd .related-posts li a:hover {
-  color: #FFFDE7;
+  color: #66FFFF;
 }
 
 
