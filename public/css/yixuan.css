@@ -65,7 +65,7 @@ a {
   text-decoration: none;
 }
 a strong {
-  color: 	#00FFFF;
+  color:white;
 }
 
 /* `:focus` is linked to `:hover` for basic accessibility */
@@ -101,7 +101,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #BDC3C7;
+  color: #EEEEEE;
 }
 
 strong {
@@ -113,7 +113,7 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #FDFEFE;
+  color: #EEEEEE;
 }
 
 dt {
