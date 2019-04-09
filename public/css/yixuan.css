@@ -101,11 +101,11 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #BDBDBD ;
+  color: #A6ACAF ;
 }
 
 strong {
-  color: #FFFFFF;
+  color: #00FFFF ;
 }
 
 
@@ -113,7 +113,7 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #BDBDBD ;
+  color: #A6ACAF ;
 }
 
 dt {
