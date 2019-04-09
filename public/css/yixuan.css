@@ -101,11 +101,11 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #F2F3F4;
+  color: #BDC3C7;
 }
 
 strong {
-  color: #00FFFF;
+  color: #FFFF99;
 }
 
 
@@ -657,7 +657,7 @@ a.pagination-item:hover {
 .theme-6dd .container a,
 .theme-6dd .sidebar-toggle,
 .theme-6dd .related-posts li a:hover {
-  color: #CCFFFF;
+  color: #66FFFF;
 }
 
 
