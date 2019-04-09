@@ -556,6 +556,8 @@ a.sidebar-nav-item:focus {
   margin-bottom: 1rem;
   color: #9a9a9a;
 }
+.post-link {
+color: #FFF9C4;}
 
 /*
  * Related posts
