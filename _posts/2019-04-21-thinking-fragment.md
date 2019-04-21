@@ -112,3 +112,5 @@ tags: [思考,思维话痨,周更]
 - 真爱的事儿？
    - 读书，思考，写作，探索，听歌，户外吹风。
 
+<img width="877" alt="屏幕快照 2019-04-21 16 08 09" src="https://user-images.githubusercontent.com/20737239/56468620-76d84100-6461-11e9-86df-4d408044ea7b.png">
+<img width="1077" alt="屏幕快照 2019-04-21 18 15 55" src="https://user-images.githubusercontent.com/20737239/56468626-8f485b80-6461-11e9-9d5d-97e50dda3e30.png">
