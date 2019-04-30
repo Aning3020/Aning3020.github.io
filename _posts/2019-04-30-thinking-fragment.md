@@ -5,7 +5,7 @@ category: 不能让你知道我的大脑 | 思考
 tags: [思考,思维话痨,周更]
 ---
 
-本周前三收获：一.知道了自己的母题是重构：如何面对原本有但后来失去了。二.快乐的本质：能够感知，意识到现在的拥有。[快樂怎麼感知的？](https://www.youtube.com/watch?v=fnQHZxh_--A) 三.学习的最终指向是改变：[什么是学习中最大的误区](https://mp.weixin.qq.com/s/ns2zeMG_ZqZryDmdNnN-HA),[「自學」與「自教」 « smalltalk](http://smalltalk.xdite.net/posts/773510-self-learn-and-self-teach) 。附本周金句：You take things for granted, and then they're gone. - Paul Graham
+本周前三收获：一.知道了自己的母题是重构：如何面对原本有但后来失去了。二.快乐的本质：能够感知，意识到现在的拥有。 三.学习的最终指向是改变。附本周金句：You take things for granted, and then they're gone. - Paul Graham
 
 ## 0422 
 
