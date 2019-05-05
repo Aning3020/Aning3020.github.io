@@ -71,12 +71,11 @@ tags: [思考,思维话痨,周更]
 - 失去也有好处，得到也有坏处
 - 提醒自己自怼：越迷茫时越要做事
 - youtube:
-      - [Brené Brown: 布琳.布朗:脆弱的力量](https://www.ted.com/talks/brene_brown_on_vulnerability?language=zh-cn#t-394146) 
-      - [Jolin x 理科太太 - Ugly beauty 也是一種美 - YouTube](https://www.youtube.com/watch?v=0GtFuUrTf50) ，竟然请到了蔡依林
+   - [Brené Brown: 布琳.布朗:脆弱的力量](https://www.ted.com/talks/brene_brown_on_vulnerability?language=zh-cn#t-394146) 
+   - [Jolin x 理科太太 - Ugly beauty 也是一種美 - YouTube](https://www.youtube.com/watch?v=0GtFuUrTf50) ，竟然请到了蔡依林，觉醒后的JOLIN棒呆了，多用你的影响力改变世界吧！
       
 ## 190505
-- 我可能真的在世界的角落遇到了碰一个不应该谈恋爱的人
-- 用行动带认知，真的闭环了。感觉今天才是分手的第一天
+- 用行动带认知，以前主观上放不下，接受不了彻底的空白，接受不了被误解，昨晚一瞬间心疼到不行，都能接受了。就相忘于江湖吧。我可能真的在世界的角落遇到了碰一个不应该谈恋爱的人。
 
 <img width="370" alt="屏幕快照 2019-05-03 21 05 10" src="https://user-images.githubusercontent.com/20737239/57196222-5fcf3e00-6f8d-11e9-9630-816119418c1e.png">
 <img width="993" alt="屏幕快照 2019-05-05 23 28 08" src="https://user-images.githubusercontent.com/20737239/57196235-80979380-6f8d-11e9-9b6a-c4522e01989f.png">
