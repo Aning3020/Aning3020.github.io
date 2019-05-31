@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 思维话痨 | 190520 - 190526
-category: 思考
+category: 不能让你知道我的大脑 | 思考
 tags: [思考,思维话痨,周更]
 ---
 
