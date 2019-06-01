@@ -27,13 +27,13 @@ tags: [思考,思维话痨,周更]
         - 语言学习时，提到了降临。说学英文的时候就用英文思考。
     - [一则假消息的进化 - 假物与不器](https://www.one2end.com/2018/05/02/moment_message_trip/?fbclid=IwAR1zNXJWo6cJTkkPsOq14cvmHB5UQ2Zmtc3NlQ7QWt3NyTIelW-XxeYbXuA) 。金句：信息的内容还是会不断地增加，信息辨别能力大概会越来越重要。以为没有反对的声音，可能已经成为了算法和信息的奴隶。
       
-## 190522 两极体验
+## 190522 
 - 比特币
 - 编程上自己的问题有了解，感觉好像发现了真理。
 - 其实自己想做的还是内容创业。行业还是就教育行业（成人教育）/知识付费行业，职业和内容挂钩，比如教学教研岗，这不就是前同事们做的么。这样找的时候跟别处比难度小，自己也有一些激情，还是在一个行业积累3年会好一些，教育行业发展上不能说是什么风口，但肯定不是雷区。另外，合作人的话一般都是有改行业经验的人，受众是爱学习的。万一找到另一半呢？不好的地方呢？暂时还没想到 。简历准备就是自己的一些材料，上一段职场的成果可能部分缺失。教研岗位，边缘参与逐渐到核心来，最后自己能做出来课。
 - 自己起码要跑两条线，白天工作职业 + 稿费（心理认知类，财新，我可以把我心流的文章改一改，还有些成长型思维类的）/ PPT 变现？后面还可以加投资，这样收入就是打工 + 自由职业 + 投资，三部分构成，这样比较好。 #收入来源多样化 
 - 今天文儿的朋友帮我说了下简历，可能是自己也没表述好，背景信息不同，他也没完全理解我的职业。。。其实跨职业了解很难。**这也说明你自己都不尊重和理解你自己的话，没有其他人在乎的**。
-- [Powerpoint Design - Presentation Designer Services | Fiverr](https://www.fiverr.com/categories/graphics-design/presentations-design?source=category_tree&page=4&page_size=48&offset=-7&filter=rating)  做 keynote 可以是一条吃饭的路。有点意思的是，我去youtube 搜索了 keynote 教程，里面寥寥无几，和编程一比简直差太多了。突然想到，KEY优秀的汇合处在哪儿？肯定不在youtube,而在设计的汇合处：behance , dribble , pinterest 。 可以先从模仿开始。
+- [Powerpoint Design - Presentation Designer Services (https://www.fiverr.com/categories/graphics-design/presentations-design?source=category_tree&page=4&page_size=48&offset=-7&filter=rating)  做 keynote 可以是一条吃饭的路。有点意思的是，我去youtube 搜索了 keynote 教程，里面寥寥无几，和编程一比简直差太多了。突然想到，KEY优秀的汇合处在哪儿？肯定不在youtube,而**在设计的汇合处**：behance , dribble , pinterest 。 可以先从模仿开始。
 - 发现：
     - [“心智模式”系列：如何面对【逆境】？——兼谈“斯托克代尔悖论” @ 编程随想的博客](https://program-think.blogspot.com/2012/01/stockdale-paradox.html)
       - 信念是：你一定能获得成功——这个信念千万不可失去。
