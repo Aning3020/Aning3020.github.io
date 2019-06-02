@@ -5,7 +5,7 @@ category: 不能让你知道我的大脑 | 思考
 tags: [思考,思维话痨,周更]
 ---
 
-本周前三收获：一.知道了自己的母题是重构：如何面对原本有但后来失去了。二.快乐在未来就是一场骗局。快乐的本质：能够感知，意识到现在的拥有。 三.学习的最终指向是改变。附本周金句：You take things for granted, and then they're gone. - Paul Graham
+本周top3：一.知道了自己的母题是重构：如何面对原本有但后来失去了。二.快乐在未来就是一场骗局。快乐的本质：能够感知，意识到现在的拥有。 三.学习的最终指向是改变。附本周金句：You take things for granted, and then they're gone. - Paul Graham
 
 ## 0422 
 
