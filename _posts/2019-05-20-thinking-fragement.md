@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 思维话痨 | 190513 - 190519
-category: 不能让你知道我的大脑 | 思考
+title: being | 190513 - 190519
+category: 思维话痨
 tags: [思考,思维话痨,周更]
 ---
 本周top3：一.明白了疏离型用客观来表达喜欢。二.用 heroku 部署发布了「时间账单」网站 ：http://atimelogger.herokuapp.com/task 。三.生日快乐。附本周金句：框架不動的狀況要能產生甚麼巨大的質變，恐怕是很難的。
