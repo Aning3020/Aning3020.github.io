@@ -4,7 +4,7 @@ title: 思维话痨 | 190506 - 190512
 category: 不能让你知道我的大脑 | 思考
 tags: [思考,思维话痨,周更]
 ---
-本周前三收获：一.接受自己的不完美，才能接受别人的不完美，而能接受别人的不完美，才能真正的去爱一个人。二.代码一个重要的表现形式是插件，软件等工具。三.要有自己快乐的能力。附本周金句：The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again。
+本周top3：一.接受自己的不完美，才能接受别人的不完美，而能接受别人的不完美，才能真正的去爱一个人。二.代码一个重要的表现形式是插件，软件等工具。三.要有自己快乐的能力。附本周金句：The credit belongs to the man who is actually in the arena, whose face is marred by dust and sweat and blood; who strives valiantly; who errs, who comes short again and again。
 
 ##  190506
 - [Hello. – SimpleBits](http://simplebits.com/)
