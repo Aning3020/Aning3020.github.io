@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 思维话痨 | 190408 - 190414
-category: 不能让你知道我的大脑 | 思考
+title: being | 190408 - 190414
+category: 思维话痨 
 tags: [思考,思维话痨,周更]
 ---
 
