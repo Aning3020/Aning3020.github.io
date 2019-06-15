@@ -1,7 +1,7 @@
 ---
 layout: post
 title: being | 190527 - 190602
-category: 不能让你知道我的大脑 | 思考
+category: 思维话痨
 tags: [思考,思维话痨,周更]
 ---
 
