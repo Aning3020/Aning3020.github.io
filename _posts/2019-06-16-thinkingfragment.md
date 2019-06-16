@@ -64,4 +64,5 @@ tags: [思考,思维话痨,周更]
 - 如何打动别人？如何展现你的诚意？
 
 <img width="626" alt="屏幕快照 2019-06-13 20 01 34" src="https://user-images.githubusercontent.com/20737239/59431354-4f757300-8e17-11e9-86f5-b828599e81e7.png">
-![tlyppt01](https://user-images.githubusercontent.com/20737239/59567802-1fdb9a80-90a5-11e9-9fdd-8f341dc55855.jpg)
+
+
