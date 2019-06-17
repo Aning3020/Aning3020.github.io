@@ -3,12 +3,18 @@ title: 关于我
 layout: page
 ---
 
+你好，能找到这里的就是有缘人。
 
-## Why Blog?
-  
-  A place share my thoughts . <a href="https://sivers.org/sharing">分享即是意义</a>
+## 这是哪儿？
+   自留地罢了。
 
-## LyricTime
+## 我
+   - 渴望生活
+   - 美与好奇
+   - 听歌狂魔
+   - 文本空间
+
+## 歌词
 
   - 得到的都是侥幸，失去的都是人生。 - 张悬 「关于我爱你」
 
@@ -19,14 +25,8 @@ layout: page
   - Life is no Nintendo game.Maybe that's what happens when a tornado meets a volcano . - Emniem 「love the way you lie」.
   
   - If your time to you is worth savin’ Then you better start swimming Or you’ll sink like a stone For the times they are a changin.  -   Bob Dylan
-
-## AboutMe
-   - 渴望生活
-   - 美与好奇
-   - 听歌狂魔
-   - 文本空间
   
-## FindMe
+## 找我
 
 * 邮件：<i class="fa fa-envelope"></i>huyuning931106@gmail.com
 * 此地： <i class="fa fa-pencil"></i><a href="http://www.huyuning.com" target="_blank" title="我的个人博客">阿宁（www.huyuning.com）</a>
