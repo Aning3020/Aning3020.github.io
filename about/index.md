@@ -1,12 +1,9 @@
 ---
-title: 关于我
+title:  这是哪儿 
 layout: page
 ---
 
-你好，能找到这里的就是有缘人。
-
-## 这是哪儿？
-   自留地罢了。
+你好，能找到这里的就是有缘人。这是我的自留地，不喜勿入。
 
 ## 我
    - 渴望生活
@@ -14,16 +11,12 @@ layout: page
    - 听歌狂魔
    - 文本空间
 
-## 歌词
+## 喜欢的歌词
 
   - 得到的都是侥幸，失去的都是人生。 - 张悬 「关于我爱你」
-
   - 你栽出千万花的一生，四季中径自盛放也凋零，你走出千万人群独行，往柳暗花明山穷水尽去。玫瑰色的你。 - 张悬 「玫瑰色的你」
-
   - 她说下午三点阳光射进教堂的角度，能知道你前世是狼人还是蝙蝠。辛辛苦苦，全家怕日出。 - 周杰伦「威廉古堡」
-  
   - Life is no Nintendo game.Maybe that's what happens when a tornado meets a volcano . - Emniem 「love the way you lie」.
-  
   - If your time to you is worth savin’ Then you better start swimming Or you’ll sink like a stone For the times they are a changin.  -   Bob Dylan
   
 ## 找我
