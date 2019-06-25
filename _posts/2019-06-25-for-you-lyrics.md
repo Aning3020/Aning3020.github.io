@@ -1,8 +1,8 @@
 ---
 layout: post
 title: 如何 - 张悬
-tags: [歌词,]
-category: 不听就白活了的| 歌与词
+tags: [歌词]
+category: 不听就白活了 | 歌与词
 ---
 
 你要如何原諒彼時此時的愚蠢
