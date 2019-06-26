@@ -77,5 +77,21 @@ tags: [思考,思维话痨,周更]
   - 事件2.soberbot 骂醒，闲聊，定制内容。点击骂醒，让你跳出在上一段感情中的幻想；心里脆弱无人陪伴时，soberbot 陪你聊天；更有个人定制化骂醒服务。
   - 事件3.从床上起身，回到现实世界。
 
+   ---
    
+![soberbot 001](https://user-images.githubusercontent.com/20737239/60151354-09ed7880-980f-11e9-99d1-c8fc0e8952db.jpeg)
+![soberbot 002](https://user-images.githubusercontent.com/20737239/60151355-09ed7880-980f-11e9-9b12-a020c9d33d2f.jpeg)
+![soberbot 003](https://user-images.githubusercontent.com/20737239/60151357-0a860f00-980f-11e9-84f1-fdacd747f5ac.jpeg)
+![soberbot 004](https://user-images.githubusercontent.com/20737239/60151358-0b1ea580-980f-11e9-8356-7e102b3798a3.jpeg)
+![soberbot 005](https://user-images.githubusercontent.com/20737239/60151360-0bb73c00-980f-11e9-8608-128f961c4558.jpeg)
+![soberbot 006](https://user-images.githubusercontent.com/20737239/60151363-0c4fd280-980f-11e9-83c3-a561de6c7a8c.jpeg)
+![soberbot 007](https://user-images.githubusercontent.com/20737239/60151364-0c4fd280-980f-11e9-9cf3-5f83dbb86220.jpeg)
+![soberbot 008](https://user-images.githubusercontent.com/20737239/60151365-0ce86900-980f-11e9-97b4-48d3905a6319.jpeg)
+![soberbot 009](https://user-images.githubusercontent.com/20737239/60151366-0d80ff80-980f-11e9-8e35-8dd94296d4ac.jpeg)
+![soberbot 010](https://user-images.githubusercontent.com/20737239/60151367-0d80ff80-980f-11e9-8145-ac0338f96111.jpeg)
+![soberbot 011](https://user-images.githubusercontent.com/20737239/60151369-0e199600-980f-11e9-9736-13ad18ff09da.jpeg)
+![soberbot 012](https://user-images.githubusercontent.com/20737239/60151370-0eb22c80-980f-11e9-9e00-533f24b088d3.jpeg)
+![soberbot 013](https://user-images.githubusercontent.com/20737239/60151371-0f4ac300-980f-11e9-8215-8e0357b2c846.jpeg)
+<img width="785" alt="屏幕快照 2019-06-26 12 37 20" src="https://user-images.githubusercontent.com/20737239/60151409-343f3600-980f-11e9-8843-1f818aee06c5.png">
+
 
