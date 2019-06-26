@@ -5,7 +5,7 @@ category : 思维话痨
 tags: [思考,思维话痨,周更]
 ---
 
-本周TOP3：一.蟒营结业项目 <soberbot，清醒一下> 受众为失恋用户。和L团队合作，作品在这：https://soberbot-with-chatterbot.herokuapp.com/ 。二.从一家面试题了解了考古学，谢里曼与荷马史诗，古希腊文明，古希腊英雄。谢里曼先在主观认定荷马史诗的故事一定存在，于是投射在现实里。做的 PPT 作品 ：https://www.yuque.com/huyuning/tiz39m/ddxdgw。 三.发现酷客。技术技术技术这条线，再次强化英语与 outside of the wall。本周金句：決不能為了個別功能性的需要，去做系統的根本性修改。
+本周TOP3：一.蟒营结业项目 <soberbot，清醒一下> 受众为失恋用户。和L团队合作，作品在这：https://soberbot-with-chatterbot.herokuapp.com/ 。二.从一家面试题了解了考古学，谢里曼与荷马史诗，古希腊文明，古希腊英雄。谢里曼先在主观认定荷马史诗的故事一定存在，于是投射在现实里。做的 PPT 作品 ：https://www.yuque.com/huyuning/tiz39m/ddxdgw。 三.发现酷客。技术技术技术这条线，再次强化英语与 outside of the wall，抛弃中国互联网环境吧，甚至微信端。本周金句：決不能為了個別功能性的需要，去做系統的根本性修改。
 
 ## 190617
 - 如果真的很渴望很渴望做什么，就直接去触达而不要迂回，不要用等我句式。珍惜你和那件事儿的缘分。
