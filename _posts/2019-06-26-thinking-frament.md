@@ -48,11 +48,11 @@ tags: [思考,思维话痨,周更]
 - **学习是一个逆人性的事情**。 
 - 发现
     - [酷壳 – CoolShell.cn](https://coolshell.cn/)：用脑力而不是蛮力。长远，而不是眼下。
-      - [如何超过大多数人 - 酷 壳 - CoolShell](https://coolshell.cn/articles/19464.html) ⭐️ 好文！！！抛弃中国互联网环境吧。
-      - [互联网之子 – Aaron Swartz 酷 壳 - CoolShell](https://coolshell.cn/articles/11928.html
+      - [如何超过大多数人 - 酷 壳 CoolShell](https://coolshell.cn/articles/19464.html) ⭐️ 好文！！！抛弃中国互联网环境吧。
+      - [互联网之子 – Aaron Swartz 酷 壳CoolShell](https://coolshell.cn/articles/11928.html)
       - [我看绩效考核 - 酷 壳 - CoolShell](https://coolshell.cn/articles/17972.html)
-      - 用一颗平常心来面对公司给你打的分数，因为那并不代表你的整个人生。但是，你要用一颗非常严肃的心来面对自己的个人发展和成长，因为这才是真正需要认真对待的事。
-      - [三个事和三个问题 - 酷 壳 - CoolShell](https://coolshell.cn/articles/6142.html)
+        - 用一颗平常心来面对公司给你打的分数，因为那并不代表你的整个人生。但是，你要用一颗非常严肃的心来面对自己的个人发展和成长，因为这才是真正需要认真对待的事。
+      - [三个事和三个问题 - 酷 壳CoolShell](https://coolshell.cn/articles/6142.html)
         - 最有价值的东西就是——能和那些有梦想有追求有能力的人一起去经历那些最有意义的事情，那些能够造福社会、改变世界、创造历史的事情。
     - [左耳听风 - 极客时间](https://time.geekbang.org/column/intro/48)
       - 人得时不时去面一下，看看自己在市场上什么水平，
