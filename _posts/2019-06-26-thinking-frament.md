@@ -47,17 +47,17 @@ tags: [思考,思维话痨,周更]
 ##  190622
 - **学习是一个逆人性的事情**。 
 - 发现
+    - [酷壳 – CoolShell.cn](https://coolshell.cn/)：用脑力而不是蛮力。长远，而不是眼下。
+      - [如何超过大多数人 - 酷 壳 - CoolShell](https://coolshell.cn/articles/19464.html) ⭐️ 好文！！！抛弃中国互联网环境吧。
+      - [互联网之子 – Aaron Swartz 酷 壳 - CoolShell](https://coolshell.cn/articles/11928.html
+      - [我看绩效考核 - 酷 壳 - CoolShell](https://coolshell.cn/articles/17972.html)
+      - 用一颗平常心来面对公司给你打的分数，因为那并不代表你的整个人生。但是，你要用一颗非常严肃的心来面对自己的个人发展和成长，因为这才是真正需要认真对待的事。
+      - [三个事和三个问题 - 酷 壳 - CoolShell](https://coolshell.cn/articles/6142.html)
+        - 最有价值的东西就是——能和那些有梦想有追求有能力的人一起去经历那些最有意义的事情，那些能够造福社会、改变世界、创造历史的事情。
     - [左耳听风 - 极客时间](https://time.geekbang.org/column/intro/48)
       - 人得时不时去面一下，看看自己在市场上什么水平，
     - [陈星汉新作《Sky光·遇》官网 - 温暖的灵魂终将相遇](https://sky.163.com/strategy/)
-    - [互联网之子 – Aaron Swartz 酷 壳 - CoolShell](https://coolshell.cn/articles/11928.html)
-    - [酷壳 – CoolShell.cn](https://coolshell.cn/)
-      - 用脑力而不是蛮力。长远，而不是眼下。
-      - [三个事和三个问题 - 酷 壳 - CoolShell](https://coolshell.cn/articles/6142.html)
-        - 最有价值的东西就是——能和那些有梦想有追求有能力的人一起去经历那些最有意义的事情，那些能够造福社会、改变世界、创造历史的事情。
-    - [我看绩效考核 - 酷 壳 - CoolShell](https://coolshell.cn/articles/17972.html)
-      - 用一颗平常心来面对公司给你打的分数，因为那并不代表你的整个人生。但是，你要用一颗非常严肃的心来面对自己的个人发展和成长，因为这才是真正需要认真对待的事。
-    - 【拼娃】中国教育孩子的论证方法居然没有逻辑论证：https://mp.weixin.qq.com/s/HSH-tvjSMdbpbMKW_k1J4g 
+    -  中国教育孩子的论证方法没有逻辑论证：https://mp.weixin.qq.com/s/HSH-tvjSMdbpbMKW_k1J4g 
       - 中国的教育问题，关键就是没有逻辑教育。⭐️
     - [当今国人精神压力难解的重要原因—语言表达及有效沟通的严重缺失（20180616) - 『文昭談古論今』](https://www.wenzhao.ca/2018/06/16/%e6%83%8a%e9%a3%8e%e5%a0%82%e8%ae%ba%e4%b8%ad%e5%ba%b8%ef%bc%884%ef%bc%89%ef%bc%9a%e5%bd%93%e4%bb%8a%e5%9b%bd%e4%ba%ba%e7%b2%be%e7%a5%9e%e5%8e%8b%e5%8a%9b%e9%9a%be%e8%a7%a3%e7%9a%84%e9%87%8d%e8%a6%81/)
     
