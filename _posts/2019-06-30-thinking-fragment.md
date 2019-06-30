@@ -69,4 +69,5 @@ tags: [思考,思维话痨,周更]
       - [上帝掷骰子吗 (豆瓣)](https://book.douban.com/subject/1467022/)
       - [《时间的幸福值（《哈佛商业评论》2019年第6期）](https://www.amazon.cn/dp/B07SXHBT9X/ref=sr_1_2?__mk_zh_CN=%E4%BA%9A%E9%A9%AC%E9%80%8A%E7%BD%91%E7%AB%99&keywords=%E5%93%88%E4%BD%9B%E5%95%86%E4%B8%9A%E8%AF%84%E8%AE%BA&qid=1561900944&s=books&sr=1-2)
 - [不一樣又怎樣 紀錄片-葉永鋕篇 - YouTube](https://www.youtube.com/watch?v=V_M9ZId2QAY) 看完还是看哭了 ，fight for! 每一个人在一些角度都会是少数人的阿。同理心很重要很重要。
+- 爱怎么想我怎么想我吧，不在乎了。
 
