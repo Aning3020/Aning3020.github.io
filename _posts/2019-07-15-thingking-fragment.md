@@ -16,13 +16,13 @@ tags: [思考,思维话痨,周更]
 - **不要轻易打开微信公众号的端口。跟特么抖音似的，无止境**。
 - tangible 有形的
 - 发现
-    - [Draw your future - Patti Dobrowolski | TEDxRainier - YouTube](https://www.youtube.com/watch?v=zESeeaFDVSw)
-    - [2019 阅读（上） | 素生](http://z.arlmy.me/posts/YearlyBooks/YearlyBooks_2019_1/) 。看完就觉得自己也应该写一个上半年的阅读总结，同侪压力。
-    - [也谈工作 之一 | 素生](http://z.arlmy.me/posts/ZArlmyMe/AboutWork_1_20170625/) 
+    - [Draw your future - Patti Dobrowolski - YouTube](https://www.youtube.com/watch?v=zESeeaFDVSw)
+    - [2019 阅读（上）- 素生](http://z.arlmy.me/posts/YearlyBooks/YearlyBooks_2019_1/) 。看完就觉得自己也应该写一个上半年的阅读总结，同侪压力。
+    - [也谈工作 之一 - 素生](http://z.arlmy.me/posts/ZArlmyMe/AboutWork_1_20170625/) 
       - 放弃幻想，只做自己热爱的，然后步履不停。
       - 不妨换一套标准。你变强了吗？变得更有价值了吗？有人愿意为你的价值付更多的钱吗？你每天开心吗？还为新奇而激动吗？还有一腔一往无前的热血和激情吗？买再多书，报名再多课程，参与再多打卡活动，都不如这些问题实在。玩法永远都在变化，只有发自自身的热爱，让你一直前行，只有能力的实质提升，让你渐渐处事不惊。
       - 在我看来，人们看了太多垃圾电影，浪费太多时间在低劣的电视剧上，听了太多口水歌，参与太多竞技游戏麻木自己，关注了太多生产着无效信息的人，人们太容易屈从于情绪，而不是控制好情绪去注意内心涌动的汩汩情感。
-    - [也谈工作 之二 | 素生](http://z.arlmy.me/posts/ZArlmyMe/AboutWork_2_20170625/)
+    - [也谈工作 之二 - 素生](http://z.arlmy.me/posts/ZArlmyMe/AboutWork_2_20170625/)
       - 未来与你共事的同事，知道 MVP 模型吗？产品的日均 UV、PV 是多少？公司的工程师用什么编程语言开发产品？公司主打产品的百度指数如何，微信指数如何？
       - 你的品味。你的品味来自哪里？来自你一直在花时间做的事情，来自你通过实践得到的积累，来自你只身跨过的阶梯翻过的高山，来自你的思考和总结，甚至，来自你不肯放弃的偏见。说到底，品味来自于你的执行。最终，品味让你作出有效的判断。
     - [中国第一女鼓手石璐驶向云外，天真胜似花开-PingWest 品玩](https://www.pingwest.com/a/190761)
