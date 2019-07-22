@@ -5,6 +5,8 @@ layout: page
 
 你好，能找到这里的就是有缘人。这是我的自留地，不喜勿入。
 
+![](https://user-images.githubusercontent.com/20737239/61613359-b9453000-ac93-11e9-9e19-839a9d5bd20c.jpg)
+
 ## 我
    - 渴望生活
    - 美与好奇
