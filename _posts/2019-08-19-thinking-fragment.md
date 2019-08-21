@@ -36,7 +36,7 @@ tags: [思考,思维话痨,周更]
   - 和阿凝在人民广场吃日式烤肉，去了 nike 上海001，阿凝给我买了巧克力祝我新入职成功。这种关系的朋友在一个城市，安全感搞了很多。这才是正常的关心和情感往来吧。**love makes the world go around.**
   - 莫名其妙感觉亲近的人都聚集到了上海。
   - 爸爸妈妈朋友都爱我，感觉很幸福。
-  - [再不用抄袭颜色！直男能看懂的超简单色彩理论【抖抖村】| Color Theory for Dummies - YouTube](https://www.youtube.com/watch?v=XzGc6_4SoXQ) 
+  - [再不用抄袭颜色！直男能看懂的超简单色彩理论【抖抖村】 Color Theory for Dummies - YouTube](https://www.youtube.com/watch?v=XzGc6_4SoXQ) 
     - 光里藏着所有颜色。
     - 光随时都在变化。
     - 颜色不是固定的。
