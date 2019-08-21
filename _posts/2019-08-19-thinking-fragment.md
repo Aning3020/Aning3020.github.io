@@ -57,7 +57,8 @@ tags: [思考,思维话痨,周更]
   
 ##  190818
   - 去上海书展，人太多，本来以为要去四五个小时，两个小时我就回来了。许先哲的签售时间信息我没验证，我以为是周二，fuck。但阴差阳错赶上了他签售会末尾，看了一眼但是没签上名。想着没带书现场买一个空白本子让签名也好，一回头签售会就结束了。脑子里空白了好几分钟。
+  - 下大雨，带了帽子强很多。
   - 发现
     - [A New Earth (豆瓣)](https://book.douban.com/subject/1477611/)
     - [我心目中最接近完美的 VLOG 收音麦克风 - YouTube](https://www.youtube.com/watch?v=w4AQUUeRyaI)
-    - [500元以下 四款贫民价位麦克风大对比！_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/av55551121?from=search&seid=11232183573131186741)
+    - [500元以下 四款贫民价位麦克风大对比！](https://www.bilibili.com/video/av55551121?from=search&seid=11232183573131186741)
