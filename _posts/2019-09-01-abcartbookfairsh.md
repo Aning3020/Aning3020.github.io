@@ -1,10 +1,4 @@
----
-layout: post
-title: 看展 ：abc 上海艺术书展 艺仓美术馆
-tags: [看展，艺术展，zine]
-category: 不知道怎么就正在和渴望 | 生活
----
-
+# abc 上海艺术书展 - 艺仓美术馆
 昨天去看了 abc 举办的上海艺术书展，消息在【看理想】公众号看到，时间是周六日，门票 50 块，看完推送就决定要去这个展。本想是周六就去，但周六中午有一个工作会议，加上还想跟爽姐呆一天。周日和朋友约好起身已是中午，展览只剩下半天，一直在下雨，时大时小，陆家嘴的三大标志性建筑是下图这样的，魔幻。
 
 ![](https://user-images.githubusercontent.com/20737239/64119066-8aaa9100-cdcb-11e9-8a2f-59ec0a87a854.JPG)
@@ -23,6 +17,9 @@ category: 不知道怎么就正在和渴望 | 生活
 
 在 [perimeter books ](https://perimeterbooks.com) 的展位停下，这是澳洲很大的一家出版社，出版一些有名的艺术家的作品，翻了几本书，有绘画集，也有摄影集。一本蛮厚，二百多块钱，放在手里有重量质感也很好，墙上挂着部分作者的作品，喜欢下图的这两幅，可惜都卖没了。
 
+![190901_SH_abcartbook_3161 ](https://user-images.githubusercontent.com/20737239/64427013-b5099080-d0e2-11e9-98dd-b968189cb3e9.jpg)
+![190901_SH_abcartbook_1475 ](https://user-images.githubusercontent.com/20737239/64427018-b89d1780-d0e2-11e9-86b6-86ab19939b56.jpg)
+
 一共只买了两家的东西，第一家是 paperheads，主理人是印度孟买的年轻夫妻，他们是第一次来上海。插画是黑白色可爱风的，很喜欢。第一次只买了贴纸 stiker （70rmb），转了一圈回去又买了介绍册子和小漫画册，觉得帽子质感很好，最后又买了帽子。hmmm ，花了三百多，有些冲动消费了 >.< 
 
 ![](https://user-images.githubusercontent.com/20737239/64119054-88e0cd80-cdcb-11e9-8ee2-4cb2120c2615.JPG)
@@ -37,13 +34,15 @@ category: 不知道怎么就正在和渴望 | 生活
 
 一家德国的出版商：[Lubok Verlag (@lubokverlag)](https://www.instagram.com/lubokverlag/) 我也驻足了很久，真的在摊位站了很久翻了很久。大多也是黑白色风格的，一本五百块。实话说五百块这么多内容，质量也好，其实不算贵，但是兜里真的没钱了。翻了又翻，还是依依不舍地走了。展位的工作人员是日本人的女性，不懂中文，第四次来中国了，用英文交流，态度很好，介绍的很认真。翻的杂志是下图风格的，不算太抽象。
 
-![190901_SH_abcartbook_8390 ](https://user-images.githubusercontent.com/20737239/64124518-ccdacf00-cdd9-11e9-8600-90c45cb7ffec.jpg)
+![190901_SH_abcartbook_8390](https://user-images.githubusercontent.com/20737239/64124518-ccdacf00-cdd9-11e9-8600-90c45cb7ffec.jpg)
 
 楼上还有一层，但是展位不多，比较感兴趣的一家是做手动印刷的，「纸」有了厚度就变成「板」了，拿在手里会有重量，质感完全不同。
 
 ![IMG_5489](https://user-images.githubusercontent.com/20737239/64424818-a9b36680-d0dc-11e9-9933-f4b3e1e949b4.JPG)
 
 一共逛了两个多小时就累了，一天没吃东西又熬夜，身体有点扛不住，加之展品逐渐卖光，自己钱包也空空，最终意犹未尽地走了。去吃炒花蛤回血。把买的小书摊开合照，原以为贴纸白瞎了，灵机一动，选了一个白色眼睛状贴纸贴在了我的黑色手机面板上，又选了一个酒瓶状的贴在了我的电脑上。哈哈，觉得好看极了。
+
+![64118614-96498800-cdca-11e9-9883-cb9a146da29f.jpg (4032×3024)](https://user-images.githubusercontent.com/20737239/64118614-96498800-cdca-11e9-9883-cb9a146da29f.jpg)
 
 ![9491567768838_ pic_hd](https://user-images.githubusercontent.com/20737239/64424395-8936dc80-d0db-11e9-8ac4-9075553abee3.jpg)
 
