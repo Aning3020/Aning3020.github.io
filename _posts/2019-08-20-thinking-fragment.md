@@ -35,8 +35,8 @@ tags: [思考,思维话痨,周更]
     - ❤️[Freelance — James Tupper](http://www.jamestupper.com/play/freelance)
       - bringing abstract concepts to life through video
     - ❤️[Andrej on Vimeo](https://vimeo.com/120878175) ,黑白动画，线条，游泳，黑白调转，配音
-    - [Modern Love | Losing My Religion - Video - NYTimes.com](https://www.nytimes.com/video/fashion/100000003706507/modern-love-losing-my-religion.html?playlistId=100000002441966) 。
-    - [在真实与虚构间编织梦境：聊聊我们喜欢的今敏 | 机核 GCORES](https://www.gcores.com/radios/114039/timelines?play=true)
+    - [Modern Love Losing My Religion - Video - NYTimes.com](https://www.nytimes.com/video/fashion/100000003706507/modern-love-losing-my-religion.html?playlistId=100000002441966) 。
+    - [在真实与虚构间编织梦境：聊聊我们喜欢的今敏 - 机核 GCORES](https://www.gcores.com/radios/114039/timelines?play=true)
     - [常江：如何培养批判性思维？不经分析得出答案的行为是耍流氓（豆瓣时间）](https://m.douban.com/time/article/2195?dt_time_source=douban-web_top_nav)
       - 充分尊重事实
       - 语境化（在具体时空里探讨）
