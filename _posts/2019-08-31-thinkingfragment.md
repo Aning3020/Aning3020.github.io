@@ -17,7 +17,7 @@ tags: [思考,思维话痨,周更]
     - 要开始积累图片/视觉素材了。需要工具管理
     - 卖书（卡在了平庸之恶） + 经营自己的油管频道（卡在起名字和自己的第一个视频）
     - 午饭的饭店放了香水有毒
-  - [测测自己是有创意的人吗？【抖抖村】| How to be Creative - YouTube](https://www.youtube.com/watch?v=C6UNHHRzlc0&pbjreload=10)
+  - [测测自己是有创意的人吗？【抖抖村】How to be Creative - YouTube](https://www.youtube.com/watch?v=C6UNHHRzlc0&pbjreload=10)
     - 创意可训练，需要：1.基于现实理解的常识 2.有价值 3.新东西
     
 ## 190827 【贵哥汉化】
@@ -54,7 +54,7 @@ tags: [思考,思维话痨,周更]
     - 怎么定义老化？抗干扰的能力弱。
   - 发现
     - 时代在悄悄犒赏这个陪 00 后长大的APP https://mp.weixin.qq.com/s/Na4BKtDMgb9bHl8LPJzCKQ 。 00 后看漫画 ，二次元，虚拟世界啊。。。。
-    - [地中美术馆 | 直岛 | 日本旅游攻略 – Japan Hoppers](https://www.japanhoppers.com/zh_cn/shikoku/naoshima/kanko/451/)
+    - [地中美术馆 - 日本旅游攻略 – Japan Hoppers](https://www.japanhoppers.com/zh_cn/shikoku/naoshima/kanko/451/)
     - 一个好的科普网站：[Kurzgesagt – In a Nutshell - YouTube](https://www.youtube.com/user/Kurzgesagt)
     - 这集是我第一次发现妙处。[文昭：一个答案解决大部分问题，深聊海外五毛账号集体阵亡（20190827) - 『文昭談古論今』](https://www.wenzhao.ca/2019/08/27/%e6%96%87%e6%98%ad%ef%bc%9a%e4%b8%80%e4%b8%aa%e7%ad%94%e6%a1%88%e8%a7%a3%e5%86%b3%e5%a4%a7%e9%83%a8%e5%88%86%e9%97%ae%e9%a2%98%ef%bc%8c%e6%b7%b1%e8%81%8a%e6%b5%b7%e5%a4%96%e4%ba%94%e6%af%9b%e8%b4%a6/#comment-8457)  内容很精彩。youtube 平台的定义是什么？公共论坛还是媒体？定义不同，能行使的权利和责任也不同。公共论坛的话就要保留各种观点，来保证言论自由，那极端观点公共平台是否有权封杀？按理来说无权封杀，但是这些极端观点是什么账号，这些账号的目的有是什么，这个目的最终在保障谁的自由？是政府的自由 ，那么这个做法究竟是好还是坏就很明显了。太巧妙地论证！
       - 解答两个关键问题：
