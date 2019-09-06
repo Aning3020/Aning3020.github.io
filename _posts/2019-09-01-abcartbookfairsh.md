@@ -30,7 +30,7 @@ category: 不知道怎么就正在和渴望 | 生活
 
 ![](https://user-images.githubusercontent.com/20737239/64119054-88e0cd80-cdcb-11e9-8ee2-4cb2120c2615.JPG)
 
-买的第二家是 [ZINECOOP](https://zinecoop.org/), 一个香港的独立出版商。出版一些香港艺术家的作品。一眼望去，好多别具一格的小册子：眼睛的创意，蓝粉配色好看极了；smart ，看手机之人间百态，人物线条圆润舒服；红黄配色的消防栓，背景是蓝色线条的草丛......问了价格心里一惊，十来页要 120 rmb，独立创作 + 手工印刷。真的好看，也是真的贵，一直犹豫要不要买。最后一想不买我一定会后悔，于是买了其中两个：smart 和蓝色航海的，特别爱那个蓝色。哎，现在后悔没有买红黄小消防栓的小画册。smart 和消防栓的创作者叫 [@onionpeterman)](https://www.instagram.com/p/Bt5rYQJgHlt/) ，是一个女生，做插画师和丝网印刷（silkscreenprinting），也经营一家独立出版牌子叫 dryrunpress 。
+买的第二家是 [ZINECOOP](https://zinecoop.org/), 一个香港的独立出版商。出版一些香港艺术家的作品。一眼望去，好多别具一格的小册子：眼睛的创意，蓝粉配色好看极了；smart ，看手机之人间百态，人物线条圆润舒服；红黄配色的消防栓，背景是蓝色线条的草丛......问了价格心里一惊，十来页要 120 rmb，独立创作 + 手工印刷。真的好看，也是真的贵，一直犹豫要不要买。最后一想不买我一定会后悔，于是买了其中两个：smart 和蓝色航海的，特别爱那个蓝色。哎，现在后悔没有买红黄小消防栓的小画册。smart 和消防栓的创作者叫 [ @onion peterman ](https://www.instagram.com/p/Bt5rYQJgHlt/) ，是一个女生，做插画师和丝网印刷（silkscreenprinting），也经营一家独立出版牌子叫 dryrunpress 。
 
 
 ![IMG_9612](https://user-images.githubusercontent.com/20737239/64123977-64d7b900-cdd8-11e9-9e04-623fe5fe3611.JPG)
