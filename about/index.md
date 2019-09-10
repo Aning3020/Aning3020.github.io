@@ -14,13 +14,12 @@ layout: page
    - 文本空间
    - 编程初学
    
-## 自产金句
+## 一些句子
    - 灵魂觉醒是精神崩溃的别称。
-   - 除了自己的外部阿，不是一个值得寄托的地方。
    - 让你想活下去的，也会让你想死。
-   - 项目赋予知识点意义。
+ 
 
-## 歌的词
+## 一些歌词
 
   - 得到的都是侥幸，失去的都是人生。 - 张悬 「关于我爱你」
   - 你栽出千万花的一生，四季中径自盛放也凋零，你走出千万人群独行，往柳暗花明山穷水尽去。玫瑰色的你。 - 张悬 「玫瑰色的你」
@@ -31,6 +30,7 @@ layout: page
 ## 找我
 
 * 邮件：<i class="fa fa-envelope"></i>huyuning931106@gmail.com
+* instagram:[@aning_666 · Instagram](https://www.instagram.com/aning_666/)
 * 此地： <i class="fa fa-pencil"></i><a href="http://www.huyuning.com" target="_blank" title="我的个人博客">阿宁（www.huyuning.com）</a>
 * 我的 github:<i class="fa fa-github"></i><a href="http://www.github.com/BleuHu/" target="_blank" title="BleuHu的github"> github </a>
 
