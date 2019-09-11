@@ -30,7 +30,7 @@ layout: page
 ## 找我
 
 * 邮件: <i class="fa fa-envelope"></i>huyuning931106@gmail.com
-* instagram: [@aning_89757](https://www.instagram.com/aning_89757/)
+* instagram:  [阿宁 (@orderchaos_3000)](https://www.instagram.com/orderchaos_3000/)
 * 此地: <i class="fa fa-pencil"></i><a href="http://www.huyuning.com" target="_blank" title="我的个人博客">阿宁（www.huyuning.com）</a>
 * github: <i class="fa fa-github"></i><a href="http://www.github.com/BleuHu/" target="_blank" title="BleuHu的github"> github </a>
 
