@@ -108,9 +108,9 @@ Daily report 。这三个小鱼的形象，喜欢极了。
 ![IMG_5134](https://user-images.githubusercontent.com/20737239/64904525-e34c2900-d6fd-11e9-80b4-23b88155775f.jpg)
 
 ```
-[Pulpa Books (@pulpabooks)，拉丁美洲的独立创作者 + 独立出版商。
-两个人从地球的另一半过来。
-心脏这张看了好久，就买了，也不贵。
+Pulpa Books (@pulpabooks)，一男一女，拉丁美洲的独立创作者 + 独立出版商。
+两个人在阿根廷，是地球的另一端阿。
+心脏这张翻到就被击中了，盯了好久，就买了，也不贵。
 ```
 ![IMG_5055](https://user-images.githubusercontent.com/20737239/64904615-0aefc100-d6ff-11e9-946c-c7613d0c7def.jpg)
 
