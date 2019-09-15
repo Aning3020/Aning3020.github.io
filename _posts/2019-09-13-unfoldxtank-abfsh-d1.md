@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 看展：unfold x tank 上海艺术书展 - 油罐艺术中心（多图）
-tags: [看展，艺术书展，上海，abC]
+title: 看展：unfold x tank 上海艺术书展 - 油罐艺术中心d1（多图）
+tags: [看展，艺术书展，上海，unfold]
 category: 不知道怎么就正在和渴望 | 生活
 ---
 
