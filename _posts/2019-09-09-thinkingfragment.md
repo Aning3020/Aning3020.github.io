@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 思维话痨 | 190909 - 190915
+title: being | 190909 - 190915
 category: 思考
 tags: [思考,思维话痨,周更]
 ---
@@ -9,7 +9,7 @@ tags: [思考,思维话痨,周更]
 - 一. tank x unfold 艺术书展 + 江边 + 风 = 想永远活下去
 - 二.关系里问题都出在归因。归因：出现问题时，朝着有利于关系的方向去归因的同时就建立了信任。
 - 三. 自己的品牌名字 : orderchaos 。
-- 金句：goodbye aning .
+
 
 ##  190909
   - 白天突然想到一个词 **isolated** .一下子就觉得这个词可以总结我对上一段感情的描述：feel so isolated 。中文就是疏离吧。isolated 和 independent 和 lonely 有什么区别呢？在自己不安感很高，喜欢程度又很高的情况下真的 feel so isolated ，有种被遗弃的感觉。我设想的未来里都有 ex ，而 ex 没有我。
@@ -71,7 +71,7 @@ tags: [思考,思维话痨,周更]
   
 ## 190914
   - [荒木经惟唯一的女弟子](https://www.douban.com/note/701027120/)
-    - 慢慢我发现不是那种飘忽不定的爱，而是细致地紧紧相依，就是一瞬间，越是爱得深，才越是会有那种痛楚，怎么说呢，是不可思议的感受。我们也相依偎了很多次。
+    - 慢慢我发现不是那种飘忽不定的爱，而是细致地紧紧相依，就是一瞬间，越是爱得深，才越是会有那种痛楚，怎么说呢，是不可思议的感受。(我们也相依偎了很多次。
   - 这个作者的博客：[GRAPHIC | Kalil Llamazares](https://www.kllamazares.com/graphic) ，简直就是博客的理想范本。[Free Website Builder | Create a Free Website | Wix.com](https://www.wix.com/)
   
 ## 190915
