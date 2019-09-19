@@ -1,7 +1,7 @@
 ---
 layout: post
 title: being | 190909 - 190915
-category: 思考
+category: 思维话痨
 tags: [思考,思维话痨,周更]
 ---
 
