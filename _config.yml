@@ -12,14 +12,14 @@ permalink:           pretty
 # Setup
 title:               阿宁
 tagline:             'inner space'
-description:         '什么秋水怎么望穿；不要被定义。'
+description:         'orderchaos'
 url:                 www.huyuning.com
 baseurl:             /
 paginate:            7
 
 # About/contact
 author:
-  name:              bleu
+  name:              
   url:               www.huyuning.com
   email:             huyuning931106@gmail.com
 
