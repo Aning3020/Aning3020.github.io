@@ -1,2 +1,2 @@
-# BleuHu.github.io
+# Blog
 inner space: www.huyuning.com
