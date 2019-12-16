@@ -314,13 +314,13 @@ tbody tr:nth-child(odd) th {
   font-weight: bold;
 }
 .masthead-title a {
-  color: #3da1ff;
+  color: #4A4A4A;
   font-weight: bold;
 }
 .masthead-title small {
   font-size: 75%;
   font-weight: bold;
-  color: #3da1ff; 
+  color: #4A4A4A; 
   letter-spacing: 0;
 }
 
