@@ -42,7 +42,7 @@ body {
 }
 
 html {
-  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-size: 15px;
   line-height: 1.5;
 }
@@ -101,7 +101,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #4A4A4A;
+  color:  #818181;
 }
 
 strong {
@@ -113,7 +113,7 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
-  color: #4A4A4A ;
+  color:  #818181;
 }
 
 dt {
@@ -611,7 +611,7 @@ a.sidebar-nav-item:focus {
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid 	#ca4d4d;
+  border: 1px solid 	#black;
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
