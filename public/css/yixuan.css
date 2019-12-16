@@ -61,11 +61,11 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: 	#000000;
+  color: 	#313131;
   text-decoration: none;
 }
 a strong {
-  color:black;
+  color:#313131;
 }
 
 /* `:focus` is linked to `:hover` for basic accessibility */
@@ -613,7 +613,7 @@ a.sidebar-nav-item:focus {
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid	#000000;
+  border: 1px solid #202020;
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
@@ -621,7 +621,7 @@ a.sidebar-nav-item:focus {
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
-  background-color: 	#ca4d4d;
+  background-color: #818181;
 }
 
 @media (min-width: 30em) {
@@ -697,5 +697,5 @@ a.pagination-item:hover {
 .footer {
   padding-top: 10px;
   padding-bottom: 10px;
-  border-top: 1px solid 	#000000;
+  border-top: 1px solid 	#202020;
 }
