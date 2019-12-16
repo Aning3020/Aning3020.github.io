@@ -106,7 +106,7 @@ p {
 }
 
 strong {
-  color: #202020;
+  color: rgb(68, 54, 54);
 }
 
 
@@ -621,7 +621,7 @@ a.sidebar-nav-item:focus {
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
-  background-color: #818181;
+  background-color: #CFAA9E;
 }
 
 @media (min-width: 30em) {
