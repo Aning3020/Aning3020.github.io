@@ -377,7 +377,7 @@ tbody tr:nth-child(odd) th {
 
 /* Sidebar content */
 .sidebar a {
-  font-weight: normal;
+  font-weight: bold;
   color: 	#ca4d4d;
 }
 .sidebar-item {
