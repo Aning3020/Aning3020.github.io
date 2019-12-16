@@ -43,12 +43,12 @@ body {
 
 html {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 14x;
+    font-size: 15x;
   }
 }
 
@@ -75,7 +75,7 @@ a:focus {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Times New Roman", Helvetica, Arial, sans-serif;
+  font-family: "Source Sans Pro", Helvetica, Arial, sans-serif;
   font-weight: 400;
   color:	#black;
   letter-spacing: -.025rem;
@@ -310,7 +310,7 @@ tbody tr:nth-child(odd) th {
 .masthead- {
   margin-top: 0;
   margin-bottom: 0;
-  color: #3da1ff;
+  color: #4A4A4A;
   font-weight: bold;
 }
 .masthead-title a {
