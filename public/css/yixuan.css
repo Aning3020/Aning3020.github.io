@@ -101,8 +101,8 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  color:  #818181;
-  font-weight: 200;
+  color:  #202020;
+  font-weight: 100;
 }
 
 strong {
@@ -114,8 +114,8 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
-  color:  #818181;
-  font-weight: 200;
+  color:  #202020;
+  font-weight: 100;
 }
 
 dt {
