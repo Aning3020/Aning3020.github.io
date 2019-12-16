@@ -38,17 +38,17 @@ html,
 body {
   margin: 0;
   padding: 0;
-  border: 1px solid #ca4d4d;
+  border: 0.5px solid  #818181 ;
 }
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: 15px;
+  font-size: 16px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 15x;
+    font-size: 16x;
   }
 }
 
@@ -102,11 +102,11 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
   color:  #818181;
-  font-weight: 100；
+  font-weight: bold;
 }
 
 strong {
-  color: #ca4d4d ;
+  color: #black;
 }
 
 
@@ -141,7 +141,7 @@ abbr {
 }
 abbr[title] {
   cursor: help;
-  border-bottom: 1px dotted 	#ca4d4d;
+  border-bottom: 1px dotted 	black;
 }
 
 /*
@@ -220,7 +220,7 @@ blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
   color:  #FFFDE7;
-  border-left: .25rem solid #FFFDE7;
+  border-left: .25rem solid #ca4d4d;
 }
 blockquote p:last-child {
   margin-bottom: 0;
@@ -256,7 +256,7 @@ th {
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #000;
+  background-color: #white;
 }
 
 /*
@@ -653,7 +653,7 @@ a.pagination-item:hover {
 .theme-#53b45e .sidebar,
 .theme-#53b45e .sidebar-toggle:active,
 .theme-#53b45e #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #313131;
+  background-color: #white;
 }
 .theme-6dd .container a,
 .theme-6dd .sidebar-toggle,
