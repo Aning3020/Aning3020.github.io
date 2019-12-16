@@ -38,7 +38,7 @@ html,
 body {
   margin: 0;
   padding: 0;
-  border: 0.5px solid  #818181 ;
+  border: 1px solid  #818181 ;
 }
 
 html {
@@ -54,14 +54,14 @@ html {
 
 body {
   color: #white;
-  background-color: white;
+  background-color: #white;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: 	#black;
+  color: 	#000000;
   text-decoration: none;
 }
 a strong {
@@ -102,11 +102,11 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
   color:  #818181;
-  font-weight: lighter;
+  font-weight: 100;
 }
 
 strong {
-  color: #black;
+  color: #202020;
 }
 
 
@@ -256,7 +256,7 @@ th {
 }
 tbody tr:nth-child(odd) td,
 tbody tr:nth-child(odd) th {
-  background-color: #white;
+  background-color: white ;
 }
 
 /*
@@ -364,7 +364,7 @@ tbody tr:nth-child(odd) th {
   font-size: .875rem; /* 15px */
   color: rgba(255,255,255,.6);
   border: 1px solid #ca4d4d;
-  background-color: #202020;
+  background-color: #000000;
   -webkit-transition: all .3s ease-in-out;
           transition: all .3s ease-in-out;
 }
@@ -545,7 +545,7 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: 		#black;
+  color: 		#000000;
 }
 .page-title,
 .post-title {
@@ -612,7 +612,7 @@ a.sidebar-nav-item:focus {
 .pagination-item {
   display: block;
   padding: 1rem;
-  border: 1px solid 	#black;
+  border: 1px solid	#000000;
 }
 .pagination-item:first-child {
   margin-bottom: -1px;
@@ -653,7 +653,7 @@ a.pagination-item:hover {
 .theme-#53b45e .sidebar,
 .theme-#53b45e .sidebar-toggle:active,
 .theme-#53b45e #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #white;
+  background-color: #ffffff;
 }
 .theme-6dd .container a,
 .theme-6dd .sidebar-toggle,
@@ -696,5 +696,5 @@ a.pagination-item:hover {
 .footer {
   padding-top: 10px;
   padding-bottom: 10px;
-  border-top: 1px solid 	#black;
+  border-top: 1px solid 	#000000;
 }
