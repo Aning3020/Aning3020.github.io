@@ -621,7 +621,7 @@ a.sidebar-nav-item:focus {
 
 /* Only provide a hover state for linked pagination items */
 a.pagination-item:hover {
-  background-color: #yellow;
+  background-color: #FFFF00;
 }
 
 @media (min-width: 30em) {
@@ -661,7 +661,6 @@ a.pagination-item:hover {
 .theme-6dd .related-posts li a:hover {
   color: #ca4d4d;
 }
-
 
 
 /*
