@@ -1,6 +1,6 @@
 ---
 layout: post
-title: being | 191202 - 191208
+title: being | 191209 - 191215
 category : 思维话痨
 tags: [思考,思维话痨,周更]
 ---
