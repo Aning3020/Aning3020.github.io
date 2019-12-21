@@ -53,19 +53,19 @@ html {
 }
 
 body {
-  color:  #EAEDED  ;
-  background-color:  #EAEDED ;
+  color:  #18191a  ;
+  background-color:  #18191a ;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: 	#313131;
+  color: 	#515253;
   text-decoration: none;
 }
 a strong {
-  color:#313131;
+  color: #515253;
 }
 
 /* `:focus` is linked to `:hover` for basic accessibility */
@@ -77,7 +77,7 @@ a:focus {
 h1, h2, h3, h4, h5, h6 {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
   font-weight: 400;
-  color:	 #212121 ;
+  color:	 #515253 ;
   letter-spacing: -.025rem;
 }
 
@@ -101,7 +101,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  color:  #202020;
+  color:  #515253;
   font-weight: 100;
 }
 
@@ -114,7 +114,7 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
-  color:  #202020;
+  color:  #515253;
   font-weight: 100;
 }
 
@@ -307,16 +307,16 @@ tbody tr:nth-child(odd) th {
   padding-top:    1rem;
   padding-bottom: 1rem;
   margin-bottom: 3rem;
-  border-bottom: 0.5px solid #ca4d4d;
+  border-bottom: 0.5px solid #EC7063;
 }
 .masthead- {
   margin-top: 0;
   margin-bottom: 0;
-  color: #4A4A4A;
+  color: #EC7063 ;
   font-weight: bold;
 }
 .masthead-title a {
-  color: #4A4A4A;
+  color: #EC7063 ;
   font-weight: bold;
 }
 .masthead-title small {
@@ -658,7 +658,7 @@ a.pagination-item:hover {
 .theme-#53b45e .sidebar,
 .theme-#53b45e .sidebar-toggle:active,
 .theme-#53b45e #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color:  #EAEDED;
+  background-color:  #18191a;
 }
 .theme-6dd .container a 
 .theme-6dd .sidebar-toggle,
