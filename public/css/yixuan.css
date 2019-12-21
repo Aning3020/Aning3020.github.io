@@ -53,8 +53,8 @@ html {
 }
 
 body {
-  color:   #ffffff  ;
-  background-color:   #ffffff ;
+  color:   #212121 ;
+  background-color:   #212121 ;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -547,7 +547,7 @@ a.sidebar-nav-item:focus {
 .post-title,
 .post-title a {
   color: #212121;
-  font-size:1.6em;
+  font-size:1.3em;
 }
 .page-title,
 .post-title {
