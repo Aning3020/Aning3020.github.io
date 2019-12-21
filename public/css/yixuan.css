@@ -61,11 +61,11 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: 	#4FB36B;
+  color: 	#50616d;
   text-decoration: none;
 }
 a:hover{
-  background:#CA4D4D;
+  background:#fff143;
 }
 a strong {
   color: #4A4A4A;
