@@ -546,12 +546,12 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: 	blue;
+  color: #313131;
 }
 .page-title,
 .post-title {
   margin-top: 0;
-  color: 	blue;
+  color: 	black;
   
 }
 
@@ -661,7 +661,7 @@ a.pagination-item:hover {
 .theme-6dd .container a,
 .theme-6dd .sidebar-toggle,
 .theme-6dd .related-posts li a:hover {
-  color: #black;
+  color: #ca4d4d;
 }
 
 
