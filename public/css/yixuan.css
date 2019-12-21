@@ -53,8 +53,8 @@ html {
 }
 
 body {
-  color: #fafbfc;
-  background-color: #fafbfc;
+  color:  #EAEDED  ;
+  background-color:  #EAEDED ;
   -webkit-text-size-adjust: 100%;
       -ms-text-size-adjust: 100%;
 }
@@ -546,12 +546,13 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #212121;
+  color: #922B21;
+  font-size: 1.6em;
 }
 .page-title,
 .post-title {
   margin-top: 0;
-  color: 	black;
+  color:#212121;
 
   
 }
@@ -652,12 +653,12 @@ a.pagination-item:hover {
  *
  * Default dark theme of Naringu is here (Will Update)
 
-/* #53b45e */
+/* #ca4d4d */
 
 .theme-#53b45e .sidebar,
 .theme-#53b45e .sidebar-toggle:active,
 .theme-#53b45e #sidebar-checkbox:checked ~ .sidebar-toggle {
-  background-color: #f4f4f4;
+  background-color:  #EAEDED;
 }
 .theme-6dd .container a 
 .theme-6dd .sidebar-toggle,
