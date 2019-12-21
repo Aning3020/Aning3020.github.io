@@ -224,7 +224,7 @@ pre code {
 blockquote {
   padding: .5rem 1rem;
   margin: .8rem 0;
-  color:  #212121;
+  color:  #white;
   border-left: .25rem solid #ca4d4d;
 }
 blockquote p:last-child {
