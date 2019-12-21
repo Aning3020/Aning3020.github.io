@@ -130,8 +130,8 @@ hr {
   position: relative;
   margin: 1.5rem 0;
   border: 0;
-  border-top: 1px solid 	#ca4d4d;
-  border-bottom: 1px solid 	#ca4d4d;
+  border-top: 1px solid 	black;
+  border-bottom: 1px solid 	black;
 }
 
 abbr {
@@ -659,7 +659,7 @@ a.pagination-item:hover {
 .theme-6dd .container a,
 .theme-6dd .sidebar-toggle,
 .theme-6dd .related-posts li a:hover {
-  color: #ca4d4d;
+  color: #black;
 }
 
 
