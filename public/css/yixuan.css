@@ -61,9 +61,8 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: 	#A18E90;
+  color: 	#B33A28;
   text-decoration: none;
-  font-weight: 300;
 }
 a:hover{
   background:#faff72;
@@ -105,7 +104,7 @@ h4, h5, h6 {
 p {
   margin-top: 0;
   margin-bottom: 1rem;
-  color:  #212121;
+  color:  #424c50;
   font-weight: 200;
 }
 
@@ -118,8 +117,8 @@ strong {
 ul, ol, dl {
   margin-top: 0;
   margin-bottom: 1rem;
-  color:  #212121;
-  font-weight: 100;
+  color:  #424c50;
+  font-weight: 200;
 }
 
 dt {
@@ -558,6 +557,7 @@ a.sidebar-nav-item:focus {
 .post-title {
   margin-top: 0;
   color:#212121;
+  font-size:1.2em;
   
 }
 
