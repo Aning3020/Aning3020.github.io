@@ -61,9 +61,9 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: 	#50616d;
+  color: 	#A18E90;
   text-decoration: none;
-  font-style: bold;
+  font-weight: 300;
 }
 a:hover{
   background:#faff72;
@@ -106,7 +106,7 @@ p {
   margin-top: 0;
   margin-bottom: 1rem;
   color:  #212121;
-  font-weight: 100;
+  font-weight: 200;
 }
 
 strong {
