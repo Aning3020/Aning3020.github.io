@@ -43,12 +43,12 @@ body {
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: 16px;
+  font-size: 15px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 16x;
+    font-size: 15x;
   }
 }
 
@@ -61,8 +61,9 @@ body {
 
 /* No `:visited` state is required by default (browsers will use `a`) */
 a {
-  color: 	#B33A28;
+  color: 	#ae7000;
   text-decoration: none;
+  font-weight: 200;
 }
 a:hover{
   background:#faff72;
