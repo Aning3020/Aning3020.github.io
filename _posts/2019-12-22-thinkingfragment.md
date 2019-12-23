@@ -25,8 +25,6 @@ tags: [思考,思维话痨,周更]
     - [COMPLETE] 主体字体重量要变细 ，现在不够细 ：font-weight: lighter ；font-weight: 200；
       - [CSS让文字变细 | levy](http://levy.work/2016-09-30-css-make-font-weight-lighter/)
       - [200](https://www.w3school.com.cn/jsref/prop_style_fontweight.asp)
-    - [COMPLETE] 中间那个红色的线 换成银色线
-    - [COMPLETE] github project 链接
     - [COMPLETE] 小图标：[orderchaos3000.github.io/favicon.ico at master · orderchaos3000/orderchaos3000.github.io](https://github.com/orderchaos3000/orderchaos3000.github.io/blob/master/public/favicon.ico)
     
 ## 191217
