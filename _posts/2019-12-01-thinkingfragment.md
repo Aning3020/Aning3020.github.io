@@ -1,6 +1,6 @@
 ---
 layout: post
-title: being | 191125 - 191201
+title: 在 | 191125 - 191201
 category : 思维话痨
 tags: [思考,思维话痨,周更]
 ---
