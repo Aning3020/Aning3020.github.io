@@ -1,6 +1,6 @@
 ---
 layout: post
-title: being | 190520 - 190526
+title: 周刊_190520
 category: 思维话痨
 tags: [思考,思维话痨,周更]
 ---
