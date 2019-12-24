@@ -1,6 +1,6 @@
 ---
 layout: post
-title: being | 190422 - 190428
+title: 周刊_190422
 category: 思维话痨
 tags: [思考,思维话痨,周更]
 ---
