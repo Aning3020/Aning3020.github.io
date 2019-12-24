@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 在 | 191111 - 191117
+title: 周刊_191111
 category : 思维话痨
 tags: [思考,思维话痨,周更]
 ---
