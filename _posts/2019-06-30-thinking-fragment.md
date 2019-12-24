@@ -1,6 +1,6 @@
 ---
 layout: post
-title: being | 190624 - 190630
+title: 周刊_190624
 category : 思维话痨
 tags: [思考,思维话痨,周更]
 ---
