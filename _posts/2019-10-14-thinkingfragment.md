@@ -1,6 +1,6 @@
 ---
 layout: post
-title: being | 191014 - 191020
+title: 周刊_191014
 category : 思维话痨
 tags: [思考,思维话痨,周更]
 ---
