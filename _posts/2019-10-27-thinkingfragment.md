@@ -1,6 +1,6 @@
 ---
 layout: post
-title: being | 191021 - 191027
+title: 周刊_191021
 category : 思维话痨
 tags: [思考,思维话痨,周更]
 ---
