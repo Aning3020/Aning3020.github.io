@@ -1,6 +1,6 @@
 ---
 layout: post
-title: being | 190715 - 190721
+title: 周刊_190715 - 190721
 category : 思维话痨
 tags: [思考,思维话痨,周更]
 ---
