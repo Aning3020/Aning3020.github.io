@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 问自己
-tags: [问，生活]
+tags: [问题,anti_麻木]
 category: 不知道怎么就正在和渴望 | 生活
 ---
 
