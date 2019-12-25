@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 艺术初探
-tags: [艺术,思考,阅读]
+tags: [艺术,阅读,文本]
 category: 不进入太可惜的世界 | 文本
 ---
 
