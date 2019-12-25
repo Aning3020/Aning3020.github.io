@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 看展：abC 上海艺术书展 - 艺仓美术馆 
-tags: [看展，艺术书展，上海，abC]
+tags: [看展,艺术书展,abC]
 category: 不知道怎么就正在和渴望 | 生活
 ---
 
