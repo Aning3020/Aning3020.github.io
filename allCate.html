@@ -6,7 +6,6 @@ description: "An archive of posts sorted by categories."
 
 <div class="page page-categories animation-fade-up">
 	<div class="list-category">
-		<h2>所有分类</h2>
 		<div>
 			{% for category in site.categories %}
 			<a href="javascript:document.getElementById('{{ category[0] }}').scrollIntoView()">{{ category[0] }}</a>
