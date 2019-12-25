@@ -4,14 +4,6 @@ title: 文章索引
 description: "An archive of posts sorted by categories."
 ---
 
-<div class="page page-categories animation-fade-up">
-	<div class="list-category">
-		<div>
-			{% for category in site.categories %}
-			<a href="javascript:document.getElementById('{{ category[0] }}').scrollIntoView()">{{ category[0] }}</a>
-			{% endfor %}
-		</div>
-	</div>
 {% for category in site.categories %}
 <h2>{{ category | first }}</h2>
 <ul class="arc-list">
