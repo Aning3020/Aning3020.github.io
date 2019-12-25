@@ -1,9 +1,10 @@
 ---
 layout: page
-title: 文章标签 & 分类
+title: 文章索引
 description: "An archive of posts sorted by categories."
 ---
-<div id='tag_cloud' class="tags tags-sup js-tags">
+<!-- Tags (as filter) -->
+			<div id='tag_cloud' class="tags tags-sup js-tags">
 				<a class="tag-button--all" data-encode="" aria-label="Show All">
 					Show All
 					<sup>{{site.posts.size}}</sup>
@@ -21,14 +22,85 @@ description: "An archive of posts sorted by categories."
 				{% endfor %}
 				{% endcapture %}
 				{{ tags | url_encode | split:'</a>' | sort | join:'</a>' | url_decode }}
-</div>
+			</div>
+			<!-- Get Article Nums -->
+			{% assign count = 1 %}
+			{% for post in site.posts reversed %}
+			{% assign year = post.date | date: '%Y' %}
+			{% assign nyear = post.next.date | date: '%Y' %}
+			{% if year != nyear %}
+			{% assign count = count | append: ', ' %}
+			{% assign counts = counts | append: count %}
+			{% assign count = 1 %}
+			{% else %}
+			{% assign count = count | plus: 1 %}
+			{% endif %}
+			{% endfor %}
 
-{% for category in site.categories %}
-<h2>{{ category | first }}</h2>
-<ul class="arc-list">
-    {% for post in category.last %}
-        <li>{{ post.date | date:"%d/%m/%Y"}}  <a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
-</ul>
-{% endfor %}
-</ul>
+			{% assign counts = counts | split: ', ' | reverse %}
+			{% assign i = 0 %}
+
+            <!-- Article List -->
+			<div class="mini-post-list js-result d-none">
+			{%- assign _sorted_list = site.posts -%}
+			{%- assign _sorted_list = _sorted_list | sort: 'date' -%}
+			{%- assign _sorted_list = _sorted_list | reverse -%}
+
+			{%- for _article in _sorted_list -%}
+				{%- assign _tags = '' -%}
+				{%- for _tag in _article.tags -%}
+					{%- assign _tag_encode = _tag | strip | url_encode -%}
+					{%- if forloop.last -%}
+						{%- assign _tags = _tags | append: _tag_encode -%}
+					{%- else -%}
+						{%- assign _tags = _tags | append: _tag_encode | append: ',' -%}
+					{%- endif -%}
+				{%- endfor -%}
+
+			{% comment %} group by year {% endcomment %}
+
+			{%- assign _currentdate = _article.date | date: '%Y' -%}
+			{%- if _currentdate != _date -%}
+				{%- unless forloop.first -%}</section>{%- endunless -%}
+				{% if counts[i] == 1 %}
+				<section>
+				<span class="fa listing-seperator">
+					<span class="tag-text">{{ _currentdate }}</span>
+					<span class="tag-text-num">{{ counts[i] }} Post</span>
+				</span>
+				{% else %}
+				<section>
+				<span class="fa listing-seperator">
+					<span class="tag-text">{{ _currentdate }}</span>
+					<span class="tag-text-num">{{ counts[i] }} Posts</span>
+				</span>
+				{% endif %}
+				{%- assign _date = _currentdate -%}
+					{% assign i = i | plus: 1 %}
+			{%- endif -%}
+
+				<div class="post-preview item" data-tags="{{ _tags }}">
+				    <a href="{{ _article.url | prepend: site.baseurl }}" aria-label="{{ _article.title }}">
+						{% if _article.password %}
+						<h2 class="post-title">
+							<span>{{ _article.title }}</span>
+							<i class="fa fa-lock"  aria-hidden="true" style="margin-left: 10px"></i>
+						</h2>
+						{% else %}
+						<h2 class="post-title">
+							{{ _article.title }}
+						</h2>
+						{% endif %}
+				        {% if _article.subtitle %}
+				        <h3 class="post-subtitle">
+				            {{ _article.subtitle }}
+				        </h3>
+				        {% endif %}
+				    </a>
+					<hr>
+				</div>
+			{% endfor %}
+			</div>
+		</div>
+	</div>
+</div>
