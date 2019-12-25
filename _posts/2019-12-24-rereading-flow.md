@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 再读心流（上）
+title: 再读「心流」
 tags: [阅读,心流，积极心理学]
 category: 不进入太可惜的世界 | 文本
 ---
