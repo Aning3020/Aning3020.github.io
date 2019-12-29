@@ -22,10 +22,16 @@ author:
   name:              
   url:               www.huyuning.com
   email:             huyuning931106@gmail.com
-# Search
-search                   : true
-search_full_content      : true
-search_provider          : lunr 
+
+# Algolia Search
+algolia_search:
+  enable: false
+  hits:
+    per_page: 10
+  labels:
+    input_placeholder: Search for Posts
+    hits_empty: "We didn't find any results for the search: ${query}"
+    hits_stats: "${hits} results found in ${time} ms"
 # Custom vers
 version:             3.0
 
