@@ -25,6 +25,7 @@ author:
 # Search
 search                   : true
 search_full_content      : true
+search_provider          : lunr 
 # Custom vers
 version:             3.0
 
