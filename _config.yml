@@ -22,7 +22,9 @@ author:
   name:              
   url:               www.huyuning.com
   email:             huyuning931106@gmail.com
-
+# Search
+search                   : true
+search_full_content      : true
 # Custom vers
 version:             3.0
 
