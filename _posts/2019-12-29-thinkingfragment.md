@@ -22,7 +22,7 @@ tags: [思考,思维话痨,周更]
   - 下个月参加慢学校。
   - 被夸手长的好看，当然啦，哈哈哈哈哈。
   - 看了一眼去年的年终总结，其实干货不少。
-  - 爱情能经得起考验，但是经不起平淡。 # 金句
+  - 爱情能经得起考验，但是经不起平淡。
   
 ##  191224
 
@@ -41,7 +41,7 @@ tags: [思考,思维话痨,周更]
   - [Free online timeline maker](https://time.graphics/)
   
 ##  191225
-  - 圣诞快乐
+  - 圣诞快乐。
   - 有没有。有多少比例。
   - 图表 - 表示数据之间的关系。四个关系：对比，分布，联系（关系），构成。[Choice of Chart | Data Visualization](https://apandre.wordpress.com/dataviews/choiceofchart/)
   
