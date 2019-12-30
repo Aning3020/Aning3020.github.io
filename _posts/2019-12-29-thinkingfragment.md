@@ -97,7 +97,7 @@ tags: [思考,思维话痨,周更]
   - 一席上海的演讲者，内容很不错，对我来说满开眼和开脑的
     - Yuval Robichek. 以色列插画师，简单有创意，亲密关系的种种，图里有「对应关系」「相似结构」色调很舒服啊啊啊。[Summer Illustration - Yuval Robichek - יובל רוביצ׳ק](https://www.yuvalrob.com/)
     - Masanari Kakamu  ，超市。[スーパーマーケットカカム](https://supermarketkakamu.jp/)
-    - 吴迪  NeuniGroup创始人。 新材料 [Neuni-MateriO | 连联新材料库](http://www.neuni-materio.com/?from=singlemessage&isappinstalled=0)
+    - 吴迪  NeuniGroup创始人。 新材料 [Neuni-MateriO 连联新材料库](http://www.neuni-materio.com/?from=singlemessage&isappinstalled=0)
     - 儿童舒缓 。在中国建立从 0 到 1 儿童的临终关怀。一个问题：家长要不要对儿童提「死亡」？回答：按照心安来走就得了。
     - 王放 城市中动物多样性。城市动物多样性不是多做绿化就OK了。当城市中动物的多样性危害到人类生活，怎么平衡呢? 国外有很多这类事件，浣熊，野猪 ..... 他在上海成立了一个项目，「貉以为家」，项目里一百来号人都是市民志愿者。项目自然成长，已经超过了当时成立的预期
     - 王明珂 毒药猫和代罪羊
