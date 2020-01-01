@@ -24,8 +24,11 @@ author:
   email:             huyuning931106@gmail.com
 
 # Algolia Search
-algolia_search:
-  enable: false
+algolia:
+   application_id: AN
+   index_name: huyuning
+   search_only_api_key: adb51af5f0e35b600a2bd2f441267c72 
+
   hits:
     per_page: 10
   labels:
