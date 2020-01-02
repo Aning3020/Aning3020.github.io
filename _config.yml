@@ -23,7 +23,7 @@ author:
   url:               www.huyuning.com
 # SEARCH 
 algolia:
-  application_id: K9XLOe58hM
+  application_id: K9XLOE58HM
   index_name:     posts # You can replace that with whatever name you want  email:             huyuning931106@gmail.com
   
 # Custom vers
