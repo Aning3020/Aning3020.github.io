@@ -25,7 +25,7 @@ author:
 
 # Algolia Search
 algolia:
-   application_id: 'AN'
+   application_id: 'blog'
    index_name: 'huyuning'
    search_only_api_key: 'adb51af5f0e35b600a2bd2f441267c72' 
 
