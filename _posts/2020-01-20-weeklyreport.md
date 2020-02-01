@@ -25,7 +25,7 @@ tags: [思考,思维话痨,周更]
 ## 200122
   - 穿了买来就没穿过的那个白色夹克。
   - 晚上和爽姐做菜吃了。
-  - 外国武汉预测潜伏人数的方法 [Faculty of Medicine | Imperial College London](http://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/?dt_dapp=1)
+  - 外国武汉预测潜伏人数的方法 [Faculty of Medicine - Imperial College London](http://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/news--wuhan-coronavirus/?dt_dapp=1)
   
 ##  200123
   - 今天去补那个体检来回有几个风险。1.去的时候的地铁。2.去的时候第二段的司机没戴口罩。3.最为主要。他们这个医院的医生不特么戴口罩？检查时接触了可能十来个医生吧，都不带口罩。判断是 30 -60 之间。
@@ -46,7 +46,8 @@ tags: [思考,思维话痨,周更]
     
 ## 200125
   - 好文：[谣言，作为一种社会抗议](https://mp.weixin.qq.com/s/AST2bqSVYQ1mN0tEnhTyjQ)，谣言就是言论的容错制度阿。政府垄断了谣言权。
-  - 今天开智北京微信群怼了一个人，有人跟我说官方数字叫谨慎。 我当机立断怼回去：「谨慎」和「瞒报」做个区分吧？不需要相互否定
+  - **今天开智北京微信群怼了一个人，有人跟我说官方数字叫谨慎。 我当机立断怼回去：「谨慎」和「瞒报」做个区分吧？**
+  - 不需要相互否定
   - 在旋涡中心，对待信息的八字真言「多看多听，及时更新。」
   - 饭圈女孩的执行力。
   - 无政府状态
