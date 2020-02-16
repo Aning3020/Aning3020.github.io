@@ -58,7 +58,7 @@ tags: [2019-cNoV,社会,记录]
 
 **so, 我为了纪念李文亮，换了一个头像，被训诫。你因为我被训诫再做一个事儿，还是会被训诫。别人看到你被训诫，再做一个事，还是被训诫。现在就是训诫的轮回，子子孙孙无穷矣。问题出在了哪，你知道了吗？我知道。怎么终止训诫的轮回？我知道我也不知道**。
 
-PS :need tizi 阅读[逃离微信宣言 FreeFromWechat)](https://matters.news/@freefromwechat/%E9%80%83%E7%A6%BB%E5%BE%AE%E4%BF%A1%E5%AE%A3%E8%A8%80-free-from-wechat-manifesto-bafyreib7535kdob62z6j7dlfjsl5or2doduvuqpgd7xdji2hzncfrvdws4)
+PS :传送门：[逃离微信宣言 FreeFromWechat](https://matters.news/@freefromwechat/%E9%80%83%E7%A6%BB%E5%BE%AE%E4%BF%A1%E5%AE%A3%E8%A8%80-free-from-wechat-manifesto-bafyreib7535kdob62z6j7dlfjsl5or2doduvuqpgd7xdji2hzncfrvdws4)
 
 ## changelog
 - 2020-02-13 21：20创建 1h 
