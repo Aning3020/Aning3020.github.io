@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 一个轮回 | 训诫的训诫（2020-02-13）
+title: 一个轮回 | 训诫的训诫（day1）
 category : 2019-nCoV
 tags: [2019-nCoV,社会,历史,记录]
 --- 
