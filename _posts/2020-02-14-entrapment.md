@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 训诫后的钓鱼执法（day2））
+title: 训诫后的钓鱼执法 (day2)
 category : 2019-nCoV
 tags: [2019-nCoV,社会,钓鱼,记录]
 ---  
