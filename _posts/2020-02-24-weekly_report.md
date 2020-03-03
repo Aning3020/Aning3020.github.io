@@ -5,7 +5,7 @@ category : 思维话痨
 tags: [思考,思维话痨,周更]
 ---
 
-- 一.土壤可以贫瘠，人不能贫瘠。还有很多来不及清理的残留，你悄悄换个台，或许还有最后一点时间装进脑子里。首先有常识和逻辑。至少了解一点艺术史，至少有一点美学判断，至少有一点文化理论基础，至少通读过一个年代或一个国家或一次事件的详史，学习基础的科学科技通识。多想想宇宙。尽可能掌握足够多的词汇量，尽可能写作，写不了就画，画不了就唱，别懒，也别停。
+- 一.土壤可以贫瘠，人不能贫瘠。尽可能掌握足够多的词汇量，尽可能写作，写不了就画，画不了就唱，别懒，也别停。
 - 二.经此一役，我最大的变化是更坚定与更勇敢了。还有我彻底失序的时候，真的是靠好奇和求解心活着阿。
 - 三.lexie !!!!!!!喜欢!!!!
 - 金句: 结构性的对抗不了，就对抗自己的无能吧。
@@ -27,11 +27,11 @@ tags: [思考,思维话痨,周更]
     
 ## 200226
   - 去银行。
-  - 成文：[工作｜放弃幻想，接受当工具人 · 阿宁](http://www.huyuning.com/%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E5%A4%A7%E8%84%91%20%7C%20%E6%80%9D%E8%80%83/2020/02/26/one_vanish_on_work/)，越写越多，越写越清晰。头一次用大妈的代码式行文写，但是这种问题对内分析问题可以，对外不行呀，哈哈。
+  - 成文：[工作-放弃幻想，接受当工具人](http://www.huyuning.com/%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E5%A4%A7%E8%84%91%20%7C%20%E6%80%9D%E8%80%83/2020/02/26/one_vanish_on_work/)，越写越多，越写越清晰。头一次用大妈的代码式行文写，但是这种问题对内分析问题可以，对外不行呀，哈哈。
   
 ## 200227
   - 好的老师，是自毁倾向的，因为教出来的学生青出于蓝而胜于蓝。
-  - 会问问题太重要了。比如说会问一个：what is xx  ，什么是 xx ？其实就是问一个定义，就已经是一切的开始。
+  - **会问问题太重要了。比如说会问一个：what is xx  ，什么是 xx ？其实就是问一个定义，就已经是一切的开始**。
   - 开始写疫情的文章，但是因为角度太多，情绪太多，事件太多，反而不知道怎么写。
   - 我发现我自己经此一役，最大的变化是：更勇敢更坚定了（坚定这个词找了半天）。
   - 对，今天写疫情的文章，写的乱七八糟的，直到找到坚定这个词儿才觉得踏实了好多。毕竟我有体谅+取悦，天然为对方考虑，所以这个坚定对我来说太重要了。
@@ -43,7 +43,7 @@ tags: [思考,思维话痨,周更]
   -  H问我，你这个坚定是不是也和谈话的主动权有关 ？我想说好像也是 ，我以前经常让渡这个主动权，会被拖到人家的语境里。现在会拆会跳出来了。比方说和老板那次打交道处理危机，就是我夺回了主动权。我以前以为只能顺着走，哈哈。还蛮奇妙的感觉。
   
 ## 200228
-  - [Opinion | The Best of Illustration - The New York Times](https://www.nytimes.com/interactive/2020/02/27/opinion/2019-year-in-illustration.html) 好好看啊啊啊啊啊啊！！！！
+  - [Opinion - The Best of Illustration - The New York Times](https://www.nytimes.com/interactive/2020/02/27/opinion/2019-year-in-illustration.html) 好好看啊啊啊啊啊啊！！！！
   - 插画：[Xia Gordon](https://xiagordon.com/)
   - 插画：[Jun Cen (@juncenart) • Instagram photos and videos](https://www.instagram.com/juncenart/)
   - [Dazzling Artwork from "The Future Is Now"](https://www.heavymetal.com/news/dazzling-artwork-from-the-future-is-now/)
@@ -57,7 +57,7 @@ tags: [思考,思维话痨,周更]
   -  V2Ray。[使用方式 · Project V 官方网站](https://www.v2ray.com/chapter_00/workflow.html)
   - [Wayback Machine](https://web.archive.org/web/*/https://chrome.google.com/webstore/detail/save-to-the-wayback-machi/eebpioaailbjojmdbmlpomfgijnlcemk/related)
   - 两个文章
-    - [在同婚合法化的美东，我在她和男友之间选择了后者 | 三明治](https://mp.weixin.qq.com/s/gzo52d3B-bmj-uflkS4mFA) ，唏嘘，如果说我有一种生活绝对不想过，那就是这样。
+    - [在同婚合法化的美东，我在她和男友之间选择了后者 / 三明治](https://mp.weixin.qq.com/s/gzo52d3B-bmj-uflkS4mFA) ，唏嘘，如果说我有一种生活绝对不想过，那就是这样。
     - [工具人会梦见圈养羊吗？](https://mp.weixin.qq.com/s/UWTPLsw4t35Ur1QfLkhliA)。 “复工带来安稳，克制臆想，**代替做决定**，暂缓思考意义。” 这个问题自己早就思考过，但是代替做决定这几个字还是击中了我。
     
 ## 200301
@@ -76,7 +76,7 @@ tags: [思考,思维话痨,周更]
     - [余英時回憶錄 (豆瓣)](https://book.douban.com/subject/30348380/)
     - [福柯-生命政治的诞生 (豆瓣)](https://book.douban.com/subject/6710686/)
     - [汪民安-生产（第8辑） (豆瓣)](https://book.douban.com/subject/22964916/)
-    - [瘟疫与人 - 〔美〕威廉·麦克尼尔 | 豆瓣阅读](https://read.douban.com/ebook/52606679/?dcs=subject-rec&dcm=douban&dct=33436179)
+    - [瘟疫与人 - 〔美〕威廉·麦克尼尔](https://read.douban.com/ebook/52606679/?dcs=subject-rec&dcm=douban&dct=33436179)
     - [有所不为的反叛者 (豆瓣)](https://book.douban.com/subject/33111439/)
     - [小行星掉在下午 (豆瓣)](https://book.douban.com/subject/34907855/)
     - [被讨厌的勇气 (豆瓣)](https://book.douban.com/subject/26369699/)
