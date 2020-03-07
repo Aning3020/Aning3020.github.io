@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 问问你自己
+title: 问
 tags: [问题,anti_麻木]
 category: 不能让你知道我的大脑 | 思考
 ---
