@@ -37,7 +37,7 @@ tags: [思考,思维话痨,周更]
   - 人不能互相理解，只能互相尊重。
   - 人不是能随意摆弄的物件。
   - 需要一些新视角。
-  - [utterances](https://utteranc.es/)
+  - 评论插件：[utterances](https://utteranc.es/)
   - 想看好多书啊啊，还有豆瓣时间的一个哲学课，哲学闪耀时。
     - [政治哲学导论 (豆瓣)](https://book.douban.com/subject/4042959/)
     - [说理 (豆瓣)](https://book.douban.com/subject/6431982/)
@@ -51,7 +51,7 @@ tags: [思考,思维话痨,周更]
   - infogap 日报要结束喽。给 h 改了措辞，结果说不适应我这个，有些肉麻，我说我就是正常表达，任何人真的差异太大啦。文宣组有人表白我呀，哈哈哈
   - 怼圈。表达 和 提问 是两个核心能力。
   - 引導：提問 + 示範。
-  - 1 - 2 - all ：[慢学校分享 | 安猪的读书会特别不一样](https://mp.weixin.qq.com/s/KH2NXFPmHzuz1mlWbmQ13w)
+  - 1 - 2 - all ：[慢学校分享-安猪的读书会特别不一样](https://mp.weixin.qq.com/s/KH2NXFPmHzuz1mlWbmQ13w)
   
 ## 200308
   - 熬夜太难受了
