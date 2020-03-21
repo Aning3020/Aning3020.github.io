@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Back to society
+title: 回到社会
 tags: [生活,思考,随笔]
 category: 不知道怎么就正在和渴望 | 生活
 ---
