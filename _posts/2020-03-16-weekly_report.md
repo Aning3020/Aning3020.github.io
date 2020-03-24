@@ -33,10 +33,10 @@ tags: [思考,思维话痨,周更]
     - 我问：可是我不知道怎么求解，what is xxx 这种命题作文。你现在问我什么是 XX 积累多的研究多的 我能说多一点 积累少的研究少的 我能说少一点。问题是形成不了你那种经过大时间思考的闭环。
     - 大妈：求解第0步 --> 定义问题…你连要求解什么都不知道~乍开始?先完成什么是知识/学习/课程/...的核心问题，学毛主席的农村调查报告。**先列现象-->再分类 --> 抽象问题-->反复定义精确 --> 解决方案就自然浮现了**.
   - Oliver Ding 的文章信息密度好高，读着有点晕眩。不过看到密度大的知识，还是会释放大量多巴胺，开心啊啊啊啊
-    - 人们如何理解概念：[活的概念：日常语言 v.s. 规范知识 | Oliver Ding's Zine column](https://zine.la/article/bcf77cbb71304503a74edcd227175c0a/) -- 》头一次觉得模型是好的。
-    - [《集展性》书稿封面、导读和目录 | Oliver Ding's Zine column](https://zine.la/article/1dfa0682897a4848b47b809f8603d6b5/)
+    - 人们如何理解概念：[活的概念：日常语言 v.s. 规范知识 Oliver Ding's Zine column](https://zine.la/article/bcf77cbb71304503a74edcd227175c0a/) -- 》头一次觉得模型是好的。
+    - [《集展性》书稿封面、导读和目录  Oliver Ding's Zine column](https://zine.la/article/1dfa0682897a4848b47b809f8603d6b5/)
     - [社会生活的信息架构](https://zine.la/article/785274f3e68e45d0b34e664a00591f83/)
-    - [前言 | 自由灵魂](https://oliverding.gitbooks.io/freesoul/content/)
+    - [前言 自由灵魂](https://oliverding.gitbooks.io/freesoul/content/)
     - [FREESOULS - by Joi Ito](https://freesouls.cc/)
   - 起、承、转、合
   - 在边缘地带游牧，也在核心地带折腾
