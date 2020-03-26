@@ -38,3 +38,6 @@ theme:
   creator:			Yixuan Li
   codename:			Geek-green
   link:         https://github.com/YixuanFranco
+
+plugins:
+  - jekyll-feed
