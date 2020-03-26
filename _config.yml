@@ -4,30 +4,33 @@ highlighter:         rouge
 
 
 # Permalinks
+#
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
 
 # Setup
 title:               阿宁
-tagline:             'inner space'
-description:         '未来从现实生长。'
-url:                 www.huyuning.com
+tagline:             'inner space.'
+description:         '未来从现实生长.'
+url:                 https://huyuning.com
 baseurl:             /
 paginate:            7
 
 # About/contact
 author:
-  name:              
-  url:               www.huyuning.com
-       
+  name:              aning
+  email:             huyuning@931106gmail.com
+
 # Custom vers
 version:             3.0
-		
+
+# Social Media
+github:				https://github.com/orderchaos3000
+
+
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
 theme:
   creator:			Yixuan Li
   codename:			Geek-green
   link:         https://github.com/YixuanFranco
-
-
