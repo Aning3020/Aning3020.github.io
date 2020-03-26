@@ -4,7 +4,6 @@ highlighter:         rouge
 
 
 # Permalinks
-#
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
 
@@ -33,9 +32,8 @@ algolia:
 
 # Social Media	# Social Media
 github:				https://github.com/orderchaos3000					
-twitter:	
+	
 		
-
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
 theme:
   creator:			Yixuan Li
