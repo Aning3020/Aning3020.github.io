@@ -31,10 +31,6 @@ algolia:
   index_name:     posts # You can replace that with whatever name you want  email:             huyuning931106@gmail.com	
 
 
-# Custom vers	# Custom vers
-version:             3.0	version:             3.0
-
-
 # Social Media	# Social Media
 github:				https://github.com/orderchaos3000					
 twitter:	
