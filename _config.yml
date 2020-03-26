@@ -21,17 +21,14 @@ paginate:            7
 author:
   name:              
   url:               www.huyuning.com
-# SEARCH 
-algolia:
-  application_id: K9XLOE58HM
-  index_name:     posts # You can replace that with whatever name you want  email:             huyuning931106@gmail.com
-  
+       
 # Custom vers
 version:             3.0
 
 # Social Media
-github:				https://github.com/orderchaos3000
-twitter:			
+github:            https://github.com/orderchaos3000
+
+		
 
 # Theme Author (Please don't edit this line cause of MIT LICENSE rules)
 theme:
