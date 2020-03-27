@@ -1,21 +1,25 @@
 ---
-layout: none
+layout: null
 ---
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>{{ site.name }}</title>
-        <description>{{ site.description }}</description>
-        <link>{{ site.url }}</link>
-        <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml" />
-        {% for post in site.posts limit:10 %}
-            <item>
-                <title>{{ post.title }}</title>
-                <description>{{ post.content | xml_escape }}</description>
-                <pubDate>{{ post.date | date: "%a, %d %b %Y %H:%M:%S %z" }}</pubDate>
-                <link>{{ site.url }}{{ post.url }}</link>
-                <guid isPermaLink="true">{{ site.url }}{{ post.url }}</guid>
-            </item>
-        {% endfor %}
-    </channel>
+  <channel>
+    <title>{{site.title}}</title>
+    <link>{{site.domainUrl | append: site.baseurl }}</link>
+    <description>{{site.description}}</description>
+    <language>zh-CN</language>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <lastBuildDate>{{site.time | date_to_rfc822}}</lastBuildDate>
+    <generator>Jekyll v{{ jekyll.version }}</generator>
+    <atom:link href="{{ site.domainUrl | append: site.baseurl }}/static/xml/rss.xml" rel="self" type="application/rss+xml" />
+    {%- for post in site.posts %}
+    <item>
+      <title>{{post.title | escape}}</title>
+      <link>{{site.domainUrl | append: site.baseurl | append: post.url}}</link>
+      <description>{{post.content | strip_html | strip_newlines | replace: " ", "" | replace: "	", "" | truncate: 120 | escape}}</description>
+      <pubDate>{{post.date | date_to_rfc822}}</pubDate>
+      <gui>{{site.domainUrl | append: site.baseurl | append: post.url}}</gui>
+    </item>
+    {%- endfor %}
+  </channel>
 </rss>
