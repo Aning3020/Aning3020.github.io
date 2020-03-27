@@ -1,146 +1,132 @@
-// 获取搜索框、搜索按钮、清空搜索、结果输出对应的元素
-var searchBtn = document.querySelector('.search-start');
-var searchClear = document.querySelector('.search-clear');
-var searchInput = document.querySelector('.search-input');
-var searchResults = document.querySelector('.search-results');
+// 搜索功能
+blog.addLoadEvent(function() {
+  // 标题等信息
+  var titles = []
+  // 正文内容
+  var contents = []
+  // 上一次输入
+  var keyBefore = ''
+  // IOS 键盘中文输入bug
+  var inputLock = false
+  // 本地无缓存/站点重新编译，弹框阻塞，加载全文检索内容
+  if (!localStorage.db || localStorage.dbVersion != blog.buildAt) {
+    // 删除失效缓存
+    if (localStorage.db) {
+      localStorage.removeItem('db')
+    }
+    if (localStorage.dbVersion) {
+      localStorage.removeItem('dbVersion')
+    }
+    var loadingDOM = document.querySelector('.page-search h1 img')
+    loadingDOM.style.opacity = 1
 
-// 申明保存文章的标题、链接、内容的数组变量
-var searchValue = '',
-    arrItems = [],
-    arrContents = [],
-    arrLinks = [],
-    arrTitles = [],
-    arrResults = [],
-    indexItem = [],
-    itemLength = 0;
-var tmpDiv = document.createElement('div');
-tmpDiv.className = 'result-item';
+    blog.ajax(
+      {
+        timeout: 20000,
+        url: blog.baseurl + '/static/xml/search.xml'
+      },
+      function(data) {
+        localStorage.db = data
+        localStorage.dbVersion = blog.buildAt
+        initContentDB()
+        search(document.querySelector('#search-input').value)
+        loadingDOM.style.opacity = 0
+      },
+      function() {
+        console.error('全文检索数据加载失败...')
+      }
+    )
+  }
 
-// ajax 的兼容写法
-var xhr = new XMLHttpRequest() || new ActiveXObject('Microsoft.XMLHTTP');
-xhr.onreadystatechange = function () {
-    if (xhr.readyState == 4 && xhr.status == 200) {
-        xml = xhr.responseXML;
-        arrItems = xml.getElementsByTagName('item');
-        itemLength = arrItems.length;
-        
-        // 遍历并保存所有文章对应的标题、链接、内容到对应的数组中
-        // 同时过滤掉 HTML 标签
-        for (i = 0; i < itemLength; i++) {
-            arrContents[i] = arrItems[i].getElementsByTagName('description')[0].
-                childNodes[0].nodeValue.replace(/<.*?>/g, '');
-            arrLinks[i] = arrItems[i].getElementsByTagName('link')[0].
-                childNodes[0].nodeValue.replace(/<.*?>/g, '');
-            arrTitles[i] = arrItems[i].getElementsByTagName('title')[0].
-                childNodes[0].nodeValue.replace(/<.*?>/g, '');
+  if (localStorage.db) {
+    initContentDB()
+  }
+  document.querySelectorAll('.list-search .title').forEach(function(title) {
+    titles.push(title.innerHTML)
+  })
+
+  function initContentDB() {
+    var root = document.createElement('div')
+    root.innerHTML = localStorage.db
+    root.querySelectorAll('li').forEach(function(content) {
+      var str = content.innerHTML
+      contents.push(str)
+    })
+  }
+
+  function search(key) {
+    key = blog.trim(key)
+    if (key == keyBefore) {
+      return
+    }
+    // <>& 替换
+    key = key.replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/&/g, '&amp;')
+
+    keyBefore = key
+    var doms = document.querySelectorAll('.list-search li')
+    var h1 = '<span class="hint">'
+    var h2 = '</span>'
+    for (let i = 0; i < doms.length; i++) {
+      var title = titles[i]
+      var content = contents[i]
+      var dom_li = doms[i]
+      var dom_title = dom_li.querySelector('.title')
+      var dom_content = dom_li.querySelector('.content')
+
+      dom_title.innerHTML = title
+      dom_content.innerHTML = ''
+
+      // 空字符隐藏
+      if (key == '') {
+        dom_li.setAttribute('hidden', true)
+        continue
+      }
+      var hide = true
+      var r1 = new RegExp(blog.encodeRegChar(key), 'gi')
+      var r2 = new RegExp(blog.encodeRegChar(key), 'i')
+
+      // 标题全局替换
+      if (r1.test(title)) {
+        hide = false
+        dom_title.innerHTML = title.replace(r1, h1 + key + h2)
+      }
+      // 内容先找到第一个，然后确定100个字符，再对这100个字符做全局替换
+      var cResult = r2.exec(content)
+      if (cResult) {
+        hide = false
+        index = cResult.index
+        var leftShifting = 10
+        var left = index - leftShifting
+        var right = index + (100 - leftShifting)
+        if (left < 0) {
+          right = right - left
         }
+        content = content.substring(left, right)
+        dom_content.innerHTML = content.replace(r1, h1 + key + h2) + '...'
+      }
+      // 内容未命中标题命中，内容直接展示前100个字符
+      if (!cResult && !hide && content) {
+        dom_content.innerHTML = content.substring(0, 100) + '...'
+      }
+      if (hide) {
+        dom_li.setAttribute('hidden', true)
+      } else {
+        dom_li.removeAttribute('hidden')
+      }
     }
-}
+  }
 
-// 开始获取根目录下 feed.xml 文件内的数据
-xhr.open('get', '/feed.xml', true);
-xhr.send();
-
-searchBtn.onclick = searchConfirm;
-
-// 清空按钮点击函数
-searchClear.onclick = function(){
-    searchInput.value = '';
-    searchResults.style.display = 'none';
-    searchClear.style.display = 'none';
-}
-
-// 输入框内容变化后就开始匹配，可以不用点按钮
-// 经测试，onkeydown, onchange 等方法效果不太理想，
-// 存在输入延迟等问题，最后发现触发 input 事件最理想，
-// 并且可以处理中文输入法拼写的变化
-searchInput.oninput = function () {
-    setTimeout(searchConfirm, 0);
-}
-searchInput.onfocus = function () {
-    searchResults.style.display = 'block';
-}
-
-function searchConfirm() {
-    if (searchInput.value == '') {
-        searchResults.style.display = 'none';
-        searchClear.style.display = 'none';
-    } else if (searchInput.value.search(/^\s+$/) >= 0) {
-        // 检测输入值全是空白的情况
-        searchInit();
-        var itemDiv = tmpDiv.cloneNode(true);
-        itemDiv.innerText = '请输入有效内容...';
-        searchResults.appendChild(itemDiv);
-    } else {
-        // 合法输入值的情况
-        searchInit();
-        searchValue = searchInput.value;
-        // 在标题、内容中查找
-        searchMatching(arrTitles, arrContents, searchValue);
+  var input = document.getElementById('search-input')
+  blog.addEvent(input, 'input', function(event) {
+    if (!inputLock) {
+      search(event.target.value)
     }
-}
-
-// 每次搜索完成后的初始化
-function searchInit() {
-    arrResults = [];
-    indexItem = [];
-    searchResults.innerHTML = '';
-    searchResults.style.display = 'block';
-    searchClear.style.display = 'block';
-}
-
-function searchMatching(arr1, arr2, input) {
-    // 忽略输入大小写
-    input = new RegExp(input, 'i');
-    // 在所有文章标题、内容中匹配查询值
-    for (i = 0; i < itemLength; i++) {
-        if (arr1[i].search(input) !== -1 || arr2[i].search(input) !== -1) {
-            // 优先搜索标题
-            if (arr1[i].search(input) !== -1) {
-                var arr = arr1;
-            } else {
-                var arr = arr2;
-            }
-            indexItem.push(i);  // 保存匹配值的索引
-            var indexContent = arr[i].search(input);
-            // 此时 input 为 RegExp 格式 /input/i，转换为原 input 字符串长度
-            var l = input.toString().length - 3;
-            var step = 10;
-            
-            // 将匹配到内容的地方进行黄色标记，并包括周围一定数量的文本
-            arrResults.push(arr[i].slice(indexContent - step, indexContent) +
-                '<mark>' + arr[i].slice(indexContent, indexContent + l) + '</mark>' +
-                arr[i].slice(indexContent + l, indexContent + l + step));
-        }
-    }
-
-    // 输出总共匹配到的数目
-    var totalDiv = tmpDiv.cloneNode(true);
-    totalDiv.innerHTML = '总匹配：<b>' + indexItem.length + '</b> 项';
-    searchResults.appendChild(totalDiv);
-
-    // 未匹配到内容的情况
-    if (indexItem.length == 0) {
-        var itemDiv = tmpDiv.cloneNode(true);
-        itemDiv.innerText = '未匹配到内容...';
-        searchResults.appendChild(itemDiv);
-    }
-
-    // 将所有匹配内容进行组合
-    for (i = 0; i < arrResults.length; i++) {
-        var itemDiv = tmpDiv.cloneNode(true);
-        itemDiv.innerHTML = '<b>《' + arrTitles[indexItem[i]] +
-            '》</b><hr />' + arrResults[i];
-        itemDiv.setAttribute('onclick', 'changeHref(arrLinks[indexItem[' + i + ']])');
-        searchResults.appendChild(itemDiv);
-    }
-}
-
-function changeHref(href) {
-
-    // 在当前页面点开链接的情况
-    location.href = href;
-
-    // 在新标签页面打开链接的代码，与上面二者只能取一个，自行决定
-    // window.open(href);
-}
+  })
+  blog.addEvent(input, 'compositionstart', function(event) {
+    inputLock = true
+  })
+  blog.addEvent(input, 'compositionend', function(event) {
+    inputLock = false
+    search(event.target.value)
+  })
+})
