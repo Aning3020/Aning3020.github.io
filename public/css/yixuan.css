@@ -43,12 +43,12 @@ body {
 
 html {
   font-family: "PT Sans", Helvetica, Arial, sans-serif;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.5;
 }
 @media (min-width: 38em) {
   html {
-    font-size: 18x;
+    font-size: 16x;
   }
 }
 
