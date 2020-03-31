@@ -4,10 +4,10 @@ title: 周刊_200323
 category : 思维话痨
 tags: [思考,思维话痨,周更]
 ---
-一：理论和生活（现实）的关系，蛮有意思。精神性的东西和实践还是要分开。当然要看实践。
+一：做一个生产者而非消费者/理论和现实的关系，蛮有意思，很多人并不统一，这也是为什么知易行难。观察一个人精神性的东西和实践还是要分开，这会避免盲目崇拜精神性的一些悲剧发生。
 二：说服力PPT 这本书的金字塔结构，自上而下，自下而上。/ 职场里有很多紧急情境，紧急情境构成一个场，让你没心思干别的和想别的/角色换服装是最直接的一次解构和建构。
 三：加入了翻译建筑的永恒之道。看了我的天才女友，看了但是还有书籍的纪录片，都很很很好看。
-金句：每个人都不想成为代价，这导致所有人都在承受更大的代价。
+金句：每个人都不想成为代价，这导致所有人都在承受更大的代价。（这和时间的尺度有关）
 
 
 ## 200323
@@ -19,18 +19,20 @@ tags: [思考,思维话痨,周更]
   - 从 ale 身上学到的就是要**理直气壮**。
   - 好看呐啊啊啊啊啊啊。[Jed Henry (@thejedhenry) • Instagram photos and videos](https://www.instagram.com/thejedhenry/)
   - "**Ikigai**" is a Japanese word that means ‘the thing you live for’ or ‘the reason you get up in the morning’. Japan is famous for taking work culture to the extreme, and I am not promoting an unbalanced all-work lifestyle. I believe that we must also spend time finding connection to people, nature, and that which we define as spiritual. .But in reality most of us must also commit a significant slice of our time to our daily toil. I believe it is a good thing to find satisfaction in work. I will continue to reach for the center of this diagram, while also investing in the other equally important areas of life. .What do you think? Is satisfaction in our jobs necessary? Or is it enough to be grateful for a stable livelihood? Is this diagram too idealistic? Or is it missing the point completely?
-  - 你最庆幸自己读过什么书？https://mp.weixin.qq.com/s/5p-3cAWeDC4PyHE171mBEA
+  - [你最庆幸自己读过什么书？](https://mp.weixin.qq.com/s/5p-3cAWeDC4PyHE171mBEA)
     - 小鼹鼠呆呆地望着它，望着自己的土豆，他的心又开始怦怦跳起来。这是我的土豆，不管别人怎样看它，它仍是我的希望。一切的勇气与欢乐又回到了小鼹鼠的身体中。
     - 这世界什么都可能不是你的，无论你曾经为之付出多少！
     - 一切都是选择，永远都有选择.
-  - slogan  
-    - 定位：个人成长 关注个人 自怼
-    - 公众号介绍：
+  - 公号的一些思路  
+    - 定位：个人成长 关注个人在结构里的一些空间/主观能动性 自怼
+    - 公众号头像旁边的介绍：
       - 疲惫生活的英雄梦想
       - 慢慢来 比较快
-      - 挺起胸膛
       - ......
-    - 赞赏 ：viva la vida 生命万岁
+    - slogan
+      - 抬起头颅，挺起胸膛。
+      - 吃饭睡觉，保持可爱。
+    - 赞赏语 ：viva la vida 生命万岁
   - 今天也做饭了 也出去跑步了
   
 ## 200325
@@ -50,14 +52,14 @@ tags: [思考,思维话痨,周更]
   - [微信表情商店游记 – EVA 02](https://design.moe/2019/08/03/journey-to-the-wechat-sticker-shop/)
   
 ## 200326
-  - 动物之森。
+  - 动物之森，想玩。
   - 4%的中国人拥有本科学历
   - 下雨了 中午去吃黄焖排骨的路上走着走着 摔了一跤 穿的 ugg 和地面的摩擦感很强 。
   - 下班和一位同事碰到，那名同事每天都打扮的漂漂亮亮的，这也是对生活的态度吧。豆瓣上看到一句，只有人间的一些烟火气，才是活下去的理由。
   - 晚上自己煮了火鸡面。
   - 你国又要拍连续剧《在一起》，然后看到一则豆瓣广播，说自己的亲戚曾经跟孙红雷一起吃饭，孙红雷说演员有政治任务，没办法。我心想？他不喜欢可以拒绝呀，不能拒绝一定是代价很大，或者是担心前途之类的。从个人的角度上想，这个决策没错呀。但是每个人都不想成为代价，一步一步的所有人承担更大的代价，还是回到了囚徒困境。也想到詹青云在看理想说的，平庸之恶，能不能思维广阔一些。或许 ......这一切都和时间尺度有关？有时候短期利益和长期是矛盾的。
   - 看到大妈公众号：[导向自由的律令](https://mp.weixin.qq.com/s/KdGBJhsvQjAsaQfLeR24Jg) ：在这破空而去的步骤中，我们必须掌握一个简单的条件——经济独立、精神独立 。大妈回复我一个细节：经济独立 -> 精神独立其实细思极恐。三毛是这个次序过来的,之所以,感觉不合理, 正是因为是这么过来的,而且知道绝大多数人都必须这么来...其实, 和你领悟到要先社会人, 然后, 才可能作回自己一样的哪...如果不吃亏, 不怂,如何知道这种无奈的现实是不合理, 但是, 合情理的?
-  - 于是我俩直接在蟒营群里和大妈小聊了一下精神独立的话题。下周发W2W好了，写文章的mvp是啥？这种开放性的命题作文 发散太多就是 chaos 。 #whatis #w2w
+  - 于是我俩直接在蟒营群里和大妈小聊了一下精神独立的话题。下周发W2W好了，写文章的mvp是啥？这种开放性的命题作文 发散太多就是 chaos 。
     - 为什么要精神独立？（目的/好处是啥？）自由和束缚相关。
     - 精神 + 独立
     - 不独立？（要依靠/依附别人）
@@ -106,9 +108,9 @@ tags: [思考,思维话痨,周更]
   -  我的报复性熬夜就是侧躺在床上，灯也都关了，一开始困了后来不困了，但是还要刷手机两个小时。
   - 和 Kr 讨论，得知以前的同事大侠在字节跳动上班，我感慨人家的职业路真的很不错，Kr  边缘人才有力量，哈哈，我说我也不是不自信，只是有时候还是会羡慕大厂吧，世俗成功。[The Power of the Marginal](http://www.paulgraham.com/marginal.html) ，边缘人的力量。
   - 5 个小时出了一篇文章:[什么是自怼？ · 阿宁](http://www.huyuning.com/%E4%B8%8D%E8%83%BD%E8%AE%A9%E4%BD%A0%E7%9F%A5%E9%81%93%E6%88%91%E7%9A%84%E5%A4%A7%E8%84%91%20%7C%20%E6%80%9D%E8%80%83/2020/03/29/what_is_debuguself/) , 2000  字，也发起了下一周的换文：[\[W2W\] 什么是精神独立？ · Issue #873 · DebugUself/du4proto](https://github.com/DebugUself/du4proto/issues/873) 。
-  - 但昨天晚上刷手机是值得的，看了一个关于书籍的纪录片的 01 + 05 ，一共六个人。
+  - 但**昨天晚上刷手机是值得的**，看了一个关于书籍的纪录片的 01 + 05 ，一共六个人。
     - 第一集三个人。1.朱岳-后浪文学，发现好的原创文学推广到大众面前，“寂寞的游戏”的成功让他想把编辑当作人生志业。2.余国林，古文校对。看到郑天庭日记，眼睛放光。这个项目跨越 13 年才说服他家人出版。3.拉文翻译，范晔。26分钟，念西语太好听了。百年独孤译者。 [但是还有书籍：第1集_纪录片_bilibili_哔哩哔哩](https://www.bilibili.com/bangumi/play/ep299985?from=search&seid=15046879925225241314)
-    - 第三集也是三个人。1. .拍北京地铁看书。不经意播出的一颗种子慢慢长大。2.B站up主，小隐，在上海季风书院实习过！读书还是要分享，要交流，现在在英国读书。3.杨早。专业读书人，阅读推广人，“走读”让人我眼前一亮。读书要思考，交流，写作，说也是一种表达。即时的，混乱的表达。
+    - 第三集也是三个人。1.拍北京地铁看书。不经意播出的一颗种子慢慢长大。2.B站up主，小隐，在上海季风书院实习过！读书还是要分享，要交流，现在在英国读书。3.杨早。专业读书人，阅读推广人，“走读”让人我眼前一亮。读书要思考，交流，写作，说也是一种表达。即时的，混乱的表达。
   - 发现了一个关于耶鲁教授讲死亡的公开课：[耶鲁大学：哲学-死亡_哔哩哔哩 (゜-゜)つロ 干杯~-bilibili](https://www.bilibili.com/video/BV1P7411C7Gz?p=2)
   - 加入了翻译 [建筑的永恒之道 (豆瓣)](https://book.douban.com/subject/1177968/) 的群中，挖坑越来越多了。
   - [武汉殡葬工自述：疫情下小人物的生死劫](https://mp.weixin.qq.com/s?__biz=MzIyMzU0Mzg4OA==&mid=2247484409&idx=1&sn=89f3f2d857b53d54093b8f951daa24b8&chksm=e81dd4c6df6a5dd0832790d8aef44da40c850da5906efb31c5701c65c9752053e6246acad03e&dt_dapp=1#rd)，后来文章作者被武汉网信办找了。艹。 --> 后来又说这个作者抄袭？有点不懂了
