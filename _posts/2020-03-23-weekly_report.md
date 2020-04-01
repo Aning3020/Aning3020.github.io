@@ -38,7 +38,7 @@ tags: [思考,思维话痨,周更]
 ## 200325
   - **说服力 PPT 这本书的金字塔结构自上而下 ，自下而上**，再结合王佩的螺旋阶梯，很有启发。
   - 昨天半夜补了我的天才女友第二季 看完有点内伤 莉拉和莱纳都很漂亮 我发现有冲突的部分因为不忍看而看不下去。冲突可能是我想要观察的一个主题。
-  - 随机波动：[无尽的那不勒斯 | 天才女友男友的一次协同写作](https://mp.weixin.qq.com/s/yAFmJAse4o2wz5HcozxSgA) 。其中理论和生活（现实）的关系 蛮有意思。从原创的角度考虑，每个人的生活/现实/行动/经验，本身都是一手资料，而思想上的东西，或者主题，就是那些。 #发现真理的一瞬间 
+  - 随机波动：[无尽的那不勒斯-天才女友男友的一次协同写作](https://mp.weixin.qq.com/s/yAFmJAse4o2wz5HcozxSgA) 。其中理论和生活（现实）的关系 蛮有意思。从原创的角度考虑，每个人的生活/现实/行动/经验，本身都是一手资料，而思想上的东西，或者主题，就是那些。 #发现真理的一瞬间 
     - 理论和经验
     - 认知和行动
     - 抽象和具象
@@ -72,8 +72,8 @@ tags: [思考,思维话痨,周更]
   - [信息简史 (豆瓣)](https://book.douban.com/subject/25752043/)
   - rss 弄了半天还是不行，  艹 jekyll 的 gem 真他妈难弄
   - 缘缘博客装修了一番呐，看完有想弄博客 + 写文的冲动。
-    - [认知矛盾 | 素生](http://z.arlmy.me/posts/Complicated/200313_CognitiveContradiction/)
-    - [必要的事 | 素生](http://z.arlmy.me/posts/Complicated/200320_AntiSilence/)
+    - [认知矛盾 - 素生](http://z.arlmy.me/posts/Complicated/200313_CognitiveContradiction/)
+    - [必要的事 - 素生](http://z.arlmy.me/posts/Complicated/200320_AntiSilence/)
   - 课程设计师方柏林：网课不是线下课堂的复制粘贴，是对原有教育理念的冲击 ：https://mp.weixin.qq.com/s/Y54vZkBSClcHG9RBvRm4Kg
   - [建筑的永恒之道 (豆瓣)](https://book.douban.com/subject/1177968/) 。要看。
   
@@ -87,7 +87,7 @@ tags: [思考,思维话痨,周更]
     - 畅销书作家 Stephen King 在他的《谈写作》一书中写道：“如果你想成为一名作家，你得先做两件事：多读、多写。”
     - 不要写太多，经常写信。这个建议其实好几个作者都提到过，如果能每天写30分钟，用1000字表达清楚一个观点，很好！不要试图凑字数，事实上，很多3000字以上的文章在网上都没有人愿意看，与其废话连篇，不如简简单单。
     - 写作没有捷径可走，走到你的书桌前，从那里开始写吧。记住，是每一天。
-  - [如何写下去？ | | TRAVEL YOGI](http://jiangbei22.com/how-to-write-consistently/#more-2093) , 感觉这种小短文，然后是自己精炼的思考，原创的页行，不用太长文。
+  - [如何写下去？ -TRAVEL YOGI](http://jiangbei22.com/how-to-write-consistently/#more-2093) , 感觉这种小短文，然后是自己精炼的思考，原创的页行，不用太长文。
     - 没有所谓的“正确的写作方式”，这就好像养育孩子也没有任何秘诀。但是我至少能列举出三种能毁掉写作者的方法：急！懒！昏！
     - 了解要写的话题——收集信息——策划内容 贴近读者
   - 胡涂说: https://hutusi.com/ ，这个博客ui也不错。
