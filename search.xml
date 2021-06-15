@@ -37,37 +37,6 @@
     
     
     <entry>
-      <title>周记_210531</title>
-      <link href="/2021/05/31/2021-05-31-weekly_record/"/>
-      <url>/2021/05/31/2021-05-31-weekly_record/</url>
-      
-        <content type="html"><![CDATA[<ul><li>一. </li><li>二. </li><li>三. </li><li>金句: 「」</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
-      
-      
-      <categories>
-          
-          <category> 周记｜生活&amp;想法 </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 社交 </tag>
-            
-            <tag> 旅行 </tag>
-            
-            <tag> 佛教 </tag>
-            
-            <tag> 身体 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>周记_210524</title>
       <link href="/2021/05/24/2021-05-24-weely_record/"/>
       <url>/2021/05/24/2021-05-24-weely_record/</url>
