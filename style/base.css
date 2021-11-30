@@ -8,7 +8,7 @@
   --top-bar-bg-color: rgba(255, 255, 255, 0.8);
   --border-line-color-2: rgba(0, 0, 0, 0.03);
   --border-line-color: rgba(0, 0, 0, 0.05);
-  --blockquote-border-color: #dbdbdb;
+  --blockquote-border-color: #ca4d4d;
   --table-border-color: #dbdbdb;
   --pre-code-bg-color: #f5f5f573;
   --skeleton-bg-color: #f5f5f5;
@@ -40,7 +40,7 @@
   --top-bar-bg-color: rgba(255, 255, 255, 0.8);
   --border-line-color-2: rgba(0, 0, 0, 0.03);
   --border-line-color: rgba(0, 0, 0, 0.05);
-  --blockquote-border-color: #dbdbdb;
+  --blockquote-border-color: #ca4d4d;
   --table-border-color: #dbdbdb;
   --pre-code-bg-color: #f5f5f573;
   --skeleton-bg-color: #f5f5f5;
@@ -97,11 +97,11 @@
   :root body .tag.post-item-tag {
     margin-right: 5px;
     font-weight: bold;
-    color: darkorange;
+    color: #ca4d4d;
     font-style: normal;
     border-radius: 10px;
     background: transparent;
-    border: 2px solid darkorange; }
+    border: 1px solid; }
   :root body .button.is-default {
     height: 40px;
     border: none;
