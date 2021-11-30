@@ -97,12 +97,12 @@
       font-weight: bold; }
   :root body .tag.post-item-tag {
     margin-right: 5px;
+    color: #cb4f4f;
     font-weight: bold;
-    color: #ca4d4d;
     font-style: normal;
     border-radius: 10px;
     background: transparent;
-    border: 1px solid; }
+    border: 2px solid; }
   :root body .button.is-default {
     height: 40px;
     border: none;
