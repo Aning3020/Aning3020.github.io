@@ -96,8 +96,8 @@
       color: black;
       font-weight: bold; }
   :root body .tag.post-item-tag {
-    margin-right: 5px;
-    color: #cb4f4f;
+    margin-right: 4px;
+    color: #c66565;
     font-weight: bold;
     font-style: normal;
     border-radius: 10px;
