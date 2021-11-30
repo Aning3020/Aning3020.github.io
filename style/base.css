@@ -8,7 +8,7 @@
   --top-bar-bg-color: rgba(255, 255, 255, 0.8);
   --border-line-color-2: rgba(0, 0, 0, 0.03);
   --border-line-color: rgba(0, 0, 0, 0.05);
-  --blockquote-border-color: #ca4d4d;
+  --blockquote-border-color: #595656;
   --table-border-color: #dbdbdb;
   --pre-code-bg-color: #f5f5f573;
   --skeleton-bg-color: #f5f5f5;
@@ -40,7 +40,7 @@
   --top-bar-bg-color: rgba(255, 255, 255, 0.8);
   --border-line-color-2: rgba(0, 0, 0, 0.03);
   --border-line-color: rgba(0, 0, 0, 0.05);
-  --blockquote-border-color: #ca4d4d;
+  --blockquote-border-color: #595656;
   --table-border-color: #dbdbdb;
   --pre-code-bg-color: #f5f5f573;
   --skeleton-bg-color: #f5f5f5;
@@ -89,6 +89,8 @@
   margin: 0;
   height: 100vh;
   padding-top: 45px; }
+  :root body p.bold {
+    color: black; }
   :root body a {
     color: inherit; }
     :root body a:hover, :root body a:hover .iconfont {
@@ -97,7 +99,7 @@
       font-weight: bold; }
   :root body .tag.post-item-tag {
     margin-right: 4px;
-    color: #c66565;
+    color: #cb4f4f;
     font-weight: bold;
     font-style: normal;
     border-radius: 10px;
