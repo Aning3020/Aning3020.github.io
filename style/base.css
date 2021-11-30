@@ -92,8 +92,9 @@
   :root body a {
     color: inherit; }
     :root body a:hover, :root body a:hover .iconfont {
-      text-decoration: none;
-      color: #3273dc !important; }
+      text-decoration: underline;
+      color: black;
+      font-weight: bold; }
   :root body .tag.post-item-tag {
     margin-right: 5px;
     font-weight: bold;
