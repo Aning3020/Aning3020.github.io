@@ -73,10 +73,8 @@
       color: var(--primary-text-color) !important; }
     :root.appearance-dark hr, :root.appearance-auto hr, :root.appearance-light hr {
       background: var(--third-bg-color); }
-    :root.appearance-dark p, :root.appearance-dark dl, :root.appearance-dark ul, :root.appearance-dark ol, :root.appearance-dark cite, :root.appearance-auto p, :root.appearance-auto dl, :root.appearance-auto ul, :root.appearance-auto ol, :root.appearance-auto cite, :root.appearance-light p, :root.appearance-light dl, :root.appearance-light ul, :root.appearance-light ol, :root.appearance-light cite {
+    :root.appearance-dark p, :root.appearance-dark srtong, :root.appearance-dark dl, :root.appearance-dark ul, :root.appearance-dark ol, :root.appearance-dark cite, :root.appearance-auto p, :root.appearance-auto srtong, :root.appearance-auto dl, :root.appearance-auto ul, :root.appearance-auto ol, :root.appearance-auto cite, :root.appearance-light p, :root.appearance-light srtong, :root.appearance-light dl, :root.appearance-light ul, :root.appearance-light ol, :root.appearance-light cite {
       color: var(--second-text-color); }
-    :root.appearance-dark strong, :root.appearance-auto strong, :root.appearance-light strong {
-      color: #292929; }
     :root.appearance-dark .post-container span, :root.appearance-dark .about-page span, :root.appearance-auto .post-container span, :root.appearance-auto .about-page span, :root.appearance-light .post-container span, :root.appearance-light .about-page span {
       color: var(--second-text-color); }
     :root.appearance-dark .content blockquote, :root.appearance-auto .content blockquote, :root.appearance-light .content blockquote {
