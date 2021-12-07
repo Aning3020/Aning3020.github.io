@@ -24,7 +24,7 @@
     transform: translateY(0); }
 
 .post-page .post-content a {
-  text-decoration: underline; }
+  text-decoration: underline #1e2223; }
 
 .post-page .post-content code {
   border-radius: 4px;
