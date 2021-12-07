@@ -23,6 +23,9 @@
     transition: none;
     transform: translateY(0); }
 
+.post-page .post-content a {
+  text-decoration: underline; }
+
 .post-page .post-content code {
   border-radius: 4px;
   background: var(--third-bg-color); }
@@ -48,7 +51,7 @@
   will-change: opacity; }
 
 .post-page .post-content a {
-  color: #3273dc; }
+  color: #black; }
 
 .post-page .jump-container .button {
   max-width: calc(50% - 5px); }
@@ -77,7 +80,7 @@
     margin-left: 15px;
     list-style: none !important; }
   .post-page .toc .is-active span {
-    color: #3273dc !important; }
+    color: #black !important; }
 
 .post-page :target {
   padding-top: 60px;
