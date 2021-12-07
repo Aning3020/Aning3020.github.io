@@ -95,7 +95,7 @@
   :root body a {
     color: #1e2223; }
     :root body a:hover, :root body a:hover .iconfont {
-      text-decoration: underline;
+      text-decoration: underline black;
       font-weight: bold; }
   :root body .tag.post-item-tag {
     margin-right: 4px;
