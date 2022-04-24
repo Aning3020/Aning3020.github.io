@@ -36,7 +36,7 @@
   .post-container .post-item-card .post-card-content {
     word-break: break-word; }
     .post-container .post-item-card .post-card-content time {
-      font-size: 14px; }
+      font-size: 15px; }
 
 .post-container .aside-card-container {
   padding: 10px;
@@ -191,4 +191,4 @@
   .post-container .paginator .page-number.current,
   .post-container .paginator .extend.current {
     color: #fff !important;
-    background: #3273dc; }
+    background: #black; }
