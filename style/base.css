@@ -98,11 +98,11 @@
       text-decoration: underline black;
       font-weight: bold; }
   :root body .tag.post-item-tag {
-    margin-right: 4px;
+    margin-right: 3px;
     color: #d36568;
     font-weight: bold;
     font-style: normal;
-    border-radius: 14px;
+    border-radius: 12px;
     background: transparent;
     border: 2px solid; }
   :root body .button.is-default {
