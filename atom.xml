@@ -550,9 +550,9 @@
     <link href="http://www.huyuning.com/2022/04/01/2022-04-01-moment/"/>
     <id>http://www.huyuning.com/2022/04/01/2022-04-01-moment/</id>
     <published>2022-03-31T16:00:00.000Z</published>
-    <updated>2022-04-03T15:15:54.597Z</updated>
+    <updated>2024-08-15T11:26:16.087Z</updated>
     
-    <content type="html"><![CDATA[<p><strong>I feel peace &amp; love this moment</strong>.</p><p>刚把这个大实木桌子拿进卧室当书桌，左边两个灯，一个宜家古铜灯，一个小鸭灯的光线暗暗的很舒服。坐在桌前，听<a href="https://soundcloud.com/lost-in-lofi">shining in Explore | Ambient Lofi Mix</a></p><p><img src="https://user-images.githubusercontent.com/20737239/161308510-35927c9b-1f2c-4a8e-93ae-e6e887154616.JPG" alt="01030E8C-E18F-4215-967E-486F34089F6E"></p><h2 id="changelog"><a href="#changelog" class="headerlink" title="changelog"></a>changelog</h2><ul><li>2022-04-02 阿宁init</li></ul><script>        document.querySelectorAll('.github-emoji')          .forEach(el => {            if (!el.dataset.src) { return; }            const img = document.createElement('img');            img.style = 'display:none !important;';            img.src = el.dataset.src;            img.addEventListener('error', () => {              img.remove();              el.style.color = 'inherit';              el.style.backgroundImage = 'none';              el.style.background = 'none';            });            img.addEventListener('load', () => {              img.remove();            });            document.body.appendChild(img);          });      </script>]]></content>
+    <content type="html"><![CDATA[<p><strong>I feel peace &amp; love this moment</strong>.</p><p>刚把这个大实木桌子拿进卧室当书桌，左边两个灯，一个宜家古铜灯，一个小鸭灯的光线暗暗的很舒服。坐在桌前，听<a href="https://soundcloud.com/lost-in-lofi">shining in Explore | Ambient Lofi Mix</a></p><p><img src="https://user-images.githubusercontent.com/20737239/161308510-35927c9b-1f2c-4a8e-93ae-e6e887154616.JPG" alt="01030E8C-E18F-4215-967E-486F34089F6E"></p><h2 id="changelog"><a href="#changelog" class="headerlink" title="changelog"></a>changelog</h2><ul><li>2022-04-02 阿宁init</li></ul>]]></content>
     
     
       
@@ -563,10 +563,12 @@
     
     
     
-    <category term="Moment" scheme="http://www.huyuning.com/categories/Moment/"/>
+    <category term="想要永远活下去" scheme="http://www.huyuning.com/categories/%E6%83%B3%E8%A6%81%E6%B0%B8%E8%BF%9C%E6%B4%BB%E4%B8%8B%E5%8E%BB/"/>
     
     
     <category term="peace&amp;love" scheme="http://www.huyuning.com/tags/peace-love/"/>
+    
+    <category term="moment" scheme="http://www.huyuning.com/tags/moment/"/>
     
   </entry>
   
