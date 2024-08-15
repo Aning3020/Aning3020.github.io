@@ -19,7 +19,7 @@
 <p>疫情期间，大概小一个月的时间，我每天除了睡觉和吃饭，几乎全部时间都在刷手机，看新闻，浏览武汉相关的疫情帖子，自然，自己新年假期的自修与精进计划全部停摆。每天刷手机浏览疫情贴虽然隔着一块屏幕，但看到每个悲惨的个案却觉得就发生在我身边。如果武汉政府早期做的好一些，一刀切的政策少一些，红十字的物资发放的快一些，情况绝不至于恶化至此。我感到愤怒，悲伤，无助，恐慌，绝望。</p>
 <p>我知道能共情，有同理心是好事，但我也知道，一个人是没法接连一个月都承受这么多情绪的，再这样下去自己会废掉。于是有一天晚上找 <strong>知心大妈 Zoom Quiet</strong> 私聊解惑。</p>
 <p>大妈倒是一副淡定的吐槽：“真正有能力的人, 都在行动, 而不是焦虑…其实, 我们多数的情绪, 不过是因为我们自己的无能。”“年轻人空耗掉这些荷尔蒙，就是书读太少，想的太多” …… 不过吐槽之余还是给出了对策：做创造性的活动，找到相似的人一起做创造性活动，你们可以去核实新闻（fact check） ，也可以去联系武汉当地人听真正的一手消息，可以自己攒钱等疫情褪去到武汉帮忙做义工，再不济也可以写下自己成熟的思考等云云。</p>
-<p>听完后，我之前那种完全失序的感觉小一些了，有启发也仍困惑：其实我一切情绪的由来是那头房间里的大象，而我想问的是怎么对抗房间里的大象。然而，这个问题没等我问，现实就教育我了，和大妈交流完没过两天，我就莫名其妙地被动触发一个事件，需要和大象的一根汗毛交兵过招，交锋中我才发现自己真是何其天真：<strong>呵呵，你能对抗个毛线</strong>！过招文章参考：1. <a href="http://www.huyuning.com/2019-ncov/2020/02/13/admonish&amp;admonish/">一个轮回：训诫的训诫（day1）</a> 2. <a href="http://www.huyuning.com/2019-ncov/2020/02/14/entrapment-operation/">训诫后的钓鱼执法 (day2)</a> 。</p>
+<p>听完后，我之前那种完全失序的感觉小一些了，有启发也仍困惑：其实我一切情绪的由来是那头房间里的大象，而我想问的是怎么对抗房间里的大象。然而，这个问题没等我问，现实就教育我了，和大妈交流完没过两天，我就莫名其妙地被动触发一个事件，需要和大象的一根汗毛交兵过招，交锋中我才发现自己真是何其天真：<strong>呵呵，你能对抗个毛线</strong>！过招文章参考：1. <a href="http://www.huyuning.com/2019-ncov/2020/02/13/admonish&admonish/">一个轮回：训诫的训诫（day1）</a> 2. <a href="http://www.huyuning.com/2019-ncov/2020/02/14/entrapment-operation/">训诫后的钓鱼执法 (day2)</a> 。</p>
 <p>这次事件让我觉得我应该研究一下网络安全专题，这样以后应对能更从容，自己也会更安全。但，碍于懒，我没有立刻展开。时间又溜走了一些时日，我又开始内耗很多，啥也不想干，逐渐滑落进无序，直到有一个晚上这种虚空，压抑，说不清道不明的负面情绪到了一个峰值，我感到难受极了的时候，突然想到网络安全的话题，对阿，我为什么不马上开始做一些事情呢，这样自己对自己内耗有啥用呢？so ，我立刻打开电脑，投入到网络安全话题的探索，折腾了几天的结果就是我发现自己完全失序的状态几乎消失，很专注，也求解到了一些想掌握的知识，开始变得开心和正面。</p>
 <p>也就在我在探索网络安全专题的同时，我联想到大妈的蟒营教学方式：行动 - 提问 直到学会。又想到大妈一篇文章 -《如何应对新冠文章系列》：任何进步都是成就，而且是自己独有的, 别人任何人/组织/机构/部门/…都无权也无法评判的。再联想到大妈是一个无政府的个人主义者，我突然知道了自怼的意思，整理如下：（<strong>没错，就是一连串的顿悟 ，一个电光石火，哈哈哈</strong>）</p>
 <blockquote>
@@ -43,22 +43,4 @@
 <li>200329 5h 完成</li>
 <li>200322 创建</li>
 </ul>
-<script>
-        document.querySelectorAll('.github-emoji')
-          .forEach(el => {
-            if (!el.dataset.src) { return; }
-            const img = document.createElement('img');
-            img.style = 'display:none !important;';
-            img.src = el.dataset.src;
-            img.addEventListener('error', () => {
-              img.remove();
-              el.style.color = 'inherit';
-              el.style.backgroundImage = 'none';
-              el.style.background = 'none';
-            });
-            img.addEventListener('load', () => {
-              img.remove();
-            });
-            document.body.appendChild(img);
-          });
-      </script></article><section class="jump-container is-flex is-justify-content-space-between my-6"><!-- em is empty placeholder--><a class="button is-default" href="/2020/03/30/2020-03-30-weekly_report/" title="周刊_200330"><i class="iconfont icon-prev mr-2 has-text-grey"></i><span class="has-text-weight-semibold">Previous: 周刊_200330</span></a><a class="button is-default" href="/2020/03/23/2020-03-23-weekly_report/" title="周刊_200323"><span class="has-text-weight-semibold">Next: 周刊_200323</span><i class="iconfont icon-next ml-2 has-text-grey"></i></a></section><article class="mt-6 comment-container"><script async repo="Aning3020/Aning3020.github.io" src="https://utteranc.es/client.js" issue-term="pathname" theme="preferred-color-scheme"></script></article></div></div></main></main><footer class="is-flex is-flex-direction-column is-align-items-center is-flex-shrink-0 is-family-serif"><section class="sns-container"><!-- Github--><a title="github" target="_blank" rel="noopener nofollow" href="//github.com/Aning3020"><i class="iconfont icon-github"></i></a><!-- Ins--><a title="instagram" target="_blank" rel="noopener nofollow" href="//www.instagram.com/huyuning1993"><i class="iconfont icon-ins"></i></a><!-- RSS--><!-- 知乎--><!-- 领英--><!-- 脸书--></section><p><span>Copyright © 2017-</span><span> 2024 老胡(阿宁)</span></p><div class="is-flex is-justify-content-center is-flex-wrap-wrap"><p>Powered by Hexo &verbar;&nbsp;</p><p class="is-flex is-justify-content-center"><a title="Hexo theme author" target="_blank" rel="noopener" href="//github.com/haojen">Theme by Haojen&nbsp;</a></p><div style="margin-top: 2px"><a class="github-button" title="github-button" target="_blank" rel="noopener" href="https://github.com/haojen/hexo-theme-Claudia" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true"></a></div></div><div><span></span></div></footer><script async defer src="https://buttons.github.io/buttons.js"></script><script src="/js/post.js"></script></body></html>
+</article><section class="jump-container is-flex is-justify-content-space-between my-6"><!-- em is empty placeholder--><a class="button is-default" href="/2020/03/30/2020-03-30-weekly_report/" title="周刊_200330"><i class="iconfont icon-prev mr-2 has-text-grey"></i><span class="has-text-weight-semibold">Previous: 周刊_200330</span></a><a class="button is-default" href="/2020/03/23/2020-03-23-weekly_report/" title="周刊_200323"><span class="has-text-weight-semibold">Next: 周刊_200323</span><i class="iconfont icon-next ml-2 has-text-grey"></i></a></section><article class="mt-6 comment-container"><script async repo="Aning3020/Aning3020.github.io" src="https://utteranc.es/client.js" issue-term="pathname" theme="preferred-color-scheme"></script></article></div></div></main></main><footer class="is-flex is-flex-direction-column is-align-items-center is-flex-shrink-0 is-family-serif"><section class="sns-container"><!-- Github--><a title="github" target="_blank" rel="noopener nofollow" href="//github.com/Aning3020"><i class="iconfont icon-github"></i></a><!-- Ins--><a title="instagram" target="_blank" rel="noopener nofollow" href="//www.instagram.com/huyuning1993"><i class="iconfont icon-ins"></i></a><!-- RSS--><!-- 知乎--><!-- 领英--><!-- 脸书--></section><p><span>Copyright © 2017-</span><span> 2024 老胡(阿宁)</span></p><div class="is-flex is-justify-content-center is-flex-wrap-wrap"><p>Powered by Hexo &verbar;&nbsp;</p><p class="is-flex is-justify-content-center"><a title="Hexo theme author" target="_blank" rel="noopener" href="//github.com/haojen">Theme by Haojen&nbsp;</a></p><div style="margin-top: 2px"><a class="github-button" title="github-button" target="_blank" rel="noopener" href="https://github.com/haojen/hexo-theme-Claudia" data-color-scheme="no-preference: light; light: light; dark: dark;" data-show-count="true"></a></div></div><div><span></span></div></footer><script async defer src="https://buttons.github.io/buttons.js"></script><script src="/js/post.js"></script></body></html>
