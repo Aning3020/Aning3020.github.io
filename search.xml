@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>博客复活记</title>
+      <link href="/2026/06/04/2026-06-04-BlogRevivalFromSDCardtoGitHub/"/>
+      <url>/2026/06/04/2026-06-04-BlogRevivalFromSDCardtoGitHub/</url>
+      
+        <content type="html"><![CDATA[<p>博客复活与迁移成功。<br>yessss!✨</p><hr><p>从回到大理把老电脑翻出来。<br>到给老电脑买电脑充电器，<br>能开机后用 SD 卡运装博客原始资料<br>到 SD 卡插进新电脑，差点出乌龙<br>到今日和 chatgpt 一起完成新电脑的 Hexo 环境重建、GitHub SSH 认证、主题样式修复与博客重新部署。</p><p>历经两三个小时重装，最终：</p><p>✅ 博客内容恢复<br>✅ GitHub 连接恢复<br>✅ Hexo 部署恢复<br>✅ 主题样式恢复<br>✅ 头像与配置恢复<br>✅ 域名正常访问</p><p>从 2017 年至今的记录与足迹脚印，再次上线，完成复活。<br>cheers!</p><hr><p>20260604 15:02, thursday<br>老胡 大理银桥</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> blog </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> blog </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>2024 启发大的书 | 上半年</title>
       <link href="/2024/08/15/2024-08-15-2024readinglist/"/>
       <url>/2024/08/15/2024-08-15-2024readinglist/</url>
@@ -23,31 +48,6 @@
             <tag> wisdom </tag>
             
             <tag> readinglist </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>博客复活记</title>
-      <link href="/2024/08/15/2026-06-04-BlogRevivalFromSDCardtoGitHub/"/>
-      <url>/2024/08/15/2026-06-04-BlogRevivalFromSDCardtoGitHub/</url>
-      
-        <content type="html"><![CDATA[<p>博客复活与迁移成功。<br>yessss!✨</p><hr><p>从回到大理把老电脑翻出来。<br>到给老电脑买电脑充电器，<br>能开机后用 SD 卡运装博客原始资料<br>到 SD 卡插进新电脑，差点出乌龙<br>到今日和 chatgpt 一起完成新电脑的 Hexo 环境重建、GitHub SSH 认证、主题样式修复与博客重新部署。</p><p>历经两三个小时重装，最终：</p><p>✅ 博客内容恢复<br>✅ GitHub 连接恢复<br>✅ Hexo 部署恢复<br>✅ 主题样式恢复<br>✅ 头像与配置恢复<br>✅ 域名正常访问</p><p>从 2017 年至今的记录与足迹脚印，再次上线，完成复活。<br>cheers!</p><hr><p>20240805 老胡 20260604 15:02, 大理银桥</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> blog </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> blog </tag>
             
         </tags>
       
@@ -561,9 +561,9 @@
             
             <tag> notion </tag>
             
-            <tag> 上海封城记 </tag>
-            
             <tag> blog </tag>
+            
+            <tag> 上海封城记 </tag>
             
         </tags>
       
@@ -627,9 +627,9 @@
             
             <tag> notion </tag>
             
-            <tag> blog </tag>
-            
             <tag> 张爱玲 </tag>
+            
+            <tag> blog </tag>
             
         </tags>
       
@@ -1182,9 +1182,9 @@
             
             <tag> 亲密关系 </tag>
             
-            <tag> 灵魂占星 </tag>
-            
             <tag> 现金流游戏 </tag>
+            
+            <tag> 灵魂占星 </tag>
             
             <tag> 财商 </tag>
             
@@ -1852,11 +1852,11 @@
             
             <tag> 播客 </tag>
             
+            <tag> 投资 </tag>
+            
             <tag> 女权 </tag>
             
             <tag> 海马星球 </tag>
-            
-            <tag> 投资 </tag>
             
         </tags>
       
@@ -3203,9 +3203,9 @@
       
         <tags>
             
-            <tag> 动森 </tag>
-            
             <tag> what_is_xxx </tag>
+            
+            <tag> 动森 </tag>
             
             <tag> 睡眠 </tag>
             
@@ -3263,9 +3263,9 @@
       
         <tags>
             
-            <tag> 精神独立 </tag>
-            
             <tag> what_is_xxx </tag>
+            
+            <tag> 精神独立 </tag>
             
         </tags>
       
@@ -4799,9 +4799,9 @@
             
             <tag> 阅读 </tag>
             
-            <tag> 存在 </tag>
-            
             <tag> 痛苦 </tag>
+            
+            <tag> 存在 </tag>
             
         </tags>
       
@@ -5228,11 +5228,11 @@
       
         <tags>
             
+            <tag> 故事 </tag>
+            
             <tag> 原创 </tag>
             
             <tag> 虚构 </tag>
-            
-            <tag> 故事 </tag>
             
         </tags>
       
@@ -5282,11 +5282,11 @@
       
         <tags>
             
+            <tag> 故事 </tag>
+            
             <tag> 原创 </tag>
             
             <tag> 虚构 </tag>
-            
-            <tag> 故事 </tag>
             
         </tags>
       
@@ -5311,11 +5311,11 @@
       
         <tags>
             
-            <tag> 诗 </tag>
-            
             <tag> 原创 </tag>
             
             <tag> 虚构 </tag>
+            
+            <tag> 诗 </tag>
             
         </tags>
       

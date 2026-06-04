@@ -6,7 +6,7 @@
   <link href="http://www.huyuning.com/atom.xml" rel="self"/>
   
   <link href="http://www.huyuning.com/"/>
-  <updated>2024-08-16T12:39:10.000Z</updated>
+  <updated>2026-06-04T07:16:21.057Z</updated>
   <id>http://www.huyuning.com/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>博客复活记</title>
+    <link href="http://www.huyuning.com/2026/06/04/2026-06-04-BlogRevivalFromSDCardtoGitHub/"/>
+    <id>http://www.huyuning.com/2026/06/04/2026-06-04-BlogRevivalFromSDCardtoGitHub/</id>
+    <published>2026-06-03T16:00:00.000Z</published>
+    <updated>2026-06-04T07:16:21.057Z</updated>
+    
+    <content type="html"><![CDATA[<p>博客复活与迁移成功。<br>yessss!✨</p><hr><p>从回到大理把老电脑翻出来。<br>到给老电脑买电脑充电器，<br>能开机后用 SD 卡运装博客原始资料<br>到 SD 卡插进新电脑，差点出乌龙<br>到今日和 chatgpt 一起完成新电脑的 Hexo 环境重建、GitHub SSH 认证、主题样式修复与博客重新部署。</p><p>历经两三个小时重装，最终：</p><p>✅ 博客内容恢复<br>✅ GitHub 连接恢复<br>✅ Hexo 部署恢复<br>✅ 主题样式恢复<br>✅ 头像与配置恢复<br>✅ 域名正常访问</p><p>从 2017 年至今的记录与足迹脚印，再次上线，完成复活。<br>cheers!</p><hr><p>20260604 15:02, thursday<br>老胡 大理银桥</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;博客复活与迁移成功。&lt;br&gt;yessss!✨&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;从回到大理把老电脑翻出来。&lt;br&gt;到给老电脑买电脑充电器，&lt;br&gt;能开机后用 SD 卡运装博客原始资料&lt;br&gt;到 SD 卡插进新电脑，差点出乌龙&lt;br&gt;到今日和 chatgpt 一起完成新电脑的 Hexo</summary>
+      
+    
+    
+    
+    <category term="blog" scheme="http://www.huyuning.com/categories/blog/"/>
+    
+    
+    <category term="blog" scheme="http://www.huyuning.com/tags/blog/"/>
+    
+  </entry>
   
   <entry>
     <title>2024 启发大的书 | 上半年</title>
@@ -42,32 +68,6 @@
     <category term="wisdom" scheme="http://www.huyuning.com/tags/wisdom/"/>
     
     <category term="readinglist" scheme="http://www.huyuning.com/tags/readinglist/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>博客复活记</title>
-    <link href="http://www.huyuning.com/2024/08/15/2026-06-04-BlogRevivalFromSDCardtoGitHub/"/>
-    <id>http://www.huyuning.com/2024/08/15/2026-06-04-BlogRevivalFromSDCardtoGitHub/</id>
-    <published>2024-08-14T16:00:00.000Z</published>
-    <updated>2026-06-04T07:14:24.606Z</updated>
-    
-    <content type="html"><![CDATA[<p>博客复活与迁移成功。<br>yessss!✨</p><hr><p>从回到大理把老电脑翻出来。<br>到给老电脑买电脑充电器，<br>能开机后用 SD 卡运装博客原始资料<br>到 SD 卡插进新电脑，差点出乌龙<br>到今日和 chatgpt 一起完成新电脑的 Hexo 环境重建、GitHub SSH 认证、主题样式修复与博客重新部署。</p><p>历经两三个小时重装，最终：</p><p>✅ 博客内容恢复<br>✅ GitHub 连接恢复<br>✅ Hexo 部署恢复<br>✅ 主题样式恢复<br>✅ 头像与配置恢复<br>✅ 域名正常访问</p><p>从 2017 年至今的记录与足迹脚印，再次上线，完成复活。<br>cheers!</p><hr><p>20240805 老胡 20260604 15:02, 大理银桥</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;博客复活与迁移成功。&lt;br&gt;yessss!✨&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;从回到大理把老电脑翻出来。&lt;br&gt;到给老电脑买电脑充电器，&lt;br&gt;能开机后用 SD 卡运装博客原始资料&lt;br&gt;到 SD 卡插进新电脑，差点出乌龙&lt;br&gt;到今日和 chatgpt 一起完成新电脑的 Hexo</summary>
-      
-    
-    
-    
-    <category term="blog" scheme="http://www.huyuning.com/categories/blog/"/>
-    
-    
-    <category term="blog" scheme="http://www.huyuning.com/tags/blog/"/>
     
   </entry>
   
@@ -603,9 +603,9 @@
     
     <category term="notion" scheme="http://www.huyuning.com/tags/notion/"/>
     
-    <category term="上海封城记" scheme="http://www.huyuning.com/tags/%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E8%AE%B0/"/>
-    
     <category term="blog" scheme="http://www.huyuning.com/tags/blog/"/>
+    
+    <category term="上海封城记" scheme="http://www.huyuning.com/tags/%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E8%AE%B0/"/>
     
   </entry>
   
