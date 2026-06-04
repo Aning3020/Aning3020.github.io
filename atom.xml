@@ -47,8 +47,8 @@
   
   <entry>
     <title>博客复活记</title>
-    <link href="http://www.huyuning.com/2024/08/15/2026-06-04-blogreborn/"/>
-    <id>http://www.huyuning.com/2024/08/15/2026-06-04-blogreborn/</id>
+    <link href="http://www.huyuning.com/2024/08/15/2026-06-04-BlogRevivalFromSDCardtoGitHub/"/>
+    <id>http://www.huyuning.com/2024/08/15/2026-06-04-BlogRevivalFromSDCardtoGitHub/</id>
     <published>2024-08-14T16:00:00.000Z</published>
     <updated>2026-06-04T07:08:39.234Z</updated>
     
@@ -603,9 +603,9 @@
     
     <category term="notion" scheme="http://www.huyuning.com/tags/notion/"/>
     
-    <category term="blog" scheme="http://www.huyuning.com/tags/blog/"/>
-    
     <category term="上海封城记" scheme="http://www.huyuning.com/tags/%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E8%AE%B0/"/>
+    
+    <category term="blog" scheme="http://www.huyuning.com/tags/blog/"/>
     
   </entry>
   
