@@ -327,9 +327,9 @@
     <category term="wisdom" scheme="http://www.huyuning.com/categories/wisdom/"/>
     
     
-    <category term="wisdom" scheme="http://www.huyuning.com/tags/wisdom/"/>
-    
     <category term="原创" scheme="http://www.huyuning.com/tags/%E5%8E%9F%E5%88%9B/"/>
+    
+    <category term="wisdom" scheme="http://www.huyuning.com/tags/wisdom/"/>
     
     <category term="Note To Self" scheme="http://www.huyuning.com/tags/Note-To-Self/"/>
     
@@ -571,13 +571,13 @@
     
     <category term="lululemon" scheme="http://www.huyuning.com/tags/lululemon/"/>
     
-    <category term="教练" scheme="http://www.huyuning.com/tags/%E6%95%99%E7%BB%83/"/>
-    
     <category term="冥想" scheme="http://www.huyuning.com/tags/%E5%86%A5%E6%83%B3/"/>
     
     <category term="notion" scheme="http://www.huyuning.com/tags/notion/"/>
     
     <category term="blog" scheme="http://www.huyuning.com/tags/blog/"/>
+    
+    <category term="教练" scheme="http://www.huyuning.com/tags/%E6%95%99%E7%BB%83/"/>
     
     <category term="上海封城记" scheme="http://www.huyuning.com/tags/%E4%B8%8A%E6%B5%B7%E5%B0%81%E5%9F%8E%E8%AE%B0/"/>
     
