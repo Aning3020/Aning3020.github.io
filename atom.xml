@@ -6,7 +6,7 @@
   <link href="http://www.huyuning.com/atom.xml" rel="self"/>
   
   <link href="http://www.huyuning.com/"/>
-  <updated>2026-06-05T18:32:02.339Z</updated>
+  <updated>2026-06-05T18:32:35.942Z</updated>
   <id>http://www.huyuning.com/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://www.huyuning.com/2026/06/04/2026-06-04-BlogRevivalFromSDCardtoGitHub/"/>
     <id>http://www.huyuning.com/2026/06/04/2026-06-04-BlogRevivalFromSDCardtoGitHub/</id>
     <published>2026-06-03T16:00:00.000Z</published>
-    <updated>2026-06-05T18:32:02.339Z</updated>
+    <updated>2026-06-05T18:32:35.942Z</updated>
     
     <content type="html"><![CDATA[<p>博客复活与迁移成功。<br>yessss!✨</p><hr><p>从回到大理把老电脑翻出来。<br>到给老电脑买电脑充电器，<br>能开机后,用 SD 卡运装博客原始资料<br>到 SD 卡插进新电脑，差点出乌龙<br>到今日和 chatgpt 一起完成新电脑的 Hexo 环境重建、GitHub SSH 认证、主题样式修复与博客重新部署。</p><p>历经两三个小时重装，最终：</p><p>✅ 博客内容恢复<br>✅ GitHub 连接恢复<br>✅ Hexo 部署恢复<br>✅ 主题样式恢复<br>✅ 头像与配置恢复<br>✅ 域名正常访问</p><p>整体算顺利，但没有一步是理所当然</p><hr><p>从 2017 年至今的记录与足迹脚印，再次上线，完成复活.</p><p>我的每一步都是我的人生故事，都有十足的重量与份量，都弥足珍贵.<br>i love myself ,and cheers!!!💪✨🏹️🔥☁️🧘🥮🌟❤</p><hr><p>20260604 15:02, thursday<br>老胡 大理银桥</p>]]></content>
     
@@ -588,9 +588,9 @@
     <category term="good questions 好问题" scheme="http://www.huyuning.com/categories/good-questions-%E5%A5%BD%E9%97%AE%E9%A2%98/"/>
     
     
-    <category term="好问题" scheme="http://www.huyuning.com/tags/%E5%A5%BD%E9%97%AE%E9%A2%98/"/>
-    
     <category term="书" scheme="http://www.huyuning.com/tags/%E4%B9%A6/"/>
+    
+    <category term="好问题" scheme="http://www.huyuning.com/tags/%E5%A5%BD%E9%97%AE%E9%A2%98/"/>
     
     <category term="金钱" scheme="http://www.huyuning.com/tags/%E9%87%91%E9%92%B1/"/>
     
